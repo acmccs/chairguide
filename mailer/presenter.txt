@@ -1,0 +1,27 @@
+Dear $NAME,
+
+We are looking forward to your presentation at the 24th ACM Conference on Computer and Communications Security next week!  Its great to see that many sessions have been able to arrange practices, and I appreciate all the hard work you are putting into making excellent presentations.
+
+Here is some final information:
+
+- Audio capability: the standard room setup does not include support for audio playback (for example, if you want to play a video with audio from your laptop). If you would like to have audio capability for your presentation, please let me know right away and we will make sure this is available for your presentation (otherwise it will not be).
+
+- Video format: all rooms will be configured for 16:9 aspect video. (Please be aware this is not the default for most presentation programs, including PowerPoint and Keynote. If you use the default 4:3 setting, your slides will appear with black vertical bars at the edges.)  
+
+- Adapters: The projectors will have HDMI inputs (and can support VGA if necessary, but prefer HDMI). You should make sure you have the video adapter you need to connect your laptop to an HDMI projector.
+
+- Presentation time: you have 24 minutes for the prepared part of your presentation. Session chairs will be under strict instructions to indicate that your time is finished at 24 minutes, and to cut you off severely at 25, and to resort to violence if you go beyond 25. Much of the value of a conference like this is the interactions that happen in the Q/A period, and we don't want these getting squeezed.
+
+- Recording talks: all talks will be recorded and posted on the conference's youtube channel. We believe all the speakers agreed to this on your ACM consent forms, and we believe it is a great value to the community to make talks available this way. If you do not want your talk to be recorded and posted, you need to let us know.
+
+- Providing slides: to produce the talk videos, we need your slides. You should provide the volunteer at your session with a copy of your slides on a USB drive they will provide as a PDF or PowerPoint file.
+
+- Offensive content: please avoid promulgating negative stereotypes or perpetuating sexist language in your talks. Your talk should not presume that all hackers are "he"s, all victims are "she"s, or all grandmothers know nothing about computer security.
+
+- Timely arrival: please arrive to your session at least 5 minutes before the scheduled start time and connect with your session chair. You should make sure your laptop is setup to present before the session, and that you are comfortable with the microphone setup.
+
+If you have any questions or concerns, feel free to contact me.
+
+I look forward to seeing everyone in Dallas next week,
+
+--- Dave

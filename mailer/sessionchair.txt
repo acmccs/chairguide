@@ -1,0 +1,21 @@
+Dear $NAME,
+
+Thank you for chairing session $SESSIONID ($SESSIONIDURL) at CCS. Please check the CCS Program to confirm the location for your session.
+
+As chair of the session, you should arrive in the session room at least 10 minutes before the session to help the presenters set up. There should be a student volunteer in your session room to help with collecting the presenters' slides (which we need for producing the videos) and anything else you need help with. Please remind the speakers that the talks are being recorded and if they move away from the podium they will not be visible in the video.
+
+During the session, your main responsibilities are to introduce each speaker, make sure to keep the speakers' presentations within the 24 minutes time, and to manage the Q/A period following the talk. 
+
+I would encourage you to ask the spekaers if there is anything they would like you to mention in the introduction, and to feel free to let you know if they are on the "job market" and to mention that in your introduction if they want. 
+
+You should ask the speakers if they would like to see a countdown clock or manage the time themselves, but remind them that you will enforce a sharp cut-off at 25 minutes if they go over. If you would like an "official CCS powerpoint countdown clock", there is one available at https://github.com/acmccs/sessionclock/raw/master/sessionclock.pptx.
+
+For the Q/A period, it can take some time for the audience to muster up a question, so you should be ready with an initial question to start things if no one in the audience is ready to ask one. Please do encourage people to ask questions, and help the speaker by restating questions that may not be understood. It is rare for there to be any "hostile" questions at a conference like this, but if there is a persistent hostile questioner, it is your responsibility to help the speaker (you can cut things off and suggest that the discussion should continue off-line).
+
+Halloween costumes are encouraged for all session chairs, especially if your session is on Tuesday! Bonus points if your costume is related to the topic of the session you are chairing.
+
+If you have any questions or any problems come up, please email ccs2017pcchairs@gmail.com, and you can also reach me at 434 409 5443.
+
+Cheers,
+
+--- Dave

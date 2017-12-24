@@ -1,0 +1,53 @@
+SessionID,When,Topic,Chair,Session Chair,ChairEmail
+A1,1,Multi-Party Computation 1,Marcel Keller,Marcel Keller,m.keller@bristol.ac.uk
+A2,1,Human Authentication,Jeremiah Blocki,Jeremiah Blocki,jblocki@purdue.edu
+A3,1,Adversarial Machine Learning,Saman Zonouz,Saman Zonouz,samance@gmail.com
+A4,1,Browsers,Joseph Calandrino,Joseph Calandrino,jcalandrino@ftc.gov
+A5,1,Cryptocurrency,Aniket Kate,Aniket Kate,aniket@purdue.edu
+B1,2,Multi-Party Computation 2,Samee Zahur,Samee Zahur,szahur@google.com
+B2,2,Passwords,Hamed Okhravi,Hamed Okhravi,Hamed.okhraci@ll.mit.edu
+B3,2,Investigating Attacks,Georgios Portokalidis,Georgios Portokalidis,georgios.portokalidis@stevens.edu
+B4,2,Privacy Policies,Michael Hicks,Michael Hicks,mwh@cs.umd.edu
+B5,2,Blockchains,Christina Garman,Christina Garman,cgarman@cs.jhu.edu
+C1,3,Oblivious RAM,Yan Huang,Yan Huang,yh33@indiana.edu
+C2,3,World Wide Web of Wickedness,Gianluca Stringhini,Gianluca Stringhini,g.stringhini@ucl.ac.uk
+C3,3,Machine Learning Privacy,Aylin Caliskan,Aylin Caliskan,Aylinc@princeton.edu
+C4,3,From Verification to ABE,Shai Halevi,Shai Halevi,shaih@alum.mit.edu
+C5,3,Using Blockchains,Nicolas Cristin,Nicolas Cristin,nicolasc@cmu.edu
+D1,4,Functional Encryption and Obfuscation,Tal Malkin,Tal Malkin,tal@cs.columbia.edu
+D2,4,Vulnerable Mobile Apps,Yao Liu,Yao Liu,yliu@cse.usf.edu
+D3,4,Logical Side Channels,Mohit Tiwari,Mohit Tiwari,tiwari@austin.utexas.edu
+D4,4,Crypto Primitives,abhi shelat,abhi shelat,a.shelat@northeastern.edu
+D5,4,Network Security,Ivan Martinovic,Ivan Martinovic,ivan.martinovic@cs.ox.ac.uk
+E1,5,Hardening Crypto,Samee Zahur,Samee Zahur,szahur@google.com
+E2,5,Securing Mobile Apps,Kyu Hyung Lee,Kyu Hyung Lee,kyuhlee@uga.edu
+E3,5,Physical Side Channels,Alvaro A. Cardenas,Alvaro A. Cardenas,alvaro.cardenas@utdallas.edu
+E4,5,Adversarial Social Networking,Hao Chen,Hao Chen,chen@ucdavis.edu
+E5,5,Privacy-Preserving Analytics,Yinqian Zhang,Yinqian Zhang,yinqian@cse.ohio-state.edu
+F1,6,Private Set Intersection,XiaoFeng Wang,XiaoFeng Wang,xw7@indiana.edu
+F2,6,Insights from Log(in)s,Trent Jaeger,Trent Jaeger,tjaeger@cse.psu.edu
+F3,6,Crypto Pitfalls,Guanhua Yan,Guanhua Yan,ghyan@binghamton.edu
+F4,6,Private Queries,Amir Houmansadr,Amir Houmansadr <amir@cs.umass.edu>,amir@cs.umass.edu
+F5,6,Understanding Security Fails,Nick Nikiforakis,Nick Nikiforakis,nick@cs.stonybrook.edu
+G1,7,Searchable Encryption,Mariana Raykova,Mariana Raykova,mariana.raykova@yale.edu
+G2,7,Bug-Hunting Risks and Rewards,Mathias Payer,Mathias Payer,mathias.payer@nebelwelt.net
+G3,7,Crypto Standards,Shai Halevi,Shai Halevi,shaih@alum.mit.edu
+G4,7,Voting,Marcel Keller,Marcel Keller,m.keller@bristol.ac.uk
+G5,7,Hardening Hardware,Haining Wang,Haining Wang,hnw@udel.edu
+H1,8,Crypto Attacks,Daniel Genkin,Daniel Genkin,danielg3@cis.upenn.edu
+H2,8,Code Reuse Attacks,David Evans,Hovav Shacham/David Evans,evans@cs.virginia.edu
+H3,8,Web Security,Suman Jana,Suman Jana,suman@cs.columbia.edu
+H4,8,Formal Verification,Dinghao Wu,Dinghao Wu,dwu@ist.psu.edu
+I1,9,Post-Quantum,Fengwei Zhang,Fengwei Zhang,fengwei@wayne.edu
+I2,9,Information Flow,Heng Yin,Heng Yin,heng@cs.ucr.edu
+I3,9,Personal Privacy,David Kotz,David Kotz,David.F.Kotz@Dartmouth.edu
+I4,9,Verifying Crypto,Micah Sherr,Micah Sherr,msherr@cs.georgetown.edu
+I5,9,Communication Privacy,Matthew Wright,Matthew Wright,matthew.wright@rit.edu
+J1,10,Outsourcing,Daniel Genkin,Daniel Genkin,danielg3@cis.upenn.edu
+J2,10,Fun with Fuzzing,Byoungyoung Lee,Byoungyoung Lee,byoungyoung@purdue.edu
+J3,10,Problematic Patches,Xinyu Xing,Xinyu Xing,xxing@ist.psu.edu
+J4,10,Flash Security,Taesoo Kim,Taesoo Kim,taesoo@gatech.edu
+K1,11,Secure Computation,Stefan Katzenbeisser,Stefan Katzenbeisser,skatzenbeisser@acm.org
+K2,11,Fuzzing Finer and Faster,Wil Robertson,Wil Robertson,wkr@wkr.io
+K3,11,Program Analysis,Wenke Lee,Wenke Lee,wenke.lee@gmail.com
+K4,11,Secure Enclaves,Alex Malozemoff,Alex Malozemoff,amaloz@galois.com

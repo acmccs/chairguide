@@ -1,0 +1,52 @@
+Dear $NAME,
+
+We are delighted to invite you to join the Program Committee of the 24th ACM Conference on Computer and Communications Security (ACM CCS 2017).
+
+CCS is the ACM's flagship conference in computer and communication security. Membership in the Program Committee is a professional recognition and the efforts of the PC are essential to maintaining the high quality of the conference. Being a PC member involves a serious time commitment and effort. So, before accepting our invitation, please read this mail carefully and ensure that you understand what you are committing to.
+
+The reviewing schedule planned for CCS 2017 is:
+
+May 19: Paper submission deadline
+June 16: Deadline for first round of reviews
+June 16-July 6: On-line discussions, second reviewing round
+July 6: Deadline for second round of reviews
+July 7-10: Author rebuttal window
+July 11-24: On-line discussions, third reviewing round
+July 24: Deadline for third round of reviews, responses to author rebuttals
+July 24-August 1: Final on-line discussions
+August 2: Author notification
+
+The reviewing deadlines are tight (but expanded by two weeks from the extremely compressed schedule that was used last year).
+
+There is no limit on the number of submissions for PC members in CCS 2017. PC Chairs are not allowed to submit.
+
+PC Reviewing Load
+
+We will assign two reviews to each paper in the first round. This allows us to reject papers early that have essentially no chance to get accepted. Additional reviews are then assigned to the remaining papers for the second round, and when necessary a paper will be assigned further review in round 3. Based on previous experience, we anticipate that each PC member will be expected to do around 20 reviews total; however, unexpected rises in submissions have happened before.
+
+In addition to writing fair, useful, and high quality reviews on time, we also expect PC members to fully engage in on-line discussions and to respond to issues raised in other reviews and in the author responses. Active participation in on-line discussions is especially important since CCS does not have a physical PC meeting.  While we are happy for PC members to use sub-reviewers with specialized expertise to help review papers, we expect PC members to be able to argue robustly about all their reviewed papers in the final discussions.
+
+Machine-Assisted Paper Assignments
+
+Last year, CCS received 837 submissions. Given this volume, the task of having to go through the abstracts of all papers and enter suitable bids has become very time consuming and limited bid submissions can distort the reviewing process.  Last year, a new automated paper assignment process was tried for CCS and generally believed to have been successful. We will build on that process this year, and have plans to use information gleaned from an automated analysis of PC members' publications, along with additional bidding information, to assign submissions to (hopefully) relevant reviewers. To support this process, as part of the form to accept the PC invitation you will be asked to provide a URL to a web page that contains links to PDFs of your papers, which will be used to train the automated matching system.
+
+Rebuttals Committee
+
+To ensure that author rebuttals are considered seriously, and that authors receive a meaningful summary of on-line discussions about their paper, CCS uses a "Rebuttals Committee". Members of this committee have the job of going through reviews after the rebuttal phase to ensure that PC members properly respond to authors when they point out factual inaccuracies or problems with a review. We really expect all PC members to carefully go through rebuttals and make updates to their reviews when needed. The goal of the rebuttals committee is to help us, the PC chairs, make sure discussions proceed effectively and that rebuttals are properly addressed and it is clear to authors why reviewers evaluated their paper the way they did. In exchange for taking on this responsibility, members of the rebuttals committee will have a reduced a reviewing load (not to mention having the satisfaction of contributing positively to the success of the conference and research community!).
+
+
+Having taken the above into account, we would be delighted if you decide to help us and the community this year by serving on the Program Committee of ACM CCS 2017.
+
+To let us know your decision, please enter your response into the following Google form:
+
+   https://goo.gl/forms/JC8ovdg5gQ4EMGB92
+
+The form (for people who accept the PC invitation) will ask you for a URL to a page with your papers for training the automated paper review assignments, and checkboxes for volunteering for the rebuttals and awards committees.
+
+We would appreciate your prompt reply (as soon as possible, but please no later than March 3), which will help us in managing the process of forming the committee.  If you have any questions, please feel free to reply to this message or contact any of us directly.
+
+With sincere thanks,
+
+David Evans, Tal Malkin, and Dongyan Xu
+ACM CCS 2017 Program Co-Chairs
+ccs2017pcchairs@gmail.com

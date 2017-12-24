@@ -53,9 +53,24 @@ motivated by career desparation, and generally invited volunteers who
 had published in recent top-tier conferences and seemed qualified to
 be on the PC.
 
-We send out our first batch of PC invitation on January 18. Based on
-the responses to these, we sent out second and third batches of
-invitations.
+We sent out our first batch of PC invitation on January 18 (see
+[/mailers/sendinvites.py](/mailers/sendinvites.py) for the script we
+used to send out PC invitations).  Responses were collected using a
+Google form, which was simple and worked well for us.  Based on the
+responses to these, we sent out second and third batches of
+invitations. The PC was finalized by early April, in advance of the
+CFP release on April 19 (which was set as that target to be one month
+ahead of the submission deadline).
+
+The biggest challenge in forming a PC for a complex conference like
+CCS is ensuring there are enough qualified PC members in the right
+areas to review the submissions. This is especially difficult in
+cryptography &mdash; more specialized expertise is needed to review
+papers in many areas of cryptography, and our invitation acceptance
+rate was significantly lower for cryptographers than it was for
+systems security researchers. So, its important to pay attention to
+the make-up of the committee as the first round of invitations come
+back and to make adjustments in subsequent invitations.
 
 The acceptance rate for PC invitations was very high, and only a few
 people were non-responsive. Nearly all of the declines were gracious
@@ -93,6 +108,9 @@ clear to PC members before they accept the invitation.
 The paper submission deadline, author response period, and author
 notification dates were made public in the CFP and we viewed those as
 firm committments to authors.
+
+# Call for Papers
+
 
 ### Reviewing Form
 
