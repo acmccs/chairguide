@@ -1,0 +1,746 @@
+Nicolas Christin ,Carnegie Mellon University,1,1,1,CCS 2017
+Phillipa Gill ,University of Massachusetts Amherst,1,1,1,CCS 2017
+Martin Abadi, UC Santa Cruz & Microsoft; Univ. of California at Santa Cruz; UC Santa Cruz & Microsoft Research; UC Santa Cruz and Microsoft Research; UC Santa Cruz,5,0,0,CCS 2009,CCS 2008,CCS 2007,Oakland 2013,NDSS 2004
+Carlisle Adams, University of Ottawa,1,0,0,CCS 2006
+Ben Adida, Harvard University; Mozilla,5,0,0,CCS 2010,CCS 2008,Oakland 2009,USENIX 2012,USENIX 2011
+Heather Adkins, Google,1,0,0,USENIX 2005
+Sadia Afroz,UC Berkeley / ICSI;ICSI; University of California,3,3,1,CCS 2017,Oakland 2016,USENIX 2015
+Shweta Agrawal,Indian Institute of Technology,1,1,1,CCS 2016
+Gail-Joon Ahn,Arizona State University; Arizona State University; UNC Charlotte,5,3,3,CCS 2017,CCS 2016,CCS 2015,CCS 2013,CCS 2007
+William Aiello, University of British Columbia; AT&T Labs—Research,4,1,0,Oakland 2009,Oakland 2008,USENIX 2014,USENIX 2004
+Devdatta Akhawe, Dropbox,2,2,0,USENIX 2017,USENIX 2015
+Ehab Al-Shaer,University of North Carolina Charlotte;University of North Carolina at Charlotte; University of North Carolina at Charlotte; UNC Charlotte; UNCC,5,3,3,CCS 2017,CCS 2015,CCS 2014,NDSS 2013,NDSS 2011
+Martin Albrecht,Royal Holloway,1,1,1,CCS 2016
+Johanna Amann, ICSI,1,1,0,NDSS 2017
+Yair Amir, Johns Hopkins University,1,0,0,NDSS 2013
+Paul Ammann, George Mason University,2,0,0,CCS 2004,Oakland 2006
+Kostas Anagnostakis, I2R/A-STAR; Institute for Infocomm Research,2,0,0,CCS 2009,USENIX 2007
+Ross Anderson, University of Cambridge; Cambridge University,3,1,1,CCS 2014,Oakland 2009,NDSS 2012
+Manos Antonakakis,Georgia Institute of Technology; Georgia Institute of Technology,5,5,2,CCS 2016,CCS 2015,USENIX 2017,NDSS 2017,NDSS 2016
+William Arbaugh, University of Maryland; University of Maryland ,7,0,0,CCS 2013,Oakland 2005,USENIX 2006,NDSS 2007,NDSS 2006,NDSS 2005,NDSS 2004
+Frederik Armknecht,University of Mannheim; University of Mannheim,3,3,3,CCS 2016,CCS 2015,CCS 2014
+Mikhail Atallah, Purdue University,4,1,0,CCS 2013,CCS 2008,CCS 2007,Oakland 2014
+Giuseppe Ateniese, Sapienza – University of Rome; Sapienza-University of Rome and Johns Hopkins University; The Johns Hopkins University; Johns Hopkins University; Johns Hopkins,13,1,1,CCS 2014,CCS 2013,CCS 2012,CCS 2008,CCS 2007,CCS 2006,Oakland 2012,Oakland 2011,Oakland 2010,NDSS 2011,NDSS 2010,NDSS 2009,NDSS 2004
+Elias Athanasopoulos,University of Cyprus,1,1,1,CCS 2017
+Vijay Atluri, Rutgers University,3,0,0,CCS 2008,CCS 2007,CCS 2006
+Tuomas Aura, Microsoft Research,3,0,0,Oakland 2007,Oakland 2006,Oakland 2004
+Erman Ayday,Bilkent University; Bilkent University,2,2,1,CCS 2016,NDSS 2017
+Michael Backes,Saarland University & MPI-SWS;Saarland Univ. and MPI-SWS; Saarland Univ. and MPI-SWS; Saarland University; Max Planck Institute; Saarland University and Max Planck Institute for Software Systems; Saarland University / Max Planck Institute for Software Systems; Saarland University and MPI-SWS; IBM Research; CISPA,16,5,2,CCS 2016,CCS 2015,CCS 2012,CCS 2011,CCS 2006,Oakland 2017,Oakland 2012,Oakland 2011,Oakland 2010,Oakland 2009,Oakland 2006,Oakland 2005,USENIX 2017,USENIX 2016,NDSS 2013,NDSS 2010
+Lee Badger, DARPA,3,0,0,USENIX 2006,NDSS 2007,NDSS 2004
+Michael Bailey, University of Illinois at Urbana Champaign; University of Michigan; University of Illinois at Urbana-Champaign; University Illinois at Urbana-Champaign,9,5,0,Oakland 2015,Oakland 2013,Oakland 2012,Oakland 2011,USENIX 2017,USENIX 2016,NDSS 2015,NDSS 2014,NDSS 2010
+Foteini Baldimtsi,George Mason University,1,1,1,CCS 2017
+Dirk Balfanz, Palo Alto Research Center; Google; PARC ,4,1,0,Oakland 2007,NDSS 2014,NDSS 2013,NDSS 2005
+Lucas Ballard, Google; Google Inc.,3,0,0,USENIX 2011,USENIX 2010,USENIX 2009
+Davide Balzarotti,Eurecom;EURECOM; EURECOM; Eurecom; EURECOM Sophia Antipolis,14,12,3,CCS 2016,CCS 2015,CCS 2014,Oakland 2017,Oakland 2016,USENIX 2017,USENIX 2016,USENIX 2015,NDSS 2017,NDSS 2016,NDSS 2015,NDSS 2014,NDSS 2013,NDSS 2012
+Suman Banerjee, University of Wisconsin Madison,1,0,0,NDSS 2011
+Paul Barford, University of Wisconsin,3,0,0,CCS 2008,USENIX 2009,USENIX 2008
+David Barrera, ETH Zurich  ,1,1,0,NDSS 2017
+Adam Barth, Stanford; UC Berkeley;Google; University of California; Stanford University,7,1,0,CCS 2012,CCS 2010,Oakland 2016,Oakland 2010,USENIX 2010,NDSS 2010,NDSS 2009
+Gilles Barthe,IMDEA Software Institute; IMDEA,2,2,1,CCS 2015,Oakland 2017
+David Basin,ETH Zurich; ETH Zurich; ETH Zürich,8,3,1,CCS 2017,CCS 2013,CCS 2012,CCS 2005,CCS 2004,Oakland 2015,Oakland 2014,Oakland 2004
+Adam Bates,University of Illinois at Urbana-Champaign; University of Illinois Urbana Champaign (UIUC),2,2,1,CCS 2017,NDSS 2017
+Lujo Bauer,Carnegie Mellon University; Carnegie Mellon University; CMU; Carnegie Mellon,20,10,2,CCS 2017,CCS 2014,CCS 2013,Oakland 2017,Oakland 2015,Oakland 2014,Oakland 2013,Oakland 2011,USENIX 2017,USENIX 2016,USENIX 2009,NDSS 2017,NDSS 2016,NDSS 2014,NDSS 2013,NDSS 2012,NDSS 2011,NDSS 2010,NDSS 2009,NDSS 2008
+Birgit Baum-Waidner, IBM Research,1,0,0,CCS 2004
+Giampaolo Bella, Università di Catania,1,0,0,CCS 2006
+Steve Bellovin, Columbia University; AT&T Research ,7,1,0,Oakland 2007,USENIX 2014,USENIX 2010,USENIX 2009,USENIX 2005,NDSS 2013,NDSS 2005
+Josh Benaloh, Microsoft Research,2,0,0,Oakland 2005,Oakland 2004
+Emery Berger, U of Mass; University of Massachusetts Amherst,2,1,0,CCS 2010,USENIX 2014
+Elisa Bertino, Università di Milano; CERIAS and CS Department; Purdue University,4,0,0,CCS 2004,Oakland 2008,Oakland 2007,Oakland 2006
+Konstantin Beznosov,University of British Columbia; University of British Columbia; U. of British Columbia; U British Columbia; UBC,12,4,2,CCS 2017,CCS 2015,CCS 2013,CCS 2012,CCS 2009,Oakland 2015,Oakland 2014,NDSS 2012,NDSS 2011,NDSS 2010,NDSS 2009,NDSS 2008
+Karthikeyan Bhargavan,INRIA; INRIA; Inria,6,6,3,CCS 2017,CCS 2016,CCS 2015,Oakland 2017,Oakland 2016,USENIX 2017
+Robert Biddle, Carleton University,1,0,0,USENIX 2011
+Leyla Bilge, Symantec,2,2,0,USENIX 2017,USENIX 2016
+Igor Bilogrevic, Google,1,1,0,USENIX 2015
+Tina Bird, Stanford University,1,0,0,USENIX 2004
+Alex Biryukov,University of Luxembourg; University of Luxembourg,4,4,3,CCS 2017,CCS 2016,CCS 2015,NDSS 2017
+Matt Bishop, University of California at Davis; UC Davis,2,0,0,CCS 2013,NDSS 2012
+John Black, University of Colorado; University of Colorado at Boulder,3,0,0,CCS 2006,NDSS 2009,NDSS 2008
+Bruno Blanchet, CNRS,3,0,0,CCS 2012,CCS 2011,CCS 2010
+Marina Blanton,University of Notre Dame; University of Notre Dame,3,3,3,CCS 2016,CCS 2015,CCS 2014
+Matt Blaze, University of Pennsylvania,2,0,0,Oakland 2008,Oakland 2007
+Jeremiah Blocki,Purdue University,1,1,1,CCS 2017
+Alexandra Boldyreva,Georgia Institute of Technology; Georgia Institute of Technology,3,2,1,CCS 2016,CCS 2012,USENIX 2015
+Piero Bonatti, Università di Napoli,2,0,0,CCS 2004,Oakland 2007
+Dan Boneh, Stanford; Stanford University,11,2,0,CCS 2011,CCS 2009,CCS 2007,CCS 2005,USENIX 2016,USENIX 2014,USENIX 2008,USENIX 2007,USENIX 2005,NDSS 2007,NDSS 2005
+Joseph Bonneau,Stanford University & EFF; Stanford;Stanford / EFF; Stanford University & EFF; Electronic Frontier Foundation and Stanford University; Stanford University and The Electronic Frontier Foundation; Stanford University and Electronic Frontier Foundation,8,8,1,CCS 2015,Oakland 2017,Oakland 2016,Oakland 2015,USENIX 2017,USENIX 2016,USENIX 2015,NDSS 2016
+Steve Borbash, Department of Defense,2,0,0,CCS 2010,CCS 2009
+Kevin Borders, NSA,1,0,0,Oakland 2012
+Nikita Borisov,University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign; UIUC; University of Illinois;UIUC; University of Illinois at Urbana-Champaign ; University of Illinois at Urbana Champaign,19,7,1,CCS 2015,CCS 2012,CCS 2011,CCS 2010,CCS 2008,CCS 2006,Oakland 2017,Oakland 2016,Oakland 2010,USENIX 2016,USENIX 2015,USENIX 2014,USENIX 2013,USENIX 2012,USENIX 2010,NDSS 2016,NDSS 2012,NDSS 2010,NDSS 2009
+Herbert Bos,Vrije Universiteit / VU University Amsterdam; VU; VU University; Vrije Universiteit / VU University Amsterdam; Vrije Universiteit Amsterdam ; Vrije Universiteit Amsterdam      ,6,3,1,CCS 2016,CCS 2011,Oakland 2017,Oakland 2015,Oakland 2013,Oakland 2012
+Elette Boyle,IDC Herzliya,1,1,1,CCS 2017
+Dolan-Gavitt Brendan, New York University,1,1,0,USENIX 2017
+David Brumley, Carnegie Mellon University; Carnegie Mellon University ,12,3,0,CCS 2013,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2010,USENIX 2015,USENIX 2014,USENIX 2012,NDSS 2015,NDSS 2010,NDSS 2009,NDSS 2008
+Elie Bursztein,Google; Google; Stanford University,5,2,1,CCS 2016,USENIX 2016,USENIX 2013,NDSS 2013,NDSS 2012
+Kevin Butler,University of Florida; University of Florida; University of Oregon;U. of Florida,12,10,3,CCS 2016,CCS 2015,CCS 2014,CCS 2013,Oakland 2017,Oakland 2016,Oakland 2012,USENIX 2017,USENIX 2015,USENIX 2014,NDSS 2017,NDSS 2016
+Levente Buttyan,"CrySyS Lab, BME; Budapest University of Technology and Economics",2,1,1,CCS 2017,NDSS 2011
+Juan Caballero,IMDEA Software Institute; IMDEA Software Institute; IMDEA Software Institute  ; IMDEA,11,9,3,CCS 2017,CCS 2016,CCS 2015,Oakland 2014,Oakland 2013,Oakland 2012,USENIX 2017,USENIX 2016,USENIX 2015,NDSS 2015,NDSS 2014
+Christian Cachin,IBM Research; IBM Research; IBM Research - Zürich; IBM Zurich Research Lab; IBM Research Zurich,6,3,2,CCS 2015,CCS 2014,Oakland 2014,Oakland 2008,Oakland 2007,NDSS 2012
+Cristian Cadar, Imperial College; Imperial College London; Imperial College London ,3,0,0,Oakland 2012,Oakland 2011,Oakland 2010
+Kelly Caine, Indiana University,1,0,0,USENIX 2012
+Joseph Calandrino,Federal Trade Commission,1,1,1,CCS 2017
+Aylin Caliskan,Princeton University,1,1,1,CCS 2017
+Jon Callas, PGP,2,0,0,NDSS 2008,NDSS 2007
+Jan Camenisch, IBM Research; IBM Research Zurich,4,0,0,CCS 2013,CCS 2012,CCS 2006,CCS 2005
+Jean Camp, Indiana University,2,0,0,CCS 2009,CCS 2008
+Yinzhi Cao,Lehigh University,2,2,2,CCS 2017,CCS 2016
+Srdjan Capkun,ETH Zurich; ETH Zurich; ETHZ; ETH Zürich; ETH Zurich      ; ETH; ETH Zurich (Chair),21,12,2,CCS 2016,CCS 2015,CCS 2013,CCS 2012,CCS 2011,Oakland 2017,Oakland 2015,Oakland 2014,Oakland 2013,Oakland 2009,USENIX 2017,USENIX 2016,USENIX 2015,USENIX 2014,USENIX 2013,USENIX 2012,NDSS 2016,NDSS 2015,NDSS 2014,NDSS 2013,NDSS 2010
+Bogdan Carbunar, Motorola Labs,1,0,0,NDSS 2012
+Alvaro Cardenas, University of Texas at Dallas,1,0,0,CCS 2013
+Alvaro A. Cardenas,University of Texas at Dallas,1,1,1,CCS 2017
+Barbara Carminati, University of Insubria,1,1,1,CCS 2014
+David Cash,Rutgers University; Rutgers University,2,2,1,CCS 2016,USENIX 2017
+Claude Castelluccia, INRIA,1,0,0,CCS 2012
+Miguel Castro, Microsoft Research Cambridge; Microsoft Research,2,0,0,Oakland 2009,USENIX 2011
+Lorenzo Cavallaro,"Royal Holloway, University of London;Royal Holloway",3,3,3,CCS 2017,CCS 2016,CCS 2015
+Iliano Cervesato, Carnegie Mellon Univ.; Carnegie Mellon University,2,0,0,CCS 2009,CCS 2008
+Neha Chachra,Facebook,1,1,1,CCS 2017
+Ajay Chander, NTT DoCoMo Labs,1,0,0,CCS 2008
+Jeff Chase, Duke University,1,0,0,NDSS 2012
+Melissa Chase,Microsoft Research,1,1,1,CCS 2017
+Avik Chaudhuri, Adobe Advanced Technology Labs,1,0,0,CCS 2011
+Stephen Checkoway,Johns Hopkins University; Johns Hopkins University; UIC;UIC; University of Illinois at Chicago,7,7,2,CCS 2015,CCS 2014,Oakland 2017,Oakland 2016,USENIX 2017,USENIX 2016,USENIX 2015
+Haibo Chen,Shanghai Jiao Tong University; SJTU;SJTU,3,3,1,CCS 2017,Oakland 2017,Oakland 2016
+Hao Chen,"University of California, Davis; UC Davis; University of California",9,2,1,CCS 2017,Oakland 2015,Oakland 2009,USENIX 2007,NDSS 2011,NDSS 2010,NDSS 2009,NDSS 2008,NDSS 2006
+Liqun Chen, HP Labs; Hewlett-Packard Laboratories,2,1,1,CCS 2014,CCS 2013
+Peter Chen, University of Michigan,3,0,0,Oakland 2006,USENIX 2006,USENIX 2005
+Shuo Chen, Microsoft Research; Microsoft Research  ; Microsoft Research Redmond ,8,1,0,CCS 2012,CCS 2011,Oakland 2015,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2010,USENIX 2013
+Yan Chen,Northwestern University; Northwestern University,8,4,3,CCS 2016,CCS 2015,CCS 2014,Oakland 2013,NDSS 2014,NDSS 2012,NDSS 2011,NDSS 2010
+Bill Cheswick, AT&T Labs—Research; Lumeta,7,0,0,USENIX 2011,USENIX 2010,USENIX 2009,USENIX 2008,USENIX 2006,NDSS 2007,NDSS 2004
+Monica Chew, Google Inc.,1,0,0,USENIX 2007
+Sonia Chiasson, Carleton University,3,0,0,USENIX 2013,USENIX 2012,USENIX 2011
+Alessandro Chiesa,UC Berkeley,1,1,1,CCS 2016
+Adam Chlipala,MIT; Massachusetts Institute of Technology,2,1,0,Oakland 2016,USENIX 2013
+Yung Ryn (Elisha) Choe,Sandia National Laboratories,1,1,1,CCS 2016
+Stephen Chong, Harvard University,2,0,0,CCS 2013,CCS 2010
+Sherman S.M. Chow, The Chinese University of Hong Kong,1,1,1,CCS 2014
+Omar Chowdhury,University of Iowa;Purdue University,3,3,3,CCS 2017,CCS 2016,CCS 2015
+Nicolas Christin, Carnegie Mellon University;CMU,12,11,0,CCS 2013,Oakland 2016,Oakland 2015,Oakland 2014,USENIX 2017,USENIX 2016,USENIX 2015,USENIX 2014,NDSS 2017,NDSS 2016,NDSS 2015,NDSS 2014
+Mihai Christodorescu, IBM Research; IBM T.J. Watson Research Center; Qualcomm; IBM Watson,9,1,0,CCS 2012,CCS 2010,CCS 2009,CCS 2008,USENIX 2012,NDSS 2014,NDSS 2011,NDSS 2010,NDSS 2009
+Byung-Gon Chun, Seoul National University,1,1,0,USENIX 2015
+Charles Clarke, University of Waterloo; U. Waterloo,2,0,0,NDSS 2008,NDSS 2007
+Richard Clayton, University of Cambridge,2,0,0,CCS 2012,CCS 2008
+Debra Cook, IDA-CCS,1,0,0,CCS 2009
+Veronique Cortier,"Loria (CNRS, France)",1,1,1,CCS 2017
+Véronique Cortier,CNRS; CNRS; LORIA INRIA-Lorraine; LORIA-CNRS,5,2,2,CCS 2016,CCS 2014,CCS 2013,CCS 2012,CCS 2010
+Manuel Costa,Microsoft Research; Microsoft Research; MSR;MSRC,6,5,1,CCS 2017,CCS 2011,Oakland 2017,Oakland 2016,USENIX 2017,USENIX 2016
+Scott Coull,FireEye; University of North Carolina,2,1,1,CCS 2017,NDSS 2010
+Marco Cova, University of Birmingham and Lastline,1,1,1,CCS 2014
+Crispin Cowan, Novell; Microsoft; Mercenary Linux; Immunix ,7,0,0,Oakland 2008,Oakland 2007,NDSS 2009,NDSS 2008,NDSS 2007,NDSS 2006,NDSS 2005
+Landon Cox, Duke University,1,0,0,NDSS 2012
+Jed Crandall, U of New Mexico; University of New Mexico,2,0,0,CCS 2010,Oakland 2009
+Lorrie Cranor, Carnegie Mellon Univ.; Carnegie Mellon University,3,0,0,CCS 2009,CCS 2008,CCS 2007
+Cas Cremers, Oxford,1,1,0,Oakland 2017
+Marco Cremonini, Univ. of Milan; University of Milan,2,0,0,CCS 2008,CCS 2007
+Bruno Crispo, University of Trento,1,0,0,Oakland 2009
+Emiliano De Cristofaro,University College London;UCL; UCL; University College London,5,5,1,CCS 2017,Oakland 2016,Oakland 2015,NDSS 2017,NDSS 2016
+Weidong Cui,Microsoft Research; Microsoft Research,13,3,2,CCS 2017,CCS 2014,CCS 2013,CCS 2010,CCS 2009,Oakland 2014,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2009,NDSS 2011,NDSS 2010,NDSS 2009
+Robert Cunningham, MIT Lincoln Laboratory; MIT Lincoln,6,0,0,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2008,Oakland 2007,Oakland 2006
+Reza Curtmola, New Jersey Institute of Technology,2,1,1,CCS 2014,CCS 2013
+Alexei Czeskis, Google,1,1,1,CCS 2014
+Dana Dachman-Soled,University of Maryland; University of Maryland,2,2,1,CCS 2016,NDSS 2017
+Marc Dacier, Eurecom; Symantec; Eurécom; Symantec Research Labs; EURECOM,10,1,0,CCS 2010,CCS 2009,CCS 2004,Oakland 2014,Oakland 2005,Oakland 2004,USENIX 2006,NDSS 2013,NDSS 2012,NDSS 2004
+David Dagon, Georgia Institute of Technology,3,0,0,CCS 2007,USENIX 2008,USENIX 2007
+George Danezis,University College London; University College London; Microsoft Research; K.U. Leuven; Cambridge University,19,7,3,CCS 2016,CCS 2015,CCS 2014,CCS 2010,CCS 2009,CCS 2008,CCS 2007,Oakland 2014,Oakland 2013,Oakland 2009,Oakland 2006,USENIX 2016,USENIX 2015,USENIX 2014,USENIX 2010,USENIX 2009,USENIX 2008,NDSS 2012,NDSS 2010
+Anupam Das,Carnegie Mellon University,1,1,1,CCS 2017
+Anupam Datta,Carnegie Mellon University; Carnegie Mellon University; CMU; Carnegie Mellon University      ; Carnegie Mellon University ; Stanford University,14,5,3,CCS 2017,CCS 2016,CCS 2014,CCS 2013,CCS 2011,CCS 2008,Oakland 2014,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2010,Oakland 2007,USENIX 2012,NDSS 2017
+Lucas Davi,University of Duisburg-Essen,1,1,1,CCS 2017
+Drew Dean, SRI International Computer Science Lab; SRI International,3,0,0,CCS 2004,Oakland 2006,USENIX 2004
+Hervé Debar, France Telecom R&D; France Télécom R&D,4,0,0,CCS 2004,Oakland 2006,Oakland 2005,Oakland 2004
+Pierpaolo Degano, University of Pisa,1,0,0,CCS 2005
+Stephanie Delaune, CNRS and ENS-Cachan,1,0,0,CCS 2011
+Robert Deng, Singapore Management Univ.; Singapore Management University,2,0,0,CCS 2008,CCS 2007
+Tamara Denning,University of Utah; University of Utah,3,3,1,CCS 2017,USENIX 2016,USENIX 2015
+Srini Devadas, MIT; Massachusetts Institute of Technology,2,2,0,Oakland 2017,USENIX 2014
+Rinku Dewri,University of Denver,1,1,1,CCS 2016
+Rachna Dhamija, Harvard University,2,0,0,USENIX 2010,USENIX 2008
+Roberto DiPietro, University of Rome III,1,1,0,Oakland 2014
+Claudia Diaz, KU Leuven; Katholieke Universiteit Leuven; K.U. Leuven,4,0,0,CCS 2009,CCS 2008,CCS 2007,USENIX 2011
+Sven Dietrich, Stevens Inst. of Tech.; Stevens Institute of Technology; Carnegie Mellon University,4,0,0,CCS 2009,CCS 2008,CCS 2007,NDSS 2012
+Michael Dietz, Google,1,1,0,USENIX 2015
+Marten van Dijk,University of Connecticut,1,1,1,CCS 2017
+Xuhua Ding,Singapore Management University,1,1,1,CCS 2017
+Roger Dingledine, The Tor Project; Tor Project; The Free Haven Project,5,1,0,CCS 2011,CCS 2010,CCS 2007,Oakland 2011,USENIX 2014
+George Dinolt, Naval Postgraduate School,2,0,0,CCS 2005,Oakland 2005
+Yevginiy Dodis, New York University,1,0,0,CCS 2005
+Brendan Dolan-Gavitt,New York University,1,1,1,CCS 2017
+Leendert van Doorn, AMD; IBM Research; IBM T.J. Watson Research Center ; IBM Watson,5,0,0,CCS 2011,USENIX 2008,USENIX 2004,NDSS 2005,NDSS 2004
+Adam Doupe,Arizona State University,1,1,1,CCS 2017
+Adam Doupé,Arizona State University; Arizona State University,5,5,2,CCS 2016,CCS 2015,USENIX 2017,USENIX 2016,USENIX 2015
+Wenliang Du, Syracuse University,6,1,1,CCS 2014,CCS 2013,CCS 2009,CCS 2008,CCS 2007,NDSS 2013
+Tudor Dumitras,University of Maryland; University of Maryland,6,6,2,CCS 2017,CCS 2016,Oakland 2017,USENIX 2017,USENIX 2016,NDSS 2017
+Orr Dunkelman, University of Haifa; University of Haifa and Weizmann Institute,2,1,1,CCS 2014,CCS 2011
+Glenn Durfee, Palo Alto Research Center,1,0,0,NDSS 2006
+Josiah Dykstra, NSA Research,1,1,0,USENIX 2015
+Stefan Dziembowski,University of Warsaw,1,1,1,CCS 2016
+Matt Edman, Rensselaer Polytech. Inst.; Rensselaer Polytechnic Institute,2,0,0,CCS 2009,CCS 2008
+Manuel Egele,Boston University; Carnegie Mellon University; Boston University,9,9,3,CCS 2016,CCS 2015,CCS 2014,USENIX 2017,USENIX 2016,USENIX 2015,NDSS 2017,NDSS 2016,NDSS 2015
+Serge Egelman,UC Berkeley / ICSI; International Computer Science Institute and University of California; University of California,4,4,1,CCS 2017,USENIX 2017,USENIX 2016,USENIX 2015
+Carl Ellison, Microsoft,2,0,0,USENIX 2005,USENIX 2004
+William Enck,North Carolina State University; North Carolina State University; North Carolina State; Pennsylvania State University; NC State University,16,10,3,CCS 2016,CCS 2015,CCS 2014,Oakland 2014,Oakland 2013,Oakland 2012,USENIX 2017,USENIX 2015,USENIX 2013,USENIX 2012,USENIX 2011,NDSS 2017,NDSS 2016,NDSS 2015,NDSS 2014,NDSS 2013
+Dawson Engler, Stanford University,2,0,0,CCS 2008,Oakland 2007
+Roya Ensafi, Princeton University,1,1,0,USENIX 2017
+Marius Eriksen, Google Inc.,1,0,0,USENIX 2007
+Úlfar Erlingsson, Google; Microsoft Research; Reykjavik University,4,0,0,CCS 2011,CCS 2010,Oakland 2009,NDSS 2013
+Alberto Escudero-Pascual, IT46,1,0,0,CCS 2007
+David Evans, University of Virginia; University of Virginia ,19,6,0,CCS 2013,Oakland 2017,Oakland 2015,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2010,Oakland 2009,Oakland 2008,USENIX 2016,USENIX 2015,USENIX 2014,USENIX 2012,USENIX 2011,NDSS 2017,NDSS 2012,NDSS 2011,NDSS 2010,NDSS 2005
+Ittay Eyal,Cornell University;Cornell; Cornell University,3,3,1,CCS 2017,Oakland 2016,NDSS 2017
+Sascha Fahl,Saarland University,1,1,1,CCS 2017
+Nick Feamster, Georgia Tech; Georgia Institute of Technology; GeorgiaTech; Georgia Institute of Technology ,11,2,0,CCS 2011,CCS 2008,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2010,Oakland 2006,USENIX 2014,NDSS 2014,NDSS 2012,NDSS 2010
+Hannes Federrath, Universität Regensburg,1,0,0,CCS 2004
+Joan Feigenbaum, Yale University,1,0,0,CCS 2005
+Adrienne Porter Felt,Google; Google,6,5,0,Oakland 2016,USENIX 2017,USENIX 2016,USENIX 2015,USENIX 2014,USENIX 2013
+Ed Felten, Princeton University,1,0,0,USENIX 2006
+José Fernandez,Ecole Polytechnique de Montreal; Polytechnique Montréal ,2,2,2,CCS 2015,CCS 2014
+Elena Ferrari, University of Insubria,1,1,1,CCS 2014
+Dario Fiore,IMDEA Software Institute,2,2,2,CCS 2016,CCS 2015
+Simone Fischer-Huebner, Karlstads U; Karlstad University,3,0,0,CCS 2009,CCS 2008,CCS 2007
+Marc Fischlin, Technical University of Darmstadt,1,1,0,Oakland 2014
+Matthias Fitzi, University of California Davis,1,0,0,CCS 2004
+Christopher Fletcher,NVIDIA/University of Illinois at Urbana-Champaign,1,1,1,CCS 2017
+Riccardo Focardi, U. of Venice; University of Venice,2,0,0,CCS 2012,Oakland 2005
+Simon Foley, University College Cork,1,0,0,CCS 2004
+Philip W. L. Fong, University of Calgary,1,1,1,CCS 2014
+Bryan Ford, Yale University,3,1,0,CCS 2012,CCS 2011,Oakland 2015
+Stephanie Forrest, University of New Mexico,1,0,0,CCS 2005
+Domenic Forte, University of Florida,1,1,0,NDSS 2017
+Jeff Foster, University of Maryland,1,0,0,CCS 2008
+Pierre-Alain Fouque,University Rennes 1,1,1,1,CCS 2015
+Cédric Fournet, Microsoft Research; Microsoft Research-INRIA; MSR,12,5,1,CCS 2014,CCS 2011,CCS 2010,CCS 2009,CCS 2008,CCS 2005,Oakland 2017,Oakland 2015,Oakland 2007,Oakland 2004,USENIX 2017,USENIX 2016
+Aurelien Francillon,EURECOM; EURECOM,2,2,1,CCS 2017,NDSS 2017
+Paul Francis, MPI-SWS,1,0,0,CCS 2011
+Yair Frankel, TechTegrity,1,0,0,CCS 2004
+Michael Franz,University of California; UCI,3,2,2,CCS 2016,CCS 2015,Oakland 2008
+Matt Fredrikson,Carnegie Mellon University;Carnegie Mellon; CMU; Carnegie Mellon University; University of Wisconsin—Madison,6,6,2,CCS 2017,CCS 2016,Oakland 2017,USENIX 2016,USENIX 2015,NDSS 2017
+Matthew Fredrikson, Carnegie Mellon University,1,1,0,USENIX 2017
+Michael Freedman, Princeton University,3,0,0,CCS 2011,CCS 2008,Oakland 2009
+Vanessa Friaz-Martinez, Telefonica Research,1,0,0,CCS 2010
+Kevin Fu, University of Massachusetts Amherst; UMass Amherst; University of Massachusetts; UMass; University of Michigan; MIT,10,0,0,CCS 2007,Oakland 2011,Oakland 2009,Oakland 2008,Oakland 2006,USENIX 2013,USENIX 2012,USENIX 2007,NDSS 2006,NDSS 2004
+Xinwen Fu,University of Massachusetts Lowell,1,1,1,CCS 2016
+Vinod Ganapathy,Rutgers University; Rutgers University; Rutgers; University of Wisconsin,11,4,3,CCS 2016,CCS 2015,CCS 2014,CCS 2010,CCS 2008,USENIX 2010,USENIX 2009,NDSS 2014,NDSS 2010,NDSS 2009,NDSS 2008
+Debin Gao, Singapore Management University; Singapore Management Univ.; Singapore Management University ,4,0,0,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2010
+Juan Garay,Yahoo Labs; Bell Labs - Lucent Technologies,2,1,1,CCS 2016,CCS 2004
+Simson Garfinkel, Naval Postgraduate School,1,1,0,USENIX 2014
+Tal Garfinkel, VMware and Stanford University; Stanford University; VMware; VMWare,5,0,0,USENIX 2010,USENIX 2009,USENIX 2007,NDSS 2010,NDSS 2009
+Deepak Garg,Max Planck Institute for Software Systems;MPI-SWS; MPI-SWS; MPI-SWS Kapil Singh,6,5,3,CCS 2016,CCS 2015,CCS 2014,Oakland 2015,Oakland 2014,Oakland 2013
+Carrie Gates, CA Technologies,3,0,0,USENIX 2012,USENIX 2011,NDSS 2012
+Xinyang Ge,Microsoft Research,1,1,1,CCS 2017
+Roxana Geambasu, Columbia; Columbia University,4,2,0,Oakland 2017,USENIX 2015,USENIX 2013,USENIX 2012
+Daniel Genkin,University of Pennsylvania / University of Maryland,1,1,1,CCS 2017
+Rosario Gennaro,City College of New York; IBM T. J. Watson,2,1,1,CCS 2017,CCS 2006
+Jonathon Giffin, Georgia Tech; GeorgiaTech; Georgia Institute of Technology,10,0,0,CCS 2009,Oakland 2012,Oakland 2011,Oakland 2010,Oakland 2009,Oakland 2008,USENIX 2011,USENIX 2010,NDSS 2009,NDSS 2008
+Cristiano Giuffrida,VU University Amsterdam; Vrije Universiteit Amsterdam,3,3,2,CCS 2016,CCS 2015,USENIX 2016
+Virgil Gligor, Carnegie Mellon Univ.; University of Maryland at College Park; Carnegie Mellon University; Carnegie Mellon University     ; Carnegie Mellon University ; University of Maryland,17,2,0,CCS 2010,CCS 2009,CCS 2007,Oakland 2014,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2010,Oakland 2008,Oakland 2007,Oakland 2005,Oakland 2004,USENIX 2014,USENIX 2008,USENIX 2006,NDSS 2009,NDSS 2007
+Eu-Jin Goh, Stanford University,4,0,0,CCS 2009,CCS 2008,USENIX 2005,USENIX 2004
+Ian Goldberg,University of Waterloo; University of Waterloo,7,1,1,CCS 2016,Oakland 2009,USENIX 2013,USENIX 2012,USENIX 2011,USENIX 2009,USENIX 2008
+Philippe Golle, Google; PARC; Palo Alto Research Center,5,0,0,CCS 2012,CCS 2010,CCS 2008,CCS 2007,Oakland 2006
+Dieter Gollmann, TU Hamburg-Harburg,2,0,0,CCS 2007,CCS 2005
+Michael Goodrich, University of California; UC Irvine,3,1,1,CCS 2014,CCS 2006,Oakland 2010
+Andrew D. Gordon, Microsoft Research; Microsoft Research Cambridge,2,0,0,CCS 2012,Oakland 2009
+Dov Gordon,George Mason University,1,1,1,CCS 2017
+Roberto Gorrieri, University of Bologna,1,0,0,CCS 2005
+Vipul Goyal,Microsoft Research India,1,1,1,CCS 2015
+Matthew Green, Johns Hopkins University; John Hopkins University,6,3,1,CCS 2014,Oakland 2015,USENIX 2016,USENIX 2013,USENIX 2012,USENIX 2011
+Rachel Greenstadt, Drexel University; Harvard University,5,2,0,CCS 2009,CCS 2008,CCS 2007,USENIX 2015,USENIX 2014
+Steven Gribble, U of Washington; University of Washington; University of Washington and Google,10,1,0,CCS 2010,CCS 2008,Oakland 2012,Oakland 2011,Oakland 2009,Oakland 2008,Oakland 2006,USENIX 2014,USENIX 2010,NDSS 2006
+Chris Grier, Databricks; DataBricks; University of California,3,2,0,USENIX 2016,USENIX 2015,USENIX 2013
+Stefanos Gritzalis, University of the Aegean,1,0,0,CCS 2006
+Guofei Gu, Texas A&M Univ.; Texas A&M University; Texas A&M,13,7,0,CCS 2012,CCS 2011,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2009,USENIX 2017,USENIX 2016,USENIX 2015,NDSS 2017,NDSS 2016,NDSS 2015,NDSS 2014
+Zhongshu Gu,IBM T.J. Watson Research Center,1,1,1,CCS 2016
+Arjun Guha,UMass,1,1,0,Oakland 2016
+Saikat Guha, MSR; Microsoft Research India,2,2,0,Oakland 2017,USENIX 2016
+Krishna P. Gummadi, MPI-SWS,2,2,0,Oakland 2014,NDSS 2014
+Carl Gunter, University of Illinois; University of Illinois at Urbana-Champaign,2,2,0,Oakland 2015,USENIX 2014
+Minaxi Gupta, Indiana University,1,0,0,CCS 2009
+Joshua Guttman, MITRE,1,0,0,CCS 2005
+Peter Guttmann, University of Auckland; U of Auckland; University of New Auckland,4,0,0,CCS 2013,CCS 2009,Oakland 2009,Oakland 2005
+Andreas Haeberlen,University of Pennsylvania; University of Pennsylvania;UPenn,3,3,1,CCS 2017,Oakland 2017,Oakland 2016
+J. Alex Halderman,University of Michigan; University of Michigan; U of Michigan; Princeton University; University of Michigan      ; University of Michigan ,14,7,3,CCS 2017,CCS 2015,CCS 2014,CCS 2013,CCS 2010,CCS 2009,CCS 2008,Oakland 2012,Oakland 2010,USENIX 2016,USENIX 2015,USENIX 2014,USENIX 2010,NDSS 2017
+Shai Halevi,IBM Research,1,1,1,CCS 2017
+Christian Hammer, Saarland University,1,1,0,Oakland 2014
+William Harris,Georgia Institute of Technology,1,1,1,CCS 2015
+Urs Hengartner, University of Waterloo,1,0,0,USENIX 2012
+Nadia Heninger,UPenn; University of Pennsylvania,6,6,0,Oakland 2016,Oakland 2015,USENIX 2017,USENIX 2016,USENIX 2015,USENIX 2014
+Cormac Herley, Microsoft Research,3,2,0,CCS 2013,Oakland 2015,Oakland 2014
+Els Van Herreweghen, IBM Research,1,0,0,CCS 2004
+Amir Herzberg,Bar Ilan University;Bar-Ilan University; Bar-Ilan University and TU Darmstadt; Bar Ilan University,4,4,3,CCS 2016,CCS 2015,CCS 2014,NDSS 2017
+Matthew Hicks,MIT Lincoln Laboratory; MIT Lincoln Laboratory,2,2,1,CCS 2017,Oakland 2017
+Michael Hicks,University of Maryland; University of Maryland,5,3,1,CCS 2017,CCS 2008,Oakland 2017,Oakland 2015,Oakland 2009
+Viet Tung Hoang,University of California,1,1,1,CCS 2016
+Susan Hohenberger, Johns Hopkins University; Johns Hopkins,4,2,1,CCS 2014,CCS 2010,Oakland 2008,USENIX 2015
+Thorsten Holz,Ruhr-Universit&auml;t Bochum;Ruhr-University Bochum;Ruhr-Universitaet Bochum; Ruhr-Universität Bochum; Ruhr-University Bochum; ISEC Lab; Bochum University; Ruhr-Universtät Bochum; University of Mannheim; Technical University Vienna,17,8,3,CCS 2017,CCS 2016,CCS 2015,CCS 2013,CCS 2012,Oakland 2014,Oakland 2013,Oakland 2012,Oakland 2011,USENIX 2017,USENIX 2014,USENIX 2013,USENIX 2007,NDSS 2016,NDSS 2014,NDSS 2011,NDSS 2010
+Jason Hong, CMU;CMU,2,2,0,Oakland 2017,Oakland 2016
+Nicholas Hopper, University of Minnesota; U of Minnesota,6,2,0,CCS 2013,CCS 2012,CCS 2011,Oakland 2014,NDSS 2014,NDSS 2013
+Amir Houmansadr,University of Massachusetts Amherst;University of Massachussettes; UMass;UMass; University of Massachusetts Amherst,6,6,3,CCS 2017,CCS 2016,CCS 2015,Oakland 2017,Oakland 2016,NDSS 2017
+Russ Housley, Internet Engineering Task Force,1,0,0,NDSS 2012
+Yih-Chun Hu, University of Illinois; UIUC; University of Illinois at Urbana Champaign,4,1,0,CCS 2013,Oakland 2014,NDSS 2011,NDSS 2006
+Yan Huang,Indiana University,3,3,3,CCS 2017,CCS 2016,CCS 2015
+Jean-Pierre Hubaux, EPFL; École Polytechnique Fédérale de Lausanne (EPFL); École Polytechnique Fédérale de Lausanne,4,2,0,CCS 2012,CCS 2011,USENIX 2015,USENIX 2014
+John Ioannidis, Columbia University; AT&T Research,3,0,0,USENIX 2006,NDSS 2007,NDSS 2004
+Sotiris Ioannidis, FORTH-ICS; Foundation for Research and Technology; ICS/FORTH; Foundation for Research and Technology - Hellas; University of Pennsylvania,5,1,0,CCS 2013,CCS 2012,CCS 2009,Oakland 2015,USENIX 2004
+Cynthia Irvine, Naval Postgraduate School,5,3,0,CCS 2005,USENIX 2016,USENIX 2015,USENIX 2014,USENIX 2010
+Aravind Iyer, GM India Sciences Laboratory,1,0,0,NDSS 2011
+Collin Jackson, CMU Silicon Valley; Carnegie Mellon University,3,0,0,CCS 2011,USENIX 2011,NDSS 2011
+Trent Jaeger,Penn State University;Pennsylvania State University; Pennsylvania State University; Penn State University; The Pennsylvania State University; IBM Research; Penn State,18,4,3,CCS 2017,CCS 2015,CCS 2014,CCS 2013,CCS 2010,CCS 2009,CCS 2008,CCS 2006,Oakland 2011,Oakland 2008,Oakland 2007,Oakland 2004,USENIX 2009,USENIX 2008,USENIX 2006,USENIX 2005,NDSS 2014,NDSS 2007
+Tibor Jager,Ruhr-University Bochum,1,1,1,CCS 2016
+Trent Jager, Pennsylvania State University,1,1,0,Oakland 2015
+Farnam Jahanian, U.Michigan; University of Michigan,5,0,0,CCS 2009,CCS 2008,Oakland 2011,Oakland 2009,NDSS 2008
+Abhishek Jain,Johns Hopkins University;MIT and BU; Massachusetts Institute of Technology and Boston University,3,3,3,CCS 2016,CCS 2015,CCS 2014
+Sushil Jajodia, George Mason University,2,0,0,CCS 2013,CCS 2012
+Markus Jakobsson, PayPal; Paypal; Indiana University; Qualcomm,5,1,0,CCS 2012,CCS 2011,CCS 2007,CCS 2006,Oakland 2014
+Suman Jana,Columbia University; Columbia University,2,2,1,CCS 2017,USENIX 2017
+Stas Jarecki, UC Irvine,1,0,0,CCS 2010
+Sanjay Jha, University of New South Wales,1,1,1,CCS 2014
+Somesh Jha, University of Wisconsin; University of Wisconsin ; University of Wisconsin Madison; UW Madison ,16,3,1,CCS 2014,CCS 2007,CCS 2006,CCS 2005,Oakland 2010,Oakland 2008,Oakland 2007,USENIX 2011,USENIX 2010,USENIX 2008,USENIX 2007,USENIX 2006,USENIX 2005,NDSS 2016,NDSS 2015,NDSS 2005
+Limin Jia,Carnegie Mellon University; Carnegie Mellon University,4,4,3,CCS 2017,CCS 2016,CCS 2015,Oakland 2015
+Xuxian Jiang, North Carolina State University; NC State University,6,2,0,Oakland 2014,Oakland 2009,NDSS 2014,NDSS 2013,NDSS 2012,NDSS 2009
+Trevor Jim, AT&T Research,1,0,0,CCS 2006
+Hongxia Jin,Samsung Research America;Samsung USA; Samsung USA,3,3,3,CCS 2016,CCS 2015,CCS 2014
+Yier Jin,University of Central Florida; UCF,2,2,1,CCS 2017,NDSS 2017
+Martin Johns, SAP Research,2,2,0,USENIX 2017,USENIX 2016
+Aaron Johnson,U.S. Naval Research Laboratory; Yale University; Naval Research Laboratory,3,2,1,CCS 2017,CCS 2008,Oakland 2014
+Rob Johnson, Stony Brook University; Stonybrook University; Stony Brook; Stony Brook University ,9,3,1,CCS 2014,CCS 2013,CCS 2009,CCS 2008,Oakland 2017,Oakland 2010,USENIX 2015,USENIX 2011,NDSS 2012
+Philipp Jovanovic,&Eacute; cole Polytechnique F&eacute;d&eacute;rale de Lausanne,1,1,1,CCS 2017
+Ari Juels, RSA Laboratories; Cornell Tech; RSA Labs; RSA; Cornell Tech (Shadow Chair); RSA Labs ,12,5,0,CCS 2013,CCS 2010,CCS 2008,CCS 2007,Oakland 2015,Oakland 2014,Oakland 2008,USENIX 2017,NDSS 2016,NDSS 2015,NDSS 2012,NDSS 2005
+Jaeyeon Jung, Intel Labs Seattle; Microsoft Research,5,2,0,CCS 2011,USENIX 2014,USENIX 2013,USENIX 2012,NDSS 2017
+Ralf K&uuml;sters,University of Stuttgart,1,1,1,CCS 2017
+Seny Kamara, Microsoft Research,1,0,0,Oakland 2013
+Brent Kang,KAIST; KAIST; Korea Advanced Institute of Science and Technology (KAIST),5,5,2,CCS 2016,CCS 2015,Oakland 2017,Oakland 2016,USENIX 2015
+Brent ByungHoon Kang,KAIST,1,1,1,CCS 2017
+Chris Kanich,University of Illinois at Chicago;UIC; University of Illinois at Chicago,7,7,2,CCS 2016,CCS 2015,Oakland 2016,Oakland 2015,USENIX 2017,USENIX 2014,NDSS 2014
+Apu Kapadia, Indiana University; Indiana Univ.; Indiana U; MIT Lincoln Labs; Indiana University Bloomington,8,3,0,CCS 2013,CCS 2011,CCS 2010,CCS 2009,Oakland 2014,NDSS 2015,NDSS 2014,NDSS 2013
+Alexandros Kapravelos, North Carolina State University,1,1,0,USENIX 2017
+Brad Karp, UCL,1,1,0,Oakland 2017
+Aniket Kate,Purdue University,1,1,1,CCS 2017
+Jonathan Katz,University of Maryland; University of Maryland; U. of Maryland,9,3,1,CCS 2017,CCS 2013,CCS 2012,CCS 2011,CCS 2006,CCS 2005,Oakland 2015,Oakland 2009,NDSS 2016
+Stefan Katzenbeisser,TU Darmstadt; TU Darmstadt,8,3,3,CCS 2017,CCS 2016,CCS 2015,CCS 2013,CCS 2012,CCS 2011,NDSS 2013,NDSS 2012
+Marcel Keller,University of Bristol,1,1,1,CCS 2017
+Richard Kemmerer, UC Santa Barbara; University of California,2,0,0,Oakland 2006,Oakland 2004
+Steve Kent, BBN; BBN ,3,0,0,NDSS 2006,NDSS 2005,NDSS 2004
+Angelos Keromytis, Columbia University,16,1,1,CCS 2014,CCS 2013,CCS 2012,CCS 2008,CCS 2007,CCS 2005,Oakland 2008,Oakland 2006,USENIX 2008,USENIX 2005,USENIX 2004,NDSS 2012,NDSS 2008,NDSS 2007,NDSS 2006,NDSS 2004
+Florian Kerschbaum,SAP; SAP; SAP Research,4,3,3,CCS 2016,CCS 2015,CCS 2014,CCS 2013
+Dogan Kesdogan, RWTH Aachen,1,0,0,Oakland 2005
+Roger Khazan, MIT Lincoln Lab,1,0,0,NDSS 2013
+Dmitry Khovratovich,University of Luxembourg,1,1,1,CCS 2016
+Aggelos Kiayias,University of Edinburgh; National and Kapodistrian University of Athens,2,2,2,CCS 2017,CCS 2014
+Taesoo Kim,Georgia Tech;Georgia Institute of Technology; Georgia Institute of Technology,4,4,3,CCS 2017,CCS 2016,CCS 2015,USENIX 2015
+Yongdae Kim,KAIST; KAIST; Korea Advanced Institute of Science and Technology; KAIST     ; University of Minnesota Twin Cities; U Minnesota Twin Cities; University of Minnesota,15,8,3,CCS 2017,CCS 2015,CCS 2014,CCS 2013,Oakland 2015,Oakland 2014,Oakland 2013,Oakland 2008,Oakland 2007,NDSS 2017,NDSS 2016,NDSS 2015,NDSS 2013,NDSS 2012,NDSS 2011
+Samuel King,Twitter; University of Illinois; University of Illinois at Urbana-Champaign,6,1,0,Oakland 2016,Oakland 2009,USENIX 2012,USENIX 2011,USENIX 2010,USENIX 2009
+Engin Kirda,Northeastern University; Northeastern University; Eurecom; Northeastern; Eurecomm; Vienna University of Technology,22,10,3,CCS 2017,CCS 2016,CCS 2015,CCS 2013,CCS 2012,CCS 2010,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2010,USENIX 2016,USENIX 2015,USENIX 2014,USENIX 2012,NDSS 2017,NDSS 2016,NDSS 2015,NDSS 2014,NDSS 2013,NDSS 2010,NDSS 2009,NDSS 2008
+Negar Kiyavash, University of Illinois at Urbana-Champaign,1,0,0,USENIX 2010
+Markulf Kohlweiss,Microsoft Research,1,1,1,CCS 2016
+Tadayoshi Kohno, University of Washington,1,1,0,USENIX 2017
+Yoshi Kohno, University of Washington; University of Washington ; Microsoft Research and University of Washington; University of California; Washington University,21,4,0,CCS 2010,CCS 2009,CCS 2008,Oakland 2014,Oakland 2012,Oakland 2011,Oakland 2010,Oakland 2009,Oakland 2008,Oakland 2007,USENIX 2016,USENIX 2015,USENIX 2014,USENIX 2011,USENIX 2008,USENIX 2007,USENIX 2005,NDSS 2011,NDSS 2010,NDSS 2009,NDSS 2006
+Vladimir Kolesnikov,Bell Labs,1,1,1,CCS 2016
+Aleksandra Korolova,USC,1,1,0,Oakland 2016
+David Kotz,Dartmouth,1,1,1,CCS 2017
+Farinaz Koushanfar,UC San Diego; Rice University; University of California; UCSD,11,9,1,CCS 2017,CCS 2013,Oakland 2015,Oakland 2014,Oakland 2009,USENIX 2017,USENIX 2016,USENIX 2015,USENIX 2014,NDSS 2017,NDSS 2016
+Hugo Krawczyk, Technion,1,0,0,CCS 2004
+Christian Kreibich, ICSI; International Computer Science Institute; Lastline Inc / International Computer Science Institute,6,3,0,Oakland 2014,USENIX 2012,NDSS 2015,NDSS 2014,NDSS 2011,NDSS 2010
+Shriram Krishnamurthi, Brown University; Brown University ,4,0,0,CCS 2009,Oakland 2012,Oakland 2011,Oakland 2010
+Arvind Krishnamurthy, U. of Washington,2,0,0,CCS 2012,CCS 2011
+Christopher Kruegel,University of California; UCSB; Technical Univ. Vienna; Technical University Vienna; UC Santa Barbara; University of California; Vienna University of Technology; Technical University Vienna ,19,3,1,CCS 2015,CCS 2011,CCS 2008,CCS 2007,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2010,Oakland 2008,Oakland 2007,Oakland 2006,USENIX 2009,USENIX 2007,NDSS 2016,NDSS 2015,NDSS 2010,NDSS 2009,NDSS 2008,NDSS 2005
+Louis Kruger, University of Wisconsin,1,0,0,USENIX 2006
+Michiharu Kudo, IBM Research,1,0,0,Oakland 2006
+Ralf Kuesters,University of Trier; University of Trier; U. of Trier; U of Trier,6,3,2,CCS 2016,CCS 2015,CCS 2012,CCS 2011,CCS 2010,Oakland 2015
+Markus Kuhn, University of Cambridge,2,0,0,CCS 2004,Oakland 2004
+Ranjit Kumaresan,MIT,1,1,1,CCS 2016
+Helmut Kurth, Atsec Information Security; atsec,3,0,0,CCS 2004,Oakland 2006,Oakland 2005
+Ralf Küsters, University of Trier; University of Kiel,3,2,1,CCS 2014,Oakland 2006,NDSS 2017
+Brian LaMacchia, Microsoft,1,0,0,CCS 2004
+Xuejia Lai, Shanghai Jiaotong University,1,0,0,CCS 2007
+Susan Landau, Sun Microsystems,1,0,0,Oakland 2006
+Carl Landwehr, University of Maryland; DTO,3,0,0,CCS 2005,Oakland 2008,Oakland 2006
+Marc Langheinrich, ETH Zurich,1,0,0,Oakland 2006
+Andrea Lanzi,University of Milan; University of Milan,4,4,3,CCS 2017,CCS 2016,CCS 2015,USENIX 2017
+Per Larsen, University of California,1,1,0,USENIX 2016
+Peeter Laud,Cybernetica AS; Cybernetica; Universiy of Tartu; Tartu University,6,2,2,CCS 2016,CCS 2015,CCS 2012,CCS 2005,CCS 2004,Oakland 2007
+Ben Laurie, Google UK; Google,2,0,0,CCS 2009,NDSS 2008
+Kristen LeFevre, University of Michigan,1,0,0,Oakland 2009
+Byoungyoung Lee,Purdue University,1,1,1,CCS 2017
+Dong Hoon Lee, Korea University,1,1,1,CCS 2014
+Heejo Lee, Korea University,2,1,0,Oakland 2014,NDSS 2011
+Kyu Hyung Lee,University of Georgia,1,1,1,CCS 2017
+Ruby Lee, Princeton University; Princeton University ,3,1,1,CCS 2014,Oakland 2013,Oakland 2010
+Wenke Lee,Georgia Tech;Georgia Institute of Technology; Georgia Institute of Technology; Georgia Tech,29,8,3,CCS 2017,CCS 2016,CCS 2015,CCS 2013,CCS 2012,CCS 2009,CCS 2008,CCS 2007,Oakland 2011,Oakland 2009,Oakland 2008,Oakland 2007,Oakland 2005,USENIX 2017,USENIX 2016,USENIX 2011,USENIX 2009,USENIX 2008,USENIX 2007,USENIX 2006,NDSS 2017,NDSS 2016,NDSS 2015,NDSS 2012,NDSS 2010,NDSS 2009,NDSS 2008,NDSS 2007,NDSS 2006
+Tim Leek, MIT Lincoln Laboratory; MIT Lincoln Labs,2,2,0,USENIX 2017,NDSS 2015
+Anja Lehmann,IBM Research – Zurich,1,1,1,CCS 2016
+Nektarios Leontiadis, Facebook,1,1,0,USENIX 2016
+Kirill Levchenko, University of California,1,0,0,USENIX 2012
+Brian Levine, UMass Amherst; U of Massachusetts Amherst; University of Massachusetts Amherst; U Mass Amherst; UMASS Amherst,6,1,0,CCS 2013,CCS 2009,CCS 2008,CCS 2006,NDSS 2014,NDSS 2012
+Brian N. Levine,University of Massachusetts Amherst,1,1,1,CCS 2017
+Allison Bishop Lewko, Columbia University,1,1,1,CCS 2014
+Jun Li, University of Oregon,1,0,0,NDSS 2013
+Ninghui Li,Purdue University; Purdue University; Purdue ,15,2,1,CCS 2015,CCS 2012,CCS 2011,CCS 2009,CCS 2008,CCS 2006,CCS 2005,CCS 2004,Oakland 2014,Oakland 2013,Oakland 2012,Oakland 2008,Oakland 2007,NDSS 2013,NDSS 2005
+Yingjiu Li, Singapore Management University,4,1,0,CCS 2013,Oakland 2014,Oakland 2008,Oakland 2007
+Zhichun Li,NEC Labs; NEC Research Labs; NEC Labs America; NEC Laboratories America,4,3,2,CCS 2017,CCS 2014,NDSS 2015,NDSS 2013
+Zhou Li,RSA;RSA Labs; RSA Labs,3,3,2,CCS 2017,CCS 2016,USENIX 2015
+Zhenkai Liang,National University of Singapore; National University of Singapore,10,9,3,CCS 2016,CCS 2015,CCS 2014,USENIX 2017,USENIX 2014,NDSS 2017,NDSS 2016,NDSS 2015,NDSS 2014,NDSS 2013
+Benoît Libert,ENS de Lyon;ENS Lyon; ENS Lyon,3,3,3,CCS 2016,CCS 2015,CCS 2014
+David Lie,University of Toronto;Toronto; University of Toronto; University Toronto,13,8,1,CCS 2017,Oakland 2016,Oakland 2015,Oakland 2014,Oakland 2009,USENIX 2017,USENIX 2015,USENIX 2014,USENIX 2012,USENIX 2010,USENIX 2009,USENIX 2008,NDSS 2016
+Zhiqiang Lin,University of Texas at Dallas; University of Texas at Dallas; The University of Texas at Dallas; University of Texas,5,5,3,CCS 2016,CCS 2015,CCS 2014,USENIX 2017,NDSS 2015
+Pat Lincoln, SRI International ,1,0,0,NDSS 2005
+Janne Lindqvist, Rutgers University,2,2,0,USENIX 2016,USENIX 2015
+Helger Lipmaa, Helsinki University of Technology,1,0,0,CCS 2004
+Peng Liu, The Pennsylvania State University; Penn State University,3,0,0,CCS 2008,CCS 2007,CCS 2006
+Yao Liu,University of South Florida;U. South Florida; University of South Florida,4,3,3,CCS 2017,CCS 2016,CCS 2015,NDSS 2013
+Ben Livshits, Microsoft Research,1,1,0,USENIX 2017
+Benjamin Livshits,Microsoft Research; Microsoft Research; Microsoft Research Redmond,12,6,2,CCS 2016,CCS 2015,CCS 2012,CCS 2011,Oakland 2013,Oakland 2012,Oakland 2011,USENIX 2016,USENIX 2013,NDSS 2017,NDSS 2016,NDSS 2015
+Michael Locasto, George Mason; University of Calgary; George Mason University ; George Mason University; Dartmouth College; Columbia University,7,0,0,CCS 2010,Oakland 2011,Oakland 2010,USENIX 2010,NDSS 2010,NDSS 2009,NDSS 2008
+Javier Lopez, University of Malaga,2,0,0,CCS 2006,CCS 2005
+Jay Lorch, MSR;MSR; Microsoft Research,3,3,0,Oakland 2017,Oakland 2016,NDSS 2014
+Gavin Lowe, Oxford University,1,0,0,CCS 2004
+Long Lu,Stony Brook University; Stony Brook University,8,8,3,CCS 2016,CCS 2015,CCS 2014,USENIX 2017,USENIX 2015,NDSS 2017,NDSS 2015,NDSS 2014
+Alexander De Luca,Google,2,2,2,CCS 2016,CCS 2015
+John Lui, The Chinese University of Hong Kong; Chinese University of Hong Kong,2,1,1,CCS 2014,Oakland 2013
+Teresa Lunt, Palo Alto Research Center,1,0,0,CCS 2004
+Anna Lysyanskaya, Brown University,2,1,1,CCS 2014,Oakland 2007
+Phil MacKenzie, Bell Labs - Lucent Technologies,1,0,0,CCS 2004
+Ashwin Machanavajjhala,Duke University,1,1,1,CCS 2015
+Matteo Maffei,"TU Vienna;Saarland University; Saarland University;CISPA, Saarland",6,5,3,CCS 2017,CCS 2016,CCS 2015,Oakland 2017,Oakland 2016,Oakland 2013
+Sergio Maffeis, Imperial; Imperial College London; Imperial College London ,3,1,0,Oakland 2017,Oakland 2011,Oakland 2010
+Mohammad Mahmody,University of Virginia,1,1,1,CCS 2017
+Tal Malkin,Columbia University; Columbia University,3,1,1,CCS 2016,CCS 2010,USENIX 2005
+Mohammad Mannan,Concordia University; University of Toronto,2,1,1,CCS 2016,USENIX 2010
+Heiko Mantel, TU Darmstadt; Technical Univ. Darmstadt; RWTH Aachen; DFKI,5,0,0,CCS 2012,CCS 2011,CCS 2008,CCS 2007,Oakland 2004
+Z. Morley Mao,University of Michigan; University of Michigan; University of Michigan ,11,3,2,CCS 2017,CCS 2014,CCS 2013,CCS 2008,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2010,USENIX 2008,NDSS 2014,NDSS 2012
+Ivan Martinovic,University of Oxford; Oxford University,5,5,1,CCS 2017,USENIX 2017,NDSS 2017,NDSS 2016,NDSS 2015
+Hiroshi Maruyama, IBM Japan; IBM Research,2,0,0,CCS 2005,CCS 2004
+Nick Mathewson, The Tor Project; The Free Haven Project,2,0,0,CCS 2008,CCS 2007
+Doug Maughan, Department of Homeland Security,1,0,0,CCS 2007
+Ueli Maurer, ETH Zurich,1,0,0,CCS 2004
+Roy Maxion, Carnegie Mellon University,1,0,0,Oakland 2005
+David Mazières,Stanford,1,1,0,Oakland 2016
+Michelle Mazurek, University of Maryland,4,4,0,Oakland 2017,Oakland 2015,USENIX 2017,USENIX 2016
+Michelle L. Mazurek,University of Maryland,1,1,1,CCS 2017
+Stephen McCamant, University of Minnesota,4,4,0,USENIX 2016,USENIX 2015,USENIX 2014,NDSS 2015
+Damon McCoy, New York University; New York University/ICSI; George Mason University,4,4,0,USENIX 2017,USENIX 2016,USENIX 2015,USENIX 2014
+Jonathan McCune,Google; Google; Carnegie Mellon University; Carnegie Mellon University ,15,7,1,CCS 2017,CCS 2013,Oakland 2014,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2010,USENIX 2017,USENIX 2016,USENIX 2015,USENIX 2013,USENIX 2012,NDSS 2017,NDSS 2014,NDSS 2013
+Patrick McDaniel, Pennsylvania State University; Penn State University; The Pennsylvania State University; Penn State ; Penn State University USA; AT&T Labs—Research,17,2,0,CCS 2012,CCS 2010,CCS 2009,CCS 2008,CCS 2006,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2008,Oakland 2007,USENIX 2014,USENIX 2007,USENIX 2004,NDSS 2017,NDSS 2013,NDSS 2012,NDSS 2009
+Gary McGraw, Cigital,1,0,0,Oakland 2008
+John McHugh, Dalhousie University; Carnegie Mellon University; CERT,3,0,0,CCS 2007,Oakland 2005,Oakland 2004
+John McLean, Naval Research Laboratory,1,0,0,Oakland 2004
+Catherine Meadows, Naval Research Laboratory,8,0,0,CCS 2013,CCS 2009,CCS 2008,CCS 2007,CCS 2006,CCS 2004,Oakland 2005,Oakland 2004
+Sarah Meiklejohn,University College London; University College London,6,6,2,CCS 2016,CCS 2015,USENIX 2017,USENIX 2016,USENIX 2015,NDSS 2017
+Nasir Memon, Polytechnic University,1,0,0,CCS 2006
+James Mickens, Harvard,1,1,0,Oakland 2017
+Andrew Miller,University of Illinois at Urbana-Champaign; UIUC; University of Illinois at Urbana–Champaign; UMD / UIUC,4,4,1,CCS 2017,Oakland 2017,USENIX 2017,NDSS 2017
+Barton Miller, University of Wisconsin,1,0,0,NDSS 2007
+Jelena Mirkovic, USC ISI,1,1,0,Oakland 2015
+Ilya Mironov, Google;Google,2,2,0,Oakland 2017,Oakland 2016
+John Mitchell, Stanford; Stanford University,11,0,0,CCS 2011,CCS 2008,CCS 2007,CCS 2006,CCS 2004,Oakland 2013,Oakland 2011,Oakland 2009,Oakland 2004,NDSS 2013,NDSS 2012
+Prateek Mittal,Princeton University; Princeton University; UC Berkeley,9,9,3,CCS 2016,CCS 2015,CCS 2014,USENIX 2017,USENIX 2016,NDSS 2017,NDSS 2016,NDSS 2015,NDSS 2014
+George Mohay, Queensland University of Technology,1,0,0,CCS 2005
+Ian Molloy,IBM Research,2,2,2,CCS 2016,CCS 2015
+David Molnar, Microsoft Research; U of California; Univ. of California; UC Berkeley; Microsoft Research Redmond ,12,2,0,CCS 2010,CCS 2009,CCS 2008,CCS 2007,Oakland 2012,Oakland 2011,Oakland 2010,USENIX 2015,USENIX 2012,NDSS 2016,NDSS 2013,NDSS 2012
+Refik Molva, EURECOM; Institut Eurecome,3,1,1,CCS 2014,CCS 2013,CCS 2006
+Fabian Monrose, University of North Carolina at Chapel Hill; UNC at Chapel Hill; Univ. of North Carolina; Johns Hopkins University; University of North Carolina,14,0,0,CCS 2013,CCS 2011,CCS 2010,CCS 2009,Oakland 2008,Oakland 2007,USENIX 2013,USENIX 2008,USENIX 2007,USENIX 2006,USENIX 2005,NDSS 2009,NDSS 2008,NDSS 2007
+Ken Moody, University of Cambridge,1,0,0,Oakland 2007
+Tyler Moore, Wellesley College and SMU; University of Tulsa; Southern Methodist University,3,2,0,CCS 2012,USENIX 2016,USENIX 2015
+Tal Moran,IDC Herzliya,1,1,1,CCS 2017
+Greg Morrisett, Harvard University,3,2,0,Oakland 2015,Oakland 2014,Oakland 2009
+Alex Moshchuk, Microsoft Research,1,0,0,USENIX 2012
+Yi Mu, University of Wollongong,1,0,0,CCS 2007
+James Muir, Cloakware Corporation; Saint Mary’s University,2,0,0,CCS 2009,CCS 2008
+Steven Murdoch,University College London; Univ. of Cambridge; University of Cambridge; University College London,7,2,1,CCS 2016,CCS 2011,CCS 2010,CCS 2008,CCS 2007,USENIX 2012,NDSS 2017
+Andrew Myers, Cornell University; Cornell,13,2,1,CCS 2014,CCS 2013,CCS 2012,CCS 2004,Oakland 2015,Oakland 2012,Oakland 2011,Oakland 2009,Oakland 2008,Oakland 2007,Oakland 2004,USENIX 2006,NDSS 2004
+Steven Myers, Indiana Univ.; Indiana University; Indiana University Bloomington,3,1,0,CCS 2010,CCS 2008,NDSS 2017
+Ludovic Mé, Supélec,3,0,0,CCS 2007,CCS 2004,Oakland 2006
+Jörn Müller-Quade, TH Karlsruhe,1,0,0,Oakland 2007
+David Naccache, Ecole Normale Suprieure; Ecole Normale Superieure,2,0,0,CCS 2013,CCS 2011
+Prasad Naldurg, Microsoft Research,1,0,0,CCS 2008
+Chanathip Namprempre, Thammasat University,1,0,0,CCS 2004
+Arvind Narayanan,Princeton University; Stanford; Princeton University; Stanford   ,7,4,2,CCS 2016,CCS 2015,CCS 2011,Oakland 2015,Oakland 2013,Oakland 2012,USENIX 2016
+David Naumann, Stevens Tech,1,0,0,CCS 2010
+Muhammad Naveed,University of Southern California; USC,2,2,1,CCS 2017,NDSS 2017
+Peter G. Neumann, SRI International Computer Science Lab,1,0,0,CCS 2004
+Pekka Nikander, Ericsson Research,1,0,0,CCS 2004
+Nick Nikiforakis,Stony Brook University; Stony Brook University,6,6,3,CCS 2017,CCS 2016,CCS 2015,USENIX 2017,USENIX 2016,USENIX 2015
+Peng Ning, North Carolina State Univ.; North Carolina State University; NC State University and Samsung Mobile; NC State University,7,0,0,CCS 2009,CCS 2008,Oakland 2013,Oakland 2009,NDSS 2013,NDSS 2012,NDSS 2011
+Cristina Nita-Rotaru, Purdue University; Northeastern;Northeastern; Purdue; Purdue University ; Northeastern University,17,6,0,CCS 2013,CCS 2009,CCS 2008,Oakland 2017,Oakland 2016,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2010,USENIX 2016,USENIX 2015,USENIX 2014,USENIX 2012,NDSS 2016,NDSS 2013,NDSS 2012,NDSS 2011
+Mats Näslund, Ericcson Research,1,0,0,CCS 2005
+Eiji Okamoto, University of Tsukuba,2,0,0,CCS 2006,CCS 2005
+Tatsuaki Okamoto, NTT Research,1,0,0,CCS 2004
+Hamed Okhravi,MIT Lincoln Laboratory,3,3,3,CCS 2017,CCS 2016,CCS 2015
+Paul van Oorschot, Carleton Univ.; Carleton University; Carelton University (Canada),9,0,0,CCS 2011,CCS 2009,CCS 2008,Oakland 2007,Oakland 2006,USENIX 2007,USENIX 2005,USENIX 2004,NDSS 2004
+Alina Oprea,Northeastern University; RSA Security; RSA Laboratories; Northeastern; RSA Labs; Northeastern University,11,8,1,CCS 2017,CCS 2013,CCS 2012,Oakland 2017,Oakland 2015,Oakland 2014,USENIX 2017,NDSS 2017,NDSS 2016,NDSS 2015,NDSS 2013
+Claudio Orlandi,Aarhus University,1,1,1,CCS 2016
+Hilarie Orman, Purple Streak,2,0,0,CCS 2005,Oakland 2008
+Xinming Ou,University of South Florida;Kansas State University,2,2,2,CCS 2016,CCS 2015
+Panos Papadimitratos, KTH Stockholm,1,0,0,CCS 2013
+Charalampos Papamanthou,University of Maryland; University of Maryland,4,4,3,CCS 2016,CCS 2015,CCS 2014,NDSS 2017
+Stefano Paraboschi, University of Bergamo,3,0,0,CCS 2009,CCS 2008,CCS 2007
+Bryan Parno,Microsoft Research; Microsoft Research,9,3,1,CCS 2016,CCS 2013,CCS 2012,Oakland 2015,Oakland 2014,Oakland 2013,NDSS 2013,NDSS 2012,NDSS 2011
+Kenny Paterson, Royal Holloway,3,1,0,CCS 2012,CCS 2011,USENIX 2017
+Vern Paxson,University of California; ICSI / LBNL; UC Berkeley / ICSI; University of California; ICSI/Berkeley ; ICSI and LBNL; ICSI; UC Berkeley and International Computer Science Institute; ICSI/LBNL,13,2,1,CCS 2015,CCS 2004,Oakland 2014,Oakland 2010,Oakland 2008,Oakland 2006,Oakland 2005,Oakland 2005,Oakland 2004,USENIX 2011,USENIX 2009,USENIX 2007,NDSS 2012
+Mathias Payer,Purdue University; Purdue University,5,5,3,CCS 2017,CCS 2016,CCS 2015,USENIX 2017,USENIX 2016
+Brian Payne, Sandia National Labs,1,0,0,Oakland 2012
+Marcus Peinado, MSR;MSR,2,2,0,Oakland 2017,Oakland 2016
+Chunyi Peng, The Ohio State University,1,1,0,NDSS 2017
+Roberto Perdisci,University of Georgia; University of Georgia,6,4,2,CCS 2016,CCS 2015,Oakland 2013,Oakland 2012,USENIX 2017,NDSS 2015
+Radia Perlman, Sun Microsystems; Sun Microsystems Laboratories; Sun,5,0,0,CCS 2005,Oakland 2005,USENIX 2005,NDSS 2007,NDSS 2004
+Adrian Perrig,ETH Zurich; Carnegie Mellon University; ETH Zurich,17,4,3,CCS 2017,CCS 2016,CCS 2015,CCS 2012,CCS 2008,CCS 2005,CCS 2004,Oakland 2012,Oakland 2011,Oakland 2006,USENIX 2007,USENIX 2005,USENIX 2004,NDSS 2016,NDSS 2011,NDSS 2010,NDSS 2009
+Giuseppe Persiano, Universita di Salerno,1,0,0,NDSS 2012
+Zachary N. J. Peterson, Naval Postgrad. School ; California Polytechnic State University,4,3,0,Oakland 2012,USENIX 2016,USENIX 2015,USENIX 2014
+Andreas Pfitzmann, Technical Univ. Dresden,1,0,0,CCS 2008
+Birgit Pfitzmann, IBM Zurich Research Lab; IBM Research,4,0,0,Oakland 2007,Oakland 2006,Oakland 2005,Oakland 2004
+Frank Piessens, KU Leuven;KU Leuven; Katholieke Universiteit Leuven,5,4,0,CCS 2012,Oakland 2017,Oakland 2016,Oakland 2015,USENIX 2016
+Roberto Di Pietro,Bell Labs; Bell Labs; Università di Roma Tre,3,2,2,CCS 2015,CCS 2014,CCS 2013
+Benny Pinkas,Bar Ilan University; Bar Ilan University; U of Haifa;BIU; University of Haifa,6,4,2,CCS 2015,CCS 2014,CCS 2013,CCS 2010,Oakland 2016,Oakland 2014
+Marco Pistoia,IBM T. J. Watson Research Center; IBM Watson,2,1,1,CCS 2016,NDSS 2009
+Christina Poepper, New York University Abu Dhabi ; Ruhr University Bochum,2,2,0,NDSS 2017,NDSS 2016
+David Pointcheval, CNRS-ENS,1,0,0,CCS 2004
+Michalis Polychranakis, Stony Brook University,1,1,0,USENIX 2017
+Michalis Polychronakis,Stony Brook University; Columbia University; Stony Brook University,5,5,3,CCS 2017,CCS 2016,CCS 2014,USENIX 2016,USENIX 2015
+Radha Poovendran, University of Washington,3,0,0,CCS 2005,NDSS 2013,NDSS 2011
+Raluca Ada Popa,UC Berkeley; MIT; University of California,4,4,1,CCS 2016,Oakland 2015,USENIX 2016,NDSS 2017
+Phil Porras, SRI International,7,2,0,CCS 2006,Oakland 2014,NDSS 2014,NDSS 2013,NDSS 2011,NDSS 2010,NDSS 2004
+Georgios Portokalidis,Stevens Institute of Technology; Stevens Institute of Technology,5,5,1,CCS 2017,USENIX 2017,USENIX 2016,USENIX 2015,NDSS 2015
+Joachim Posegga, SAP and University of Hamburg; University of Hamburg,2,0,0,CCS 2004,Oakland 2005
+Atul Prakash, University of Michigan,1,0,0,Oakland 2008
+Bart Preneel,KU Leuven;KU Leuven and iMinds; KU Leuven and iMinds; KU Leuven; Katholieke Universiteit Leuven; K.U. Leuven,7,3,3,CCS 2017,CCS 2015,CCS 2014,CCS 2010,CCS 2008,CCS 2007,Oakland 2004
+Vassilis Prevelakis, Drexel University,2,0,0,USENIX 2007,USENIX 2006
+Emmanuel Prouff,ANSSI,1,1,1,CCS 2016
+Niels Provos, Google; Google Inc.; Google Inc. ,23,5,0,CCS 2012,CCS 2011,Oakland 2017,Oakland 2015,Oakland 2014,Oakland 2013,Oakland 2008,Oakland 2005,USENIX 2016,USENIX 2015,USENIX 2013,USENIX 2012,USENIX 2011,USENIX 2010,USENIX 2009,USENIX 2006,USENIX 2005,USENIX 2004,NDSS 2010,NDSS 2009,NDSS 2008,NDSS 2006,NDSS 2005
+Christina Pöpper,New York University Abu Dhabi;Ruhr-University Bochum; Ruhr-University Bochum; New York University,5,5,3,CCS 2016,CCS 2015,CCS 2014,USENIX 2017,USENIX 2016
+Zhiyun Qian,"University of California, Riverside;University of California; NEC Research Labs; NEC Laboratories America",4,3,3,CCS 2017,CCS 2016,CCS 2014,NDSS 2013
+Moheeb Rajab, Google,1,0,0,NDSS 2010
+Raj Rajagopalan, Honeywell Labs,1,1,0,USENIX 2014
+Sriram Rajamani, Microsoft Research,1,0,0,CCS 2008
+Benjamin Ransford, University of Washington,2,2,0,USENIX 2015,USENIX 2014
+Josyula R. Rao, IBM Research,2,0,0,CCS 2004,Oakland 2005
+Kasper Rasmussen,University of Oxford,1,1,1,CCS 2017
+Aseem Rastogi,Microsoft Research India,1,1,1,CCS 2017
+Indrakshi Ray, Colorado State University,1,0,0,CCS 2004
+Mariana Raykova,Yale University; SRI International; Yale,3,3,2,CCS 2017,CCS 2014,Oakland 2017
+Kaveh Razavi,Vrije Universiteit,1,1,1,CCS 2017
+Christian Rechberger, DTU,1,0,0,CCS 2012
+Mike Reiter, University of North Carolina at Chapel Hill; UNC at Chapel Hill; Univ. of North Carolina;UNC Chapel Hill; UNC Chapel Hill; University of North Carolina; University of North Carolina ; Carnegie Mellon University; CMU,22,6,1,CCS 2014,CCS 2013,CCS 2012,CCS 2011,CCS 2008,Oakland 2016,Oakland 2015,Oakland 2011,Oakland 2010,Oakland 2005,Oakland 2004,USENIX 2009,USENIX 2008,USENIX 2006,NDSS 2017,NDSS 2016,NDSS 2014,NDSS 2013,NDSS 2012,NDSS 2010,NDSS 2009,NDSS 2007
+Kui Ren,State University of New York at Buffalo;University at Buffalo; University at Buffalo; Illinois Institute of Technology,4,3,3,CCS 2016,CCS 2015,CCS 2014,NDSS 2013
+Tom Reps, U of Wisconsin,1,0,0,CCS 2010
+Eric Rescorla, RTFM; RTFM ,4,0,0,Oakland 2005,USENIX 2011,NDSS 2005,NDSS 2004
+Konrad Rieck,Technische Universität Braunschweig;University of Goettingen; University of Göttingen,3,3,3,CCS 2016,CCS 2015,CCS 2014
+Thomas Ristenpart, U. of Wisconsin; University of Wisconsin; Cornell Tech; University of Wisconsin—Madison,11,6,0,CCS 2012,CCS 2011,Oakland 2015,Oakland 2013,Oakland 2012,USENIX 2016,USENIX 2015,USENIX 2014,NDSS 2016,NDSS 2014,NDSS 2013
+Deng Robert, Singapore Management University,1,0,0,CCS 2012
+Will Robertson,Northeastern University; Northeastern University; Berkeley   ; UC Berkeley; University of California,11,7,2,CCS 2016,CCS 2015,Oakland 2015,Oakland 2013,Oakland 2012,Oakland 2011,USENIX 2016,USENIX 2015,USENIX 2011,NDSS 2017,NDSS 2015
+William Robertson,Northeastern University; Northeastern University,2,2,1,CCS 2017,USENIX 2017
+Michael Roe, University of Hertfordshire; Microsoft Research,4,0,0,CCS 2013,USENIX 2006,NDSS 2011,NDSS 2006
+Franziska Roesner, University of Washington;U. of Washington,7,7,0,Oakland 2017,Oakland 2016,Oakland 2015,USENIX 2017,USENIX 2016,USENIX 2015,NDSS 2016
+Greg Rose, Qualcomm,1,0,0,USENIX 2004
+Christian Rossow,Saarland University,1,1,1,CCS 2017
+Mike Rosulek,Oregon State University,1,1,1,CCS 2017
+Volker Roth, Freie Universitaet Berlin; Freie Universität Berlin,4,1,0,CCS 2013,Oakland 2014,NDSS 2013,NDSS 2012
+Avi Rubin, Johns Hopkins University,2,0,0,Oakland 2008,Oakland 2004
+Michaël Rusinowitch, INRIA Lorraine,2,0,0,CCS 2004,Oakland 2006
+Alejandro Russo,Chalmers University of Technology,1,1,1,CCS 2016
+Peter Ryan, Newcastle University; University of Newcastle,2,0,0,CCS 2007,CCS 2004
+Tatyana Ryutov, USC Information Sciences Institute ,1,0,0,NDSS 2005
+Juha Röning, University of Oulu,2,0,0,CCS 2004,Oakland 2007
+Ulrich Rührmair, University of Bochum;U. of Bochum,2,2,0,Oakland 2017,Oakland 2016
+Andrei Sabelfeld,Chalmers University of Technology; Chalmers University of Technology; Chalmers U of Tech.; Chalmers Univ. of Technology; Chalmers; Chalmers University; Chalmers University ,13,9,3,CCS 2016,CCS 2015,CCS 2014,CCS 2009,CCS 2008,Oakland 2017,Oakland 2015,Oakland 2014,Oakland 2010,Oakland 2006,USENIX 2017,USENIX 2016,NDSS 2016
+Ahmad-Reza Sadeghi,Technische Universität Darmstadt;TU Darmstadt; Technische Universitaet Darmstadt; TU Darmstadt and Fraunhofer SIT Darmstadt; Technical University of Darmstadt; Technische Universität Darmstadt; TU Darmstadt; Technical University Darmstadt,12,8,3,CCS 2016,CCS 2015,CCS 2014,CCS 2012,Oakland 2013,USENIX 2016,NDSS 2017,NDSS 2016,NDSS 2015,NDSS 2014,NDSS 2013,NDSS 2012
+Rei Safavi-Naini,University of Calgary; University of Calgary; University of Wollongong,6,2,2,CCS 2015,CCS 2014,CCS 2006,CCS 2005,CCS 2004,Oakland 2005
+Reiner Sailer, IBM Research; IBM T.J. Watson; IBM TJ Watson Research Center; IBM T.J. Watson Research Center,4,0,0,CCS 2010,CCS 2006,Oakland 2009,USENIX 2010
+Kazue Sako, NEC; NEC Corporation,3,0,0,CCS 2009,CCS 2008,CCS 2007
+Pierangela Samarati, Università degli Studi di Milano; University of Milan; Univ. of Milan; Universita degli Studi di Milano,8,1,1,CCS 2014,CCS 2009,CCS 2008,CCS 2007,CCS 2006,Oakland 2005,Oakland 2004,NDSS 2013
+Tomas Sander, Hewlett-Packard,1,0,0,CCS 2004
+Ravi Sandhu, UT San Antonio,1,0,0,CCS 2013
+David Sands, Chalmers University of Technology,1,0,0,Oakland 2013
+Len Sassaman, Katholieke Universiteit Leuven,1,0,0,NDSS 2008
+Angela Sasse, University College London,1,0,0,CCS 2009
+Stefan Savage, University of California; UC San Diego,2,0,0,Oakland 2009,Oakland 2006
+Nitesh Saxena,University of Alabama at Birmingham; University of Alabama at Birmingham; NYU Poly; Polytechnic Institute of New York University,6,4,3,CCS 2016,CCS 2015,CCS 2014,USENIX 2015,NDSS 2012,NDSS 2011
+Prateek Saxena,Singapore; National University of Singapore,6,5,0,Oakland 2016,Oakland 2015,Oakland 2014,USENIX 2015,USENIX 2014,USENIX 2013
+Andre Scedrov, University of Pennsylvania; U Penn,4,0,0,CCS 2008,CCS 2006,CCS 2005,CCS 2004
+Patrick Schaumont,Virginia Tech; Virginia Polytechnic Institute and State University,2,2,1,CCS 2017,USENIX 2014
+Stuart Schechter, Microsoft Research; Microsoft Research Redmond ,4,1,0,Oakland 2011,Oakland 2010,USENIX 2014,USENIX 2013
+Steve Schneider, U of Surrey; University of Surrey; Royal Holloway,3,0,0,CCS 2010,CCS 2008,CCS 2004
+Thomas Schneider,TU Darmstadt,1,1,0,Oakland 2016
+Christoph Schuba, Sun Microsystems,2,0,0,Oakland 2004,NDSS 2009
+Matthias Schunter, IBM Research,1,0,0,CCS 2004
+Felix Schuster, Microsoft Research,1,1,0,USENIX 2016
+Jörg Schwenk,Ruhr University Bochum;Ruhr-Universitaet Bochum; Ruhr-Universität Bochum,3,3,2,CCS 2016,CCS 2015,USENIX 2016
+R. Sekar, SUNY; Stony Brook University; SUNY Stony Brook; Stony Brook; State University of New York at Stony Brook; SUNY Stonybrook,18,1,0,CCS 2010,CCS 2009,CCS 2006,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2009,Oakland 2008,Oakland 2007,USENIX 2015,USENIX 2010,USENIX 2009,USENIX 2008,USENIX 2006,USENIX 2005,NDSS 2012,NDSS 2009,NDSS 2008
+Vyas Sekar, Stony Brook University; CMU;CMU; Carnegie Mellon University,6,5,0,CCS 2013,Oakland 2017,Oakland 2016,Oakland 2015,NDSS 2017,NDSS 2014
+Andrei Serjantov, The Free Haven Project,1,0,0,Oakland 2005
+Simha Sethumadhavan, Columbia University; Chip Scan/Columbia;Columbia; Columbia,6,3,0,CCS 2013,Oakland 2017,Oakland 2016,Oakland 2013,Oakland 2012,USENIX 2014
+Hovav Shacham,University of California; UCSD; UC San Diego; Weizmann Institute of Science;ICSI / UCSD; University of California,15,4,1,CCS 2015,CCS 2011,CCS 2009,CCS 2008,Oakland 2016,Oakland 2011,Oakland 2010,USENIX 2016,USENIX 2015,USENIX 2013,USENIX 2011,USENIX 2010,USENIX 2009,NDSS 2010,NDSS 2009
+Umesh Shankar, Google,3,0,0,CCS 2009,CCS 2008,Oakland 2009
+Greg Shannon, Carnegie Mellon Univ./CERT      ,1,0,0,Oakland 2012
+Jonathan Shapiro, Johns Hopkins University,3,0,0,CCS 2004,Oakland 2004,NDSS 2007
+Abhi Shelat,University of Virginia; University of Virginia,4,3,2,CCS 2016,CCS 2015,Oakland 2009,NDSS 2017
+Micah Sherr,Georgetown University; Georgetown University; University of Pennsylvania,8,3,1,CCS 2017,USENIX 2016,USENIX 2015,USENIX 2013,USENIX 2011,USENIX 2010,USENIX 2009,USENIX 2008
+Timothy Sherwood,UC Santa Barbara,1,1,1,CCS 2017
+Elaine Shi,Cornell;University of Maryland; University of Maryland; UC Berkeley and Parc,8,5,2,CCS 2016,CCS 2015,Oakland 2016,USENIX 2016,USENIX 2015,USENIX 2013,NDSS 2013,NDSS 2012
+Shiuhpyng Shieh, National Chiao Tung University; National Chiao Tung U,5,0,0,CCS 2013,CCS 2009,CCS 2008,CCS 2007,CCS 2006
+Clay Shields, Georgetown University,1,0,0,CCS 2013
+Kang Shin, University of Michigan,1,0,0,CCS 2005
+Vitaly Shmatikov, University of Texas; University of Texas at Austin; University of Texas at Austin ,8,1,0,CCS 2008,CCS 2007,CCS 2005,Oakland 2015,Oakland 2010,Oakland 2009,USENIX 2012,NDSS 2012
+Reza Shokri,Cornell Tech; The University of Texas at Austin; Cornell Tech; University of Texas at Austin,5,5,1,CCS 2017,USENIX 2016,USENIX 2015,NDSS 2017,NDSS 2016
+Thomas Shrimpton, University of Florida,1,1,0,USENIX 2017
+Tom Shrimpton,University of Florida; University of Florida,2,2,1,CCS 2016,NDSS 2017
+Stelios Sidiroglou-Douskos,MIT; Massachusetts Institute of Technology,3,3,1,CCS 2017,USENIX 2017,NDSS 2015
+Dan Simon, Microsoft Research; Microsoft,3,0,0,NDSS 2006,NDSS 2005,NDSS 2004
+Kapil Singh,IBM Research; IBM Research,4,3,3,CCS 2016,CCS 2015,CCS 2014,Oakland 2012
+Anoop Singhal, NIST,1,0,0,CCS 2009
+Radu Sion, Stony Brook University; Stony Brook; Stony Brook ; Stony Brook University ,15,1,0,CCS 2013,CCS 2012,CCS 2009,CCS 2008,CCS 2007,Oakland 2014,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2010,Oakland 2009,NDSS 2013,NDSS 2012,NDSS 2011,NDSS 2010
+Emin Gun Sirer,Cornell,1,1,0,Oakland 2016
+Morris Sloman, Imperial College London,1,0,0,CCS 2004
+Asia Slowinska, Vrije Universiteit Amsterdam,1,1,0,NDSS 2014
+Nigel Smart, University of Bristol,1,1,0,Oakland 2017
+Diana Smetters, Palo Alto Research Center; Google; PARC,4,0,0,Oakland 2007,USENIX 2012,USENIX 2011,NDSS 2004
+Adam Smith, Pennsylvania State University ,1,0,0,Oakland 2010
+Matthew Smith,Universitaet Bonn; University of Bonn;U. Bonn; University of Hannover,5,5,2,CCS 2015,CCS 2014,Oakland 2016,Oakland 2015,Oakland 2014
+Sean Smith, Dartmouth College; Dartmouth College ; Dartmouth,15,0,0,CCS 2013,CCS 2006,Oakland 2011,Oakland 2010,Oakland 2008,Oakland 2007,Oakland 2006,USENIX 2004,NDSS 2011,NDSS 2010,NDSS 2009,NDSS 2008,NDSS 2007,NDSS 2006,NDSS 2005
+Einar Snekkenes, Gjøvik University College,1,0,0,CCS 2007
+Alex Snoeren, UCSD; UC San Diego,2,1,0,Oakland 2017,NDSS 2012
+Jon Solworth, U. Illinois Chicago,1,0,0,CCS 2009
+Anil Somayaji, Carleton University; Carleton Univ.,6,0,0,CCS 2012,CCS 2011,CCS 2010,CCS 2008,USENIX 2008,USENIX 2006
+Robin Sommer, ICSI/LBNL; International Computer Science Institute; ICSI,8,5,0,Oakland 2015,Oakland 2013,USENIX 2017,NDSS 2016,NDSS 2015,NDSS 2014,NDSS 2013,NDSS 2012
+Sooel Son,Google,1,1,1,CCS 2016
+Chengyu Song,UC Riverside,1,1,1,CCS 2017
+Dawn Song, Carnegie Mellon University; Carnegie-Mellon University; University of California; CMU; CMU ,7,0,0,CCS 2006,CCS 2005,CCS 2004,Oakland 2010,Oakland 2008,NDSS 2006,NDSS 2005
+Dug Song, Arbor Networks,1,0,0,USENIX 2007
+Abhinav Srivastava, AT&T Labs,1,0,0,NDSS 2013
+Jessica Staddon, Palo Alto Research Center; Google; PARC,5,1,0,CCS 2009,CCS 2008,CCS 2006,Oakland 2015,USENIX 2006
+Frank Stajano, Cambridge University,1,1,0,Oakland 2014
+Francois-Xavier Standaert,Universite Catholique de Louvain; Universite Catholique de Louvain; UCL,3,2,2,CCS 2015,CCS 2014,CCS 2011
+Angelos Stavrou, George Mason Univ.; Goerge Mason University; George Mason University; Columbia University,10,0,0,CCS 2010,CCS 2009,Oakland 2012,Oakland 2011,Oakland 2010,USENIX 2009,USENIX 2008,USENIX 2007,NDSS 2010,NDSS 2009
+Douglas Stebila,McMaster University;Queensland University of Technology,3,3,3,CCS 2017,CCS 2016,CCS 2015
+Graham Steel, Cryptosense and INRIA,1,1,1,CCS 2014
+Deian Stefan,UC San Diego; University of California,3,3,1,CCS 2017,USENIX 2017,USENIX 2016
+Michael Steiner, IBM TJ Watson Research Center; IBM Research,2,0,0,Oakland 2007,Oakland 2004
+Salvatore Stolfo, Columbia University; Columbia U,8,1,1,CCS 2014,CCS 2013,CCS 2012,CCS 2008,CCS 2007,Oakland 2007,Oakland 2006,USENIX 2006
+Gianluca Stringhini,University College London; University College London,6,6,3,CCS 2017,CCS 2016,CCS 2015,USENIX 2017,USENIX 2016,NDSS 2015
+Thorsten Strufe,TU Dresden,2,2,2,CCS 2016,CCS 2015
+Adam Stubblefield, Independent Security Evaluators; Johns Hopkins University,3,0,0,Oakland 2008,USENIX 2005,NDSS 2006
+Cynthia Sturton, The University of North Carolina at Chapel Hill; University of North Carolina at Chapel Hill; University of California,4,3,0,USENIX 2016,USENIX 2015,USENIX 2014,USENIX 2013
+Zhendong Su, UC Davis,2,0,0,NDSS 2009,NDSS 2008
+Ed Suh,Cornell University; Cornell University; Cornell University ,5,3,1,CCS 2016,Oakland 2015,Oakland 2011,Oakland 2010,NDSS 2017
+Kun Sun,George Mason University;College of William and Mary,3,3,3,CCS 2017,CCS 2016,CCS 2015
+Nikhil Swamy, MSR;MSR,2,2,0,Oakland 2017,Oakland 2016
+Michael Swift, University of Wisconsin,1,0,0,CCS 2008
+Ewa Syta,Trinity College,1,1,1,CCS 2017
+Paul Syverson, Naval Research Laboratory; Naval Research Labs; Naval Research Laboratory ,5,0,0,CCS 2012,Oakland 2013,Oakland 2004,NDSS 2012,NDSS 2005
+Doug Szajda, University of Richmond; Universtiy of Richmond,2,0,0,NDSS 2012,NDSS 2007
+Jakub Szefer,Yale University; Yale University,3,3,3,CCS 2016,CCS 2015,CCS 2014
+Nina Taft,Google,1,1,0,Oakland 2016
+Patrick Tague, Carnegie Mellon University,2,1,0,CCS 2013,NDSS 2014
+Roberto Tamassia, Brown University,1,0,0,CCS 2013
+Gang Tan,Pennsylvania State University;Lehigh University; Lehigh University; Penn State;Lehigh,6,6,3,CCS 2016,CCS 2015,CCS 2014,Oakland 2017,Oakland 2016,NDSS 2014
+Shuo Tang, University of Illinois and Adrenaline Mobility,1,0,0,USENIX 2013
+Stefano Tessaro,University of California; UCSB,3,3,2,CCS 2016,CCS 2015,NDSS 2017
+Abhradeep Thakurta, Apple,1,1,0,Oakland 2017
+Rodney Thayer, Network World,1,0,0,NDSS 2007
+George Theodorakopoulos, Cardiff University,1,0,0,CCS 2013
+Kurt Thomas, Google,3,3,0,Oakland 2017,USENIX 2017,USENIX 2016
+Julie Thorpe, Carleton University,3,0,0,CCS 2009,CCS 2008,USENIX 2009
+Mohit Tiwari,UT Austin;University of Texas at Austin;U. of Texas at Austin; University of Texas at Austin,5,5,3,CCS 2017,CCS 2016,CCS 2015,Oakland 2016,Oakland 2015
+Wade Trappe, WINLAB; Rutgers University,4,1,0,CCS 2013,USENIX 2014,NDSS 2013,NDSS 2012
+Patrick Traynor,University of Florida; University of Florida; Georgia Institute of Technology; Georgia Tech; Georgia Tech  ; Georgia Institute of Technology ; Pennsylvania State University,22,9,2,CCS 2015,CCS 2014,CCS 2013,CCS 2009,Oakland 2014,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2010,Oakland 2009,USENIX 2017,USENIX 2016,USENIX 2015,USENIX 2013,USENIX 2010,USENIX 2009,USENIX 2008,NDSS 2016,NDSS 2015,NDSS 2014,NDSS 2013,NDSS 2010
+Nikos Triandopoulos,Boston University;RSA Laboratories & Boston University; Boston University,3,3,2,CCS 2016,CCS 2015,NDSS 2017
+Mahesh Tripunitara,University of Waterloo; Universirty of Waterloo,3,3,3,CCS 2016,CCS 2015,CCS 2014
+Eran Tromer, Tel Aviv Univ.;TAU,2,1,0,CCS 2011,Oakland 2016
+Carmela Troncoso,IMDEA Software Institute; Gradiant; IMDEA;IMDEA Software,5,4,2,CCS 2017,CCS 2014,CCS 2013,Oakland 2017,Oakland 2016
+Jonathan Trostle, JHU APL; ASK Consulting and Research; Security Research Consultant; ASK Consulting & Research,4,0,0,CCS 2010,CCS 2007,Oakland 2004,NDSS 2006
+Gene Tsudik, University of California Irvine; UCI; University of California; UC Irvine,4,0,0,CCS 2004,Oakland 2008,Oakland 2004,NDSS 2004
+Doug Tygar, University of California; UC Berkeley,2,0,0,Oakland 2009,Oakland 2006
+Blase Ur,University of Chicago,1,1,1,CCS 2017
+Blaze Ur, University of Chicago,1,1,0,USENIX 2017
+Vijay Varadharajan, Macquarie University,1,0,0,CCS 2013
+Eugene Y. Vasserman, Kansas State University,1,1,0,USENIX 2014
+Serge Vaudenay, EPFL Lausanne,1,0,0,CCS 2004
+Wietse Venema, IBM Research,3,0,0,USENIX 2009,USENIX 2008,USENIX 2007
+Venkat Venkatakrishnan, U. Illinois Chicago; University of Illinois; U. of Illinois; University of Illinois at Chicago ; University of Illinois Chicago; University of Illinois at Chicago,10,4,0,CCS 2009,Oakland 2014,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2010,NDSS 2017,NDSS 2016,NDSS 2015,NDSS 2013
+Arun Venkataramani, UMASS Amherst,1,0,0,NDSS 2012
+Ingrid Verbauwhede, KU Leuven; Katholieke Universiteit Leuven,3,2,0,CCS 2012,USENIX 2015,USENIX 2014
+Giovanni Vigna,University of California; UC Santa Barbara; Univ. of California; UCSB;UCSB; University of California,18,8,1,CCS 2015,CCS 2009,CCS 2008,CCS 2006,CCS 2005,Oakland 2017,Oakland 2016,Oakland 2013,Oakland 2010,Oakland 2009,Oakland 2005,USENIX 2017,USENIX 2016,USENIX 2015,USENIX 2014,NDSS 2016,NDSS 2009,NDSS 2008
+Hayawardh Vijayakumar, Samsung,1,1,0,NDSS 2015
+Sabrina De Capitani di Vimercati, Univ. of Milan; Università di Milano,2,0,0,CCS 2008,CCS 2004
+Dennis Volpano, Cranite Systems Inc.,1,0,0,CCS 2004
+Poorvi Vora, George Washington University,1,0,0,CCS 2006
+David Wagner, UC Berkeley; University of California; UCB,18,6,0,CCS 2005,Oakland 2011,Oakland 2009,Oakland 2008,Oakland 2006,Oakland 2004,USENIX 2016,USENIX 2015,USENIX 2014,USENIX 2013,USENIX 2010,USENIX 2009,USENIX 2006,USENIX 2004,NDSS 2016,NDSS 2015,NDSS 2014,NDSS 2013
+Michael Waidner, TU Darmstadt and Fraunhofer SIT; Fraunhofer SIT; CASED; IBM Research; IBM Zurich Research Lab,6,1,1,CCS 2014,CCS 2013,CCS 2012,Oakland 2005,Oakland 2005,Oakland 2004
+Jesse Walker, Intel	; Intel,3,0,0,CCS 2013,NDSS 2011,NDSS 2007
+Dan Wallach, Rice University; Rice University ,19,1,0,CCS 2012,CCS 2009,CCS 2008,CCS 2005,CCS 2004,Oakland 2012,Oakland 2011,Oakland 2010,Oakland 2008,Oakland 2007,Oakland 2005,Oakland 2004,USENIX 2014,USENIX 2012,USENIX 2011,USENIX 2005,NDSS 2012,NDSS 2006,NDSS 2004
+Cliff Wang, Army Research Office; US Army Research Office,2,0,0,NDSS 2013,NDSS 2012
+Haining Wang,University of Delaware; University of Delaware; College of William and Mary,3,2,1,CCS 2017,Oakland 2015,Oakland 2009
+Helen Wang, Microsoft Research,11,1,0,CCS 2012,CCS 2010,CCS 2008,Oakland 2013,Oakland 2007,Oakland 2006,USENIX 2011,USENIX 2010,NDSS 2014,NDSS 2012,NDSS 2007
+Rui Wang, Microsoft Research,2,2,1,CCS 2014,USENIX 2014
+Xi Wang, University of Washington,1,1,0,USENIX 2017
+XiaoFeng Wang,Indiana University; Indiana Univ.; Indiana University; Indiana University  ; Indiana University ; Indiana University Bloomington,16,9,3,CCS 2017,CCS 2016,CCS 2015,CCS 2010,CCS 2008,Oakland 2014,Oakland 2013,Oakland 2012,Oakland 2011,Oakland 2010,USENIX 2017,NDSS 2017,NDSS 2016,NDSS 2015,NDSS 2014,NDSS 2013
+Yi-Min Wang, Microsoft Research,1,0,0,USENIX 2007
+Zhi Wang,Florida State University,3,3,3,CCS 2017,CCS 2016,CCS 2015
+Bogdan Warinschi, University of Bristol; U. of Bristol;Bristol University,6,3,1,CCS 2014,CCS 2013,CCS 2012,CCS 2011,Oakland 2017,Oakland 2016
+Brent Waters, University of Texas at Austin; U. of Texas Austin; U of Texas Austin; UT Austin; University of Texas at Austin ; University of Texas; Princeton University ,7,0,0,CCS 2013,CCS 2011,CCS 2010,Oakland 2011,Oakland 2010,Oakland 2009,NDSS 2005
+Robert Watson, Cambridge University; University of Cambridge; Cambridge;U. of Cambridge,5,3,0,CCS 2013,CCS 2011,Oakland 2017,Oakland 2016,Oakland 2015
+Nicholas Weaver, ICSI; Int. Computer Science Institute; International Computer Science Institute,11,1,0,CCS 2013,CCS 2008,CCS 2007,USENIX 2016,NDSS 2012,NDSS 2011,NDSS 2010,NDSS 2009,NDSS 2008,NDSS 2006,NDSS 2005
+Hoeteck Wee,ENS,1,1,1,CCS 2016
+Tao Wei, UC Berkeley,1,0,0,NDSS 2013
+Westley Weimer, University of Virginia ,1,0,0,Oakland 2010
+Ralf-Philipp Weinmann, Comsecuris,1,1,0,USENIX 2015
+Edgar Weippl,SBA Research,1,1,1,CCS 2016
+Brian Weis, Cisco,2,0,0,USENIX 2006,NDSS 2011
+Vicky Weissman, Cornell University,1,0,0,CCS 2007
+Andreas Wespi, IBM Research,2,0,0,Oakland 2005,Oakland 2004
+Andreas Westfeld, TU Dresden,1,0,0,CCS 2005
+Susanne Wetzel, Stevens Inst. of Tech.; Stevens Institute of Technology,2,0,0,CCS 2009,CCS 2006
+Tara Whalen, Carleton University; Office of the Privacy Commissioner of Canada; Dalhousie Universi,4,0,0,USENIX 2013,USENIX 2011,USENIX 2010,USENIX 2006
+Peter Williams, Stony Brook University,1,0,0,NDSS 2012
+William Winsborough, Univ. of Texas at San Antonio,1,0,0,CCS 2007
+Marianne Winslett, University of Illinois; University of Illinois at Urbana-Champaign,4,0,0,CCS 2008,CCS 2007,CCS 2005,Oakland 2005
+Emmett Witchel, UT Austin,1,1,0,Oakland 2017
+Avishai Wool, Tel Aviv University,1,0,0,Oakland 2004
+Matthew Wright,Rochester Institute of Technology; University of Texas at Arlington,5,4,1,CCS 2017,CCS 2007,Oakland 2015,USENIX 2014,NDSS 2014
+Rebecca Wright, Rutgers University; Stevens Institute of Technology,6,0,0,CCS 2008,CCS 2005,Oakland 2009,Oakland 2006,USENIX 2007,USENIX 2004
+Dinghao Wu,Pennsylvania State University,1,1,1,CCS 2017
+Felix Wu, University of California,1,0,0,Oakland 2010
+Zhenyu Wu,NEC Laboratories America,1,1,1,CCS 2017
+Glenn Wurster, Research In Motion Limited,1,0,0,NDSS 2013
+Tao Xie, UIUC;UIUC,2,2,0,Oakland 2017,Oakland 2016
+Yinglian Xie, Microsoft Research,5,1,0,Oakland 2013,USENIX 2011,NDSS 2014,NDSS 2013,NDSS 2011
+Luyi Xing,Indiana University,1,1,1,CCS 2017
+Xinyu Xing,Pennsylvania State University,1,1,1,CCS 2017
+Dongyan Xu,Purdue University; Purdue University; Purdue University ,10,5,1,CCS 2016,CCS 2013,Oakland 2015,Oakland 2010,NDSS 2017,NDSS 2015,NDSS 2014,NDSS 2013,NDSS 2012,NDSS 2006
+Shouhuai Xu, University of Texas at San Antonio,1,0,0,CCS 2006
+Wenyuan Xu,University of South Carolina & Zhejiang University;Zhejiang University; University of South Carolina; University of South Carolina ,5,4,2,CCS 2016,CCS 2015,USENIX 2014,USENIX 2011,NDSS 2014
+Guoliang Xue,Arizona State University; Arizona State University,2,2,2,CCS 2015,CCS 2014
+Guanhua Yan,Binghamton University,1,1,1,CCS 2017
+Lok Yan,Air Force Research Laboratory,1,1,1,CCS 2017
+Jean Yang,CMU,1,1,0,Oakland 2016
+Junfeng Yang,Columbia,1,1,0,Oakland 2016
+Xiaowei Yang, Duke University,2,1,0,CCS 2011,Oakland 2015
+Danfeng Yao,Virginia Tech; Virginia Tech,3,3,3,CCS 2016,CCS 2015,CCS 2014
+Yuval Yarom, University of Adelaide,1,1,0,USENIX 2017
+Alec Yasinsac, Florida State University,3,0,0,CCS 2008,CCS 2007,CCS 2006
+Vinod Yegneswaran, SRI International,1,1,0,Oakland 2015
+Ting-Fang Yen, E8 Security; RSA Labs,2,2,0,NDSS 2015,NDSS 2014
+Heng Yin,"University of California, Riverside; Syracuse University",4,3,2,CCS 2017,CCS 2014,NDSS 2015,NDSS 2013
+Haifeng Yu, National University of Singapore; NUS; National University of Singapore ,4,0,0,CCS 2012,CCS 2011,CCS 2010,Oakland 2010
+Ting Yu,Qatar Computing Research Institute; North Carolina State University,6,3,3,CCS 2016,CCS 2015,CCS 2014,CCS 2008,CCS 2007,CCS 2006
+Moti Yung, Google; Google Inc.,2,0,0,NDSS 2013,NDSS 2012
+David Zage,Intel corporation;Sandia National Laboratories,2,2,2,CCS 2016,CCS 2015
+Samee Zahur,Google,1,1,1,CCS 2017
+Michal Zalewski, Google,1,0,0,USENIX 2013
+Diego Zamboni, IBM Zurich Research Lab,1,0,0,Oakland 2007
+Steve Zdancewic, University of Pennsylvania,2,0,0,Oakland 2009,Oakland 2008
+Nickolai Zeldovich, Massachusetts Institute of Technology,1,0,0,USENIX 2013
+Fengwei Zhang,Wayne State University,1,1,1,CCS 2017
+Kehuan Zhang,Chinese University of Hong Kong;The Chinese University of Hong Kong; The Chinese University of Hong Kong,4,4,4,CCS 2017,CCS 2016,CCS 2015,CCS 2014
+Xiangyu Zhang,Purdue University; Purdue University,3,3,3,CCS 2016,CCS 2015,CCS 2014
+Xiaolan Zhang, IBM Research,3,0,0,USENIX 2009,USENIX 2008,NDSS 2013
+Yanchao Zhang,Arizona State University; Arizona State University,3,2,2,CCS 2017,CCS 2016,NDSS 2013
+Yinqian Zhang,The Ohio State University;Ohio State University; Ohio State;Ohio State; The Ohio State University,7,7,3,CCS 2017,CCS 2016,CCS 2015,Oakland 2017,Oakland 2016,USENIX 2017,NDSS 2017
+Ben Zhao,UCSB; UC Santa Barbara,2,2,0,Oakland 2016,Oakland 2015
+Yunlei Zhao,Fudan University,1,1,1,CCS 2015
+Sheng Zhong,Nanjing University; SUNY Buffalo,3,2,2,CCS 2016,CCS 2015,CCS 2006
+Jianying Zhou, Institute for Infocomm Research,2,0,0,CCS 2008,CCS 2007
+Xiaoyong Zhou, Samsung Research America,1,1,0,USENIX 2015
+Yuanyuan Zhou, UCSD,1,0,0,CCS 2010
+Haojin Zhu,Shanghai Jiao Tong University;Shanghai Jiaotong University,2,2,2,CCS 2016,CCS 2015
+Sencun Zhu,Pennsylvania State University; The Pennsylvania State University; Pennsylvania State University; Penn State University,4,1,1,CCS 2017,CCS 2007,Oakland 2010,NDSS 2011
+Saman Zonouz,Rutgers University,1,1,1,CCS 2017
+Wei Zou, Peking University,1,0,0,Oakland 2013
+Lenore Zuck, University of Illinois at Chicago,1,0,0,CCS 2005
+Mary Ellen Zurko, IBM,2,0,0,CCS 2010,CCS 2007
+abhi shelat,Northeastern,1,1,1,CCS 2017
+Lasse Øverlier, FFI; NDRE and Gjøk Univ. College,3,0,0,CCS 2010,CCS 2009,CCS 2008
