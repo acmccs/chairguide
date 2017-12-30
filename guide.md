@@ -79,7 +79,7 @@ and offered good excuses for not wanting to take on the responsibility
 and workload of being on the PC. Overall, 71% of invitations were
 accepted (142 out of 198).  
 
-**Note: ** I can share the google sheet we used to model PC load and
+**Note:** I can share the google sheet we used to model PC load and
   keep track of PC candidates with individual PC chairs on request,
   but don't want to make this public since it includes non-public
   information such as people that we ended up not inviting to the PC,
