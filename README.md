@@ -3,12 +3,17 @@
 This repository constains some notes and scripts that may be useful to
 future chairs of ACM CCS (and perhas other similar conferences). 
 
-### Schedule
+### Guide
 
-[schedule.md](/schedule.md) - a rough schedule to follow, with the
-major tasks for the PC chairs.
+[guide.md](/guide.md) - a rough schedule to follow, with the major
+tasks for the PC chairs.
+
+[pc/](/pc) - data and scripts for PC members
 
 ### Mass Mailing
+
+[/mailer](/mailer/) - some kludgey scripts for sending out mass emails. **Use as your own risk!**
+
 
 ### Setting up Chair's Website
 
