@@ -7,9 +7,10 @@ The main tasks for the PC Chair are:
 - (March-May) Preparing for the review process
 - (mid-May) Paper submission deadline)
 - (May-August) Managing the review process
+- (July-September) Test-of-Time Award
 - (August) Posting the accepted papers
 - (August-September) Planning the sessions
-- (August-September) Selecting the Awards
+- (August-September) Selecting the Awards, Program Chair's Welcome
 - (October-November) Conference
 - (November-January) Post-Conference
 
@@ -79,10 +80,10 @@ and workload of being on the PC. Overall, 71% of invitations were
 accepted (142 out of 198).  
 
 **Note: ** I can share the google sheet we used to model PC load and
-  keep track of PC candidates with PC chairs on request, but don't
-  want to make this public since it includes non-public information
-  such as people that we ended up not inviting to the PC, or who
-  declined invitations.
+  keep track of PC candidates with individual PC chairs on request,
+  but don't want to make this public since it includes non-public
+  information such as people that we ended up not inviting to the PC,
+  or who declined invitations.
 
 # Reviewing Schedule
 
@@ -99,18 +100,77 @@ Here's the schedule we followed for CCS 2017:
 **July 11-24:** On-line discussions, third reviewing round  
 **July 24:** Deadline for third round of reviews, responses to author rebuttals  
 **July 24-August 1:** Final on-line discussions  
-**August 2:** Author notification
+**August 2:** Author notification  
+**September 1:** Camera-ready final paper deadline
 
 This was determined in January, and included in the PC member
 invitations, since we thought it was important to make the schedule
-clear to PC members before they accept the invitation. 
+clear to PC members before they accept the invitation.  The main
+constraints on the schedule are based on the strange demands of the
+publisher to have the camera-ready deadline be more than 8 weeks
+before the conference. We negotiated as much as we could to reduce
+this time period, but couldn't move the camera-ready deadline later
+than September 1, and thought we needed a month (less a day) between
+author notification and camera-ready deadline. This didn't leave
+enough time for active shepherding, but we thought having more time
+for the review process was more important. I have heard rumors that
+ACM is finally reconsidering its publishing contract, so perhaps there
+will be a more sensible schedule possible in future years where the
+camera-ready deadline and author notification can both move back
+several weeks.
 
-The paper submission deadline, author response period, and author
-notification dates were made public in the CFP and we viewed those as
-firm committments to authors.
+The paper submission deadline, author response period, author
+notification, and camera-ready dates were made public in the CFP
+and we viewed those as firm committments to authors.
 
 # Call for Papers
 
+To create the CFP, we started with last year's CFP and put this into a
+Google doc. We made some edits based on discussions among the
+co-chairs and feedback from last year's conference, and requested
+comments from the PC.  
+
+Unlike the PC membership, for the CFP, it is recommended to preserve
+continuity in the conference by starting with the previous year's CFP,
+and only making changes with justification.
+
+The biggest changes we made for the CFP were:
+
+1. Adding a paragraph about making allowances for authors who are
+unable to travel to the US because of travel restrictions that had
+been put in place after the location of the conference was
+determined. Although we had strong personal feelings about how
+horrendous US immigration has become, we tried to word the paragraph
+in a politically-neutral way but to make it clear that the conference
+would not discriminate against authors whose nationality may make it
+infeasible for them to travel to the conference. (Unfortunately, this
+was the case for several presenters of accepted papers.) This
+paragraph should not be necessary for CCS 2018 to be held in Toronto,
+Canada, and in general, CFPs have included a paragraph requiring one
+author from each accepted paper come to the conference to present the
+paper.
+
+2. Adding a paragraph about holding Practice Sessions before the
+conference. There was a lot of discussion about this, and based on
+this, the wording was changed to make it clear these would be
+voluntary. Organizing the practice sessions and finding Session Chairs
+willing to host practice sessions was difficult, but I believe about
+half the sessions did this and all who did found it to be worthwhile,
+and the others at least benefited from having email introductions
+before the conference.
+
+3. Changing the paper format requirements to increase the length to be
+more in-line with other top-tier security conferences (we settled on
+12 pages of body content, with any number of additional pages for
+bibliography and appendices).  We included text in the CFP to attempt
+to discourage authors from abusing appendices to avoid the spirit of
+the page limit, which we see as increasingly common in our
+community. We did not enforce this in draconian ways, but did redact
+appendices that we considered improper in submissions by editing the
+submitted PDFs.  The question of what is and is not considered valid
+material to include in an appendix is not that clear, however, and I'm
+not sure if there is a good way to describe it that would be
+interpreted consistently.
 
 ### Reviewing Form
 
