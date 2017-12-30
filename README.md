@@ -14,9 +14,9 @@ tasks for the PC chairs.
 
 [/mailer](/mailer/) - some kludgey scripts for sending out mass emails. **Use as your own risk!**
 
-
 ### Setting up Chair's Website
 
 These are the scripts used to create the PC Chair's website ([https://acmccs.github.io/](https://acmccs.github.io/)) including organizing [the papers](https://acmccs.github.io/papers/).
 
+[/web](/web)
 
