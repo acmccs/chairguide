@@ -11,8 +11,7 @@ The main tasks for the PC Chair are:
 - (August) [Posting the accepted papers](#posting)
 - (August-September) [Planning the sessions](#sessions)
 - (August-September) [Selecting the Awards](#awards), Program Chair's Welcome
-- (October-November) Conference
-- (November-January) Post-Conference
+- (October-November) [Conference](#conference)
 
 # <a name="pc"></a>Forming the Program Committee
 
@@ -383,7 +382,7 @@ The Test-of-Time Award was presented at the CCS Banquet after the Best
 Paper Awards, and it is good to make a brief statement about the
 significance of the paper and why it was selected for the award.
 
-# Planning the Sessions
+# <a name="sessions"></a>Planning the Sessions
 
 We didn't figure out an efficient way to do this, and mapping 151
 papers into sessions was very time-consuming and challenging.  We
@@ -402,5 +401,26 @@ identifiers.  After this, there was a lot of shuffling around to try
 to satisfy various constraints and end up with the most interesting
 and connected sessions we could.
 
+# <a name="conference"></a>Conference
 
+If all went smoothly, the actual conference should be fun and
+painless. The main things to prepare for the conference:
 
+- [Program
+  Welcome](https://speakerdeck.com/evansuva/ccs-2017-program-chairs-welcome)
+  - you have a few minutes after the General Chair's welcome in the
+  opening session to talk about the program and how it was created.x
+
+- Awards Banquet - present the Best Paper Awards and Test-of-Time
+  Award. Coordinate with the General Chair and SIGSAC Chair on how to
+  present the awards.  Check that the web/social have the information
+  about the awards to post.
+
+- Manage Missing session chairs. Some session chairs are likely to run
+  into last minute issues that prevent them from making the
+  conference. If you can find replacement chairs at late notice,
+  otherwise, be ready to take over if necessary. (For this reason, you
+  should avoid assigning PC chairs to chair any sessions.)
+
+If all goes well, you'll be able to relax and enjoy the last day of
+the conference!
