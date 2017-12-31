@@ -336,7 +336,7 @@ The Best Paper Awards are presented at the CCS Banquet the second
 evening of the main conference. We made up a [PowerPoint
 loop](/docs/banquetloop.pptx) to show all the Finalists during the
 banquet, and then a separate [PowerPoint deck for presenting the
-awards](/docs/awardsannouncements.pptx), which was combined with the
+awards](/docs/awardsannouncement.pptx), which was combined with the
 slides for the General Chair and SIGSAC awards. It is worthwhile
 rehearse among the PC chairs how you will present the awards and
 trying to figure out how to pronounce winners names before the award
