@@ -1,0 +1,53 @@
+SessionID,When,Topic,Chair
+A1,1,Multi-Party Computation 1,Marcel Keller
+A2,1,Human Authentication,Jeremiah Blocki
+A3,1,Adversarial Machine Learning,Saman Zonouz
+A4,1,Browsers,Joseph Calandrino
+A5,1,Cryptocurrency,Aniket Kate
+B1,2,Multi-Party Computation 2,Samee Zahur
+B2,2,Passwords,Hamed Okhravi
+B3,2,Investigating Attacks,Georgios Portokalidis
+B4,2,Privacy Policies,Michael Hicks
+B5,2,Blockchains,Christina Garman
+C1,3,Oblivious RAM,Yan Huang
+C2,3,World Wide Web of Wickedness,Gianluca Stringhini
+C3,3,Machine Learning Privacy,Aylin Caliskan
+C4,3,From Verification to ABE,Shai Halevi
+C5,3,Using Blockchains,Nicolas Cristin
+D1,4,Functional Encryption and Obfuscation,Tal Malkin
+D2,4,Vulnerable Mobile Apps,Yao Liu
+D3,4,Logical Side Channels,Mohit Tiwari
+D4,4,Crypto Primitives,abhi shelat
+D5,4,Network Security,Ivan Martinovic
+E1,5,Hardening Crypto,Samee Zahur
+E2,5,Securing Mobile Apps,Kyu Hyung Lee
+E3,5,Physical Side Channels,Alvaro A. Cardenas
+E4,5,Adversarial Social Networking,Hao Chen
+E5,5,Privacy-Preserving Analytics,Yinqian Zhang
+F1,6,Private Set Intersection,XiaoFeng Wang
+F2,6,Insights from Log(in)s,Trent Jaeger
+F3,6,Crypto Pitfalls,Guanhua Yan
+F4,6,Private Queries,Amir Houmansadr
+F5,6,Understanding Security Fails,Nick Nikiforakis
+G1,7,Searchable Encryption,Mariana Raykova
+G2,7,Bug-Hunting Risks and Rewards,Mathias Payer
+G3,7,Crypto Standards,Shai Halevi
+G4,7,Voting,Marcel Keller
+G5,7,Hardening Hardware,Haining Wang
+H1,8,Crypto Attacks,Daniel Genkin
+H2,8,Code Reuse Attacks,Hovav Shacham (Honorary Session Chair)
+H3,8,Web Security,Suman Jana
+H4,8,Formal Verification,Dinghao Wu
+I1,9,Post-Quantum,Fengwei Zhang
+I2,9,Information Flow,Heng Yin
+I3,9,Personal Privacy,David Kotz
+I4,9,Verifying Crypto,Micah Sherr
+I5,9,Communication Privacy,Matthew Wright
+J1,10,Outsourcing,Daniel Genkin
+J2,10,Fun with Fuzzing,Byoungyoung Lee
+J3,10,Problematic Patches,Xinyu Xing
+J4,10,Flash Security,Taesoo Kim
+K1,11,Secure Computation,Stefan Katzenbeisser
+K2,11,Fuzzing Finer and Faster,Wil Robertson
+K3,11,Program Analysis,Wenke Lee
+K4,11,Secure Enclaves,Alex Malozemoff

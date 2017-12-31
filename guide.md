@@ -195,7 +195,40 @@ the original reviews.
 
 # <a name="posting"></a>Posting Papers
 
+Within a day or two of sending out the paper decisions, the list of
+accepted papers should be posted on the web.  Depending on how much
+control you have over the main CCS web server, it might work to use
+that for this, but we found it was not an acceptable option for us and
+set up a github pages site
+([https://acmccs.github.io/](https://acmccs.github.io/)) for
+this. Having a site you can generate programmatically and control
+makes things a lot easier and more managable then needing to go
+through the web chairs for each update.
 
+You can download CSV files from hotcrp with all the paper information,
+but some hand editing is necessary to make affiliations consistent,
+fix mispelled names (yes, many people mispell their own names in their
+submissions), and deal with accented letters in names and strange
+symbols in paper titles.  
+
+The scripts provided in [/web](/web) generate the website with pages
+for [Papers](https://acmccs.github.io/papers/),
+[Authors](https://acmccs.github.io/authors/),
+[Institutions](https://acmccs.github.io/institutions/), and
+[Topics](https://acmccs.github.io/topics/) (these are based on the
+user-selected topics in the submissions, so its worth thinking about
+the list of topics when creating the submission page with both
+reviewing and organization in mind).  Once the Sessions were
+determined, we also generated pages for each
+[Session](https://acmccs.github.io/fullsessions/), and for the [Award
+Finalists](https://acmccs.github.io/finalists/). If you update the CSV
+files with the appropriate information, it is easy to generate all of
+these with just one `make github` command with the provided scripts.
+
+To use the web scripts, you need to have [Hugo](https://gohugo.io/)
+installed, and set up a github pages site for hosting the generated
+html (or something else, but the provided scripts work with github
+pages).
 
 # <a name="awards"></a>Paper Awards
 

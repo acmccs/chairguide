@@ -1,0 +1,1947 @@
+paper,title,topic
+1,IFC-ABE: Enforcing Centralized and Decentralized Information Flow Control with Attribute-based Encryption,Access control
+1,IFC-ABE: Enforcing Centralized and Decentralized Information Flow Control with Attribute-based Encryption,Applied cryptography
+1,IFC-ABE: Enforcing Centralized and Decentralized Information Flow Control with Attribute-based Encryption,Information flow
+2,FreeGuard: A Faster and More Secure Heap Allocator,Software security
+4,Lightweight Anonymous Attestation with Efficient Revocation,Anonymity
+4,Lightweight Anonymous Attestation with Efficient Revocation,Authentication and authorization
+4,Lightweight Anonymous Attestation with Efficient Revocation,Privacy-preserving systems
+5,Forensic investigations in SDN networks,Forensics
+5,Forensic investigations in SDN networks,Software security
+6,Crypt-CNN: Privacy-Preserving Evaluation of Non-linear Convolutional Neural Networks,Applied cryptography
+6,Crypt-CNN: Privacy-Preserving Evaluation of Non-linear Convolutional Neural Networks,Machine learning
+6,Crypt-CNN: Privacy-Preserving Evaluation of Non-linear Convolutional Neural Networks,Secure and verifiable computation
+7,Insecurity of Internet-of-Things Charging in Operational LTE Networks,Cyber-physical systems (including IoT) security
+7,Insecurity of Internet-of-Things Charging in Operational LTE Networks,Mobile security and privacy
+8,XBI Analysis: Runtime SQL Injection Detection by Cross Boundary Input Analysis,Software security
+8,XBI Analysis: Runtime SQL Injection Detection by Cross Boundary Input Analysis,Web security and privacy
+9,Enumerating Active IPv6 Hosts for Large-scale Security Scans via DNSSEC-signed Reverse Zones,Network security
+9,Enumerating Active IPv6 Hosts for Large-scale Security Scans via DNSSEC-signed Reverse Zones,Protocols
+10,DistoRt: Receiver Anonymity on Existing Infrastructure,Anonymity
+10,DistoRt: Receiver Anonymity on Existing Infrastructure,Applied cryptography
+10,DistoRt: Receiver Anonymity on Existing Infrastructure,Authentication and authorization
+10,DistoRt: Receiver Anonymity on Existing Infrastructure,Privacy-preserving systems
+10,DistoRt: Receiver Anonymity on Existing Infrastructure,Protocols
+10,DistoRt: Receiver Anonymity on Existing Infrastructure,Web security and privacy
+11,Certified Malware: Measuring Breaches of Trust in the Windows Code-Signing PKI,Malware
+12,DPavatar: Differentially Private Location Protection for Incumbent Users in Cognitive Radio Networks,Mobile security and privacy
+12,DPavatar: Differentially Private Location Protection for Incumbent Users in Cognitive Radio Networks,Network security
+12,DPavatar: Differentially Private Location Protection for Incumbent Users in Cognitive Radio Networks,Privacy-preserving systems
+13,On Detecting Malware in a Virtualized Infrastructure without Introspection,Cloud security
+13,On Detecting Malware in a Virtualized Infrastructure without Introspection,Machine learning
+13,On Detecting Malware in a Virtualized Infrastructure without Introspection,Malware
+15,Power-line Whisperer : Deniable Communication on Power-line Networks,Anonymity
+15,Power-line Whisperer : Deniable Communication on Power-line Networks,Privacy-preserving systems
+17,Manufacturing Resilient Bi-Opaque Predicates against Symbolic Execution,Software security
+18,A Survey on DNS Reflection Amplification Attacks and Defending Mechanisms,Network security
+20,Uncovering Cryptographical Misuse in iOS Applications,Mobile security and privacy
+20,Uncovering Cryptographical Misuse in iOS Applications,Software security
+21,"Finding Clues for Your Secrets: Large-Scale, Semantics-Driven Leakage Analysis of Mobile Apps",Mobile security and privacy
+21,"Finding Clues for Your Secrets: Large-Scale, Semantics-Driven Leakage Analysis of Mobile Apps",Privacy policies
+22,Enhanced Security in Applications with Homomorphic Encryption,Cloud security
+22,Enhanced Security in Applications with Homomorphic Encryption,Mobile security and privacy
+22,Enhanced Security in Applications with Homomorphic Encryption,Secure and verifiable computation
+23,Poisoning the Event-Driven Architecture: A Full-Stack Look at Node.js and Friends,Cloud security
+23,Poisoning the Event-Driven Architecture: A Full-Stack Look at Node.js and Friends,Cyber-physical systems (including IoT) security
+23,Poisoning the Event-Driven Architecture: A Full-Stack Look at Node.js and Friends,Distributed systems security
+23,Poisoning the Event-Driven Architecture: A Full-Stack Look at Node.js and Friends,Software security
+23,Poisoning the Event-Driven Architecture: A Full-Stack Look at Node.js and Friends,Web security and privacy
+24,An Approach to analyze behaviour of network events in NS2 & NS3 using AWK & Xgraph,Information flow
+24,An Approach to analyze behaviour of network events in NS2 & NS3 using AWK & Xgraph,Protocols
+25,FuturesMEX: Secure Distributed Futures Market Exchange,Anonymity
+25,FuturesMEX: Secure Distributed Futures Market Exchange,Applied cryptography
+25,FuturesMEX: Secure Distributed Futures Market Exchange,Distributed systems security
+25,FuturesMEX: Secure Distributed Futures Market Exchange,Privacy-preserving systems
+25,FuturesMEX: Secure Distributed Futures Market Exchange,Protocols
+25,FuturesMEX: Secure Distributed Futures Market Exchange,Secure and verifiable computation
+26,You Don't Know Jack About Intel MPX: A Cross-layer Dissection of the MPX System Stack,Hardware and architecture security
+26,You Don't Know Jack About Intel MPX: A Cross-layer Dissection of the MPX System Stack,Software security
+27,Detecting Remote Access Attacks via Mental Chronometry,Cloud security
+27,Detecting Remote Access Attacks via Mental Chronometry,Malware
+27,Detecting Remote Access Attacks via Mental Chronometry,Web security and privacy
+29,Deemon: Detecting CSRF with Dynamic Analysis and Property Graphs,Software security
+29,Deemon: Detecting CSRF with Dynamic Analysis and Property Graphs,Web security and privacy
+31,Multi-Level Taint Propagation Analysis and Optimization for Dynamic Taint Tracking,Information flow
+31,Multi-Level Taint Propagation Analysis and Optimization for Dynamic Taint Tracking,Mobile security and privacy
+32,Measuring Information Leakage in Website Fingerprinting Attacks,Anonymity
+32,Measuring Information Leakage in Website Fingerprinting Attacks,Network security
+32,Measuring Information Leakage in Website Fingerprinting Attacks,Web security and privacy
+33,Economic Factors of Vulnerability Trade and Exploitation. Empirical evidence from a prominent Russian cybercrime market.,Metrics
+33,Economic Factors of Vulnerability Trade and Exploitation. Empirical evidence from a prominent Russian cybercrime market.,Software security
+34,A Case for Secure Stored Communication in IoT,Cyber-physical systems (including IoT) security
+34,A Case for Secure Stored Communication in IoT,Distributed systems security
+34,A Case for Secure Stored Communication in IoT,Information flow
+34,A Case for Secure Stored Communication in IoT,Network security
+34,A Case for Secure Stored Communication in IoT,Protocols
+34,A Case for Secure Stored Communication in IoT,Secure and verifiable computation
+36,CLEF: Limiting the Damage Caused by Large Flows in the Internet Core,Network security
+37,About the Security of Automated Process Control Systems,Cyber-physical systems (including IoT) security
+37,About the Security of Automated Process Control Systems,Hardware and architecture security
+37,About the Security of Automated Process Control Systems,Network security
+37,About the Security of Automated Process Control Systems,Software security
+38,Optimal Sabotage Attack on Composite Material Parts,Cyber-physical systems (including IoT) security
+39,Identity-Based Provable Data Possession for Multi-Owner Data in Identity-Based Provable Data Possession for Multi-Owner Data in Public Cloud,Authentication and authorization
+39,Identity-Based Provable Data Possession for Multi-Owner Data in Identity-Based Provable Data Possession for Multi-Owner Data in Public Cloud,Cloud security
+40,A Humble Theory and Application for Logic Encryption,Hardware and architecture security
+41,LightSM: a Lightweight Cryptographic Security Module Based on Trusted Execution Environment,Applied cryptography
+41,LightSM: a Lightweight Cryptographic Security Module Based on Trusted Execution Environment,Cloud security
+41,LightSM: a Lightweight Cryptographic Security Module Based on Trusted Execution Environment,Software security
+42,My Smartphone Recognizes Genuine QR Codes! Practical Unclonable QR Code via 3D Printing,Cyber-physical systems (including IoT) security
+44,Statistical Disclosure Control via Information Theory,Privacy-preserving systems
+44,Statistical Disclosure Control via Information Theory,Privacy policies
+46,Computation on Encrypted Data using Data Flow Authentication,Applied cryptography
+46,Computation on Encrypted Data using Data Flow Authentication,Cloud security
+46,Computation on Encrypted Data using Data Flow Authentication,Distributed systems security
+46,Computation on Encrypted Data using Data Flow Authentication,Hardware and architecture security
+46,Computation on Encrypted Data using Data Flow Authentication,Information flow
+46,Computation on Encrypted Data using Data Flow Authentication,Language-based security
+46,Computation on Encrypted Data using Data Flow Authentication,Privacy-preserving systems
+48,A Touch of Evil: High-Assurance Cryptographic Hardware from Untrusted Components,Applied cryptography
+48,A Touch of Evil: High-Assurance Cryptographic Hardware from Untrusted Components,Hardware and architecture security
+48,A Touch of Evil: High-Assurance Cryptographic Hardware from Untrusted Components,Secure and verifiable computation
+49,Your code is my code: Exploiting a common weakness in OAuth 2.0 implementations,Authentication and authorization
+49,Your code is my code: Exploiting a common weakness in OAuth 2.0 implementations,Protocols
+49,Your code is my code: Exploiting a common weakness in OAuth 2.0 implementations,Web security and privacy
+51,Crypt-DAC: Cryptographically Enforced Dynamic Access Control in the Cloud,Access control
+52,Hearing Your Voice Is Not Enough: An Articulatory Gesture Based Liveness Detection for Voice Authentication,Authentication and authorization
+52,Hearing Your Voice Is Not Enough: An Articulatory Gesture Based Liveness Detection for Voice Authentication,Cyber-physical systems (including IoT) security
+52,Hearing Your Voice Is Not Enough: An Articulatory Gesture Based Liveness Detection for Voice Authentication,Mobile security and privacy
+53,HARD: Hardware-Assisted Randomization of Data,Hardware and architecture security
+53,HARD: Hardware-Assisted Randomization of Data,Software security
+54,Faulds: A Non-Parametric Iterative Classifier for Internet-Wide OS Fingerprinting,Network security
+55,Virtual Switches: Compromising Cloud Systems via the Data Plane,Cloud security
+55,Virtual Switches: Compromising Cloud Systems via the Data Plane,Distributed systems security
+55,Virtual Switches: Compromising Cloud Systems via the Data Plane,Network security
+56,Carousel: Stealthy and Adaptive Acoustic Attacks on MEMS Gyroscopes In Smartphones and Beyond,Cyber-physical systems (including IoT) security
+56,Carousel: Stealthy and Adaptive Acoustic Attacks on MEMS Gyroscopes In Smartphones and Beyond,Hardware and architecture security
+56,Carousel: Stealthy and Adaptive Acoustic Attacks on MEMS Gyroscopes In Smartphones and Beyond,Mobile security and privacy
+57,A Practical Approach to Detect Fraudulent Behavior Using Web Access Log and Recurrent Neural Network,Machine learning
+57,A Practical Approach to Detect Fraudulent Behavior Using Web Access Log and Recurrent Neural Network,Web security and privacy
+58,Invetter: Locating insecure validations in Android Services,Access control
+58,Invetter: Locating insecure validations in Android Services,Mobile security and privacy
+59,Adaptively Secure and Fast Processing of Nearest Neighbor Queries over Encrypted Data,Cloud security
+59,Adaptively Secure and Fast Processing of Nearest Neighbor Queries over Encrypted Data,Privacy-preserving systems
+62,VibWrite: Towards Finger-input Authentication on Ubiquitous Surfaces via Physical Vibration,Authentication and authorization
+64,Efficient Control Flow Integrity Enforcement with Register-based Control Data Cloaking,Language-based security
+64,Efficient Control Flow Integrity Enforcement with Register-based Control Data Cloaking,Software security
+65,Killing the password and preserving privacy with device-centric and attribute-based authentication,Access control
+65,Killing the password and preserving privacy with device-centric and attribute-based authentication,Anonymity
+65,Killing the password and preserving privacy with device-centric and attribute-based authentication,Authentication and authorization
+65,Killing the password and preserving privacy with device-centric and attribute-based authentication,Privacy-preserving systems
+66,Byte Granularity Heap Randomization Under Intel Architecture Environment,Software security
+67,Look Before You LTE: New Vulnerabilities in LTE Networks,Network security
+67,Look Before You LTE: New Vulnerabilities in LTE Networks,Protocols
+68,Short Double- and n-Times-Authentication-Preventing Signatures from ECDSA and More,Applied cryptography
+68,Short Double- and n-Times-Authentication-Preventing Signatures from ECDSA and More,Authentication and authorization
+69,Differentially Private Heavy Hitter Identification,Privacy-preserving systems
+70,GUI Control Flow Integrity for Detecting Malicious Software,Access control
+70,GUI Control Flow Integrity for Detecting Malicious Software,Information flow
+70,GUI Control Flow Integrity for Detecting Malicious Software,Software security
+71,Cross-App Request Forgery: On the Security of App Permissions in Secure SDN Controllers,Network security
+73,Exploiting Physical Dynamics to Detect Actuator and Sensor Attacks in Mobile Robots,Cyber-physical systems (including IoT) security
+73,Exploiting Physical Dynamics to Detect Actuator and Sensor Attacks in Mobile Robots,Intrusion detection
+74,Concurrency Logic Bomb: Hiding Malicious Code within Thread Interleavings,Language-based security
+74,Concurrency Logic Bomb: Hiding Malicious Code within Thread Interleavings,Malware
+74,Concurrency Logic Bomb: Hiding Malicious Code within Thread Interleavings,Software security
+76,On the Economics of Offline Password Cracking,Authentication and authorization
+76,On the Economics of Offline Password Cracking,Metrics
+76,On the Economics of Offline Password Cracking,Web security and privacy
+78,A Fundamental Differential Privacy Approach for Deep Learning,Machine learning
+78,A Fundamental Differential Privacy Approach for Deep Learning,Privacy-preserving systems
+79,SAFEM: Spectral Analysis for Finding Execution of Malware on IoT Devices,Cyber-physical systems (including IoT) security
+79,SAFEM: Spectral Analysis for Finding Execution of Malware on IoT Devices,Hardware and architecture security
+80,TFence: Securing TEE by Retrofitting the Partially Privileged Mode on ARM,Mobile security and privacy
+80,TFence: Securing TEE by Retrofitting the Partially Privileged Mode on ARM,Software security
+81,UniTraX: Protecting data privacy with discoverable biases,Information flow
+81,UniTraX: Protecting data privacy with discoverable biases,Language-based security
+81,UniTraX: Protecting data privacy with discoverable biases,Privacy-preserving systems
+84,Toward an Evidence-based Design for Reactive Security Policies and Mechanisms,Software security
+86,The Last Mile for ML: Early and Robust Malware Detection in Enterprise Networks,Intrusion detection
+86,The Last Mile for ML: Early and Robust Malware Detection in Enterprise Networks,Machine learning
+87,A Query System for Efficient Attack Investigations Using System Monitoring Data,Forensics
+89,Secure and Decentralized file transfer application using Blockchain,Access control
+89,Secure and Decentralized file transfer application using Blockchain,Anonymity
+89,Secure and Decentralized file transfer application using Blockchain,Applied cryptography
+89,Secure and Decentralized file transfer application using Blockchain,Authentication and authorization
+89,Secure and Decentralized file transfer application using Blockchain,Cloud security
+89,Secure and Decentralized file transfer application using Blockchain,Distributed systems security
+89,Secure and Decentralized file transfer application using Blockchain,Information flow
+89,Secure and Decentralized file transfer application using Blockchain,Language-based security
+89,Secure and Decentralized file transfer application using Blockchain,Network security
+89,Secure and Decentralized file transfer application using Blockchain,Secure and verifiable computation
+89,Secure and Decentralized file transfer application using Blockchain,Software security
+89,Secure and Decentralized file transfer application using Blockchain,Web security and privacy
+90,"A Distributed Access Control Model Based On Agents for Multi-Organizational, Collaborative and Heterogeneous Systems",Access control
+90,"A Distributed Access Control Model Based On Agents for Multi-Organizational, Collaborative and Heterogeneous Systems",Distributed systems security
+90,"A Distributed Access Control Model Based On Agents for Multi-Organizational, Collaborative and Heterogeneous Systems",Hardware and architecture security
+90,"A Distributed Access Control Model Based On Agents for Multi-Organizational, Collaborative and Heterogeneous Systems",Privacy policies
+90,"A Distributed Access Control Model Based On Agents for Multi-Organizational, Collaborative and Heterogeneous Systems",Web security and privacy
+91,INSPIRED: Intention-based Privacy-preserving Permission Model,Mobile security and privacy
+92,Decentralized Action Integrity for Trigger-Action Platforms,Authentication and authorization
+92,Decentralized Action Integrity for Trigger-Action Platforms,Cloud security
+92,Decentralized Action Integrity for Trigger-Action Platforms,Cyber-physical systems (including IoT) security
+93,Secure Keyword Search on Trusted Hardware,Applied cryptography
+93,Secure Keyword Search on Trusted Hardware,Cloud security
+93,Secure Keyword Search on Trusted Hardware,Hardware and architecture security
+93,Secure Keyword Search on Trusted Hardware,Privacy-preserving systems
+93,Secure Keyword Search on Trusted Hardware,Secure and verifiable computation
+94,Steganographic Communication via Spread Optical Noise: A Link-level Eavesdropping Resilient System,Anonymity
+94,Steganographic Communication via Spread Optical Noise: A Link-level Eavesdropping Resilient System,Censorship-resistance
+94,Steganographic Communication via Spread Optical Noise: A Link-level Eavesdropping Resilient System,Privacy-preserving systems
+95,Towards Fine-grained Network Forensics and Diagnosis in the SDN Era,Distributed systems security
+95,Towards Fine-grained Network Forensics and Diagnosis in the SDN Era,Forensics
+95,Towards Fine-grained Network Forensics and Diagnosis in the SDN Era,Information flow
+95,Towards Fine-grained Network Forensics and Diagnosis in the SDN Era,Network security
+95,Towards Fine-grained Network Forensics and Diagnosis in the SDN Era,Software security
+96,Approximate Constrained Shortest Distance Queries over Cloud-Based Encrypted Graphs with Hierarchical Labeling Index,Privacy-preserving systems
+97,Inception Guard: Defenses Against Targeted Poisoning Attacks On Machine Learning Systems,Machine learning
+97,Inception Guard: Defenses Against Targeted Poisoning Attacks On Machine Learning Systems,Malware
+97,Inception Guard: Defenses Against Targeted Poisoning Attacks On Machine Learning Systems,Network security
+98,Defending Against Key Exfiltration: Efficiency Improvements for BIG-Key Cryptography via Large-Alphabet Subkey Prediction,Applied cryptography
+98,Defending Against Key Exfiltration: Efficiency Improvements for BIG-Key Cryptography via Large-Alphabet Subkey Prediction,Authentication and authorization
+101,Most Websites Don‰Ûªt Need to Vibrate: A Cost‰ÛÒBenefit Approach to Improving Browser Security,Network security
+101,Most Websites Don‰Ûªt Need to Vibrate: A Cost‰ÛÒBenefit Approach to Improving Browser Security,Software security
+101,Most Websites Don‰Ûªt Need to Vibrate: A Cost‰ÛÒBenefit Approach to Improving Browser Security,Web security and privacy
+102,Practical and Automatic Verification of Information Release with Declassification,Information flow
+102,Practical and Automatic Verification of Information Release with Declassification,Secure and verifiable computation
+103,Talek: Private Group Messaging with Indistinguishable Access Patterns,Privacy-preserving systems
+104,Scaling ORAM for Secure Computation,Applied cryptography
+104,Scaling ORAM for Secure Computation,Privacy-preserving systems
+104,Scaling ORAM for Secure Computation,Protocols
+104,Scaling ORAM for Secure Computation,Secure and verifiable computation
+105,A Framework for Secure Integrations of Identity Services,Authentication and authorization
+105,A Framework for Secure Integrations of Identity Services,Language-based security
+105,A Framework for Secure Integrations of Identity Services,Software security
+105,A Framework for Secure Integrations of Identity Services,Web security and privacy
+106,Pre-Patch: Hidden Threat in Open Source Software,Software security
+108,From Behavior Similarity to Symptom Similarity: Using Community Detection for Early Discovery of Software Vulnerability Exploits,Machine learning
+108,From Behavior Similarity to Symptom Similarity: Using Community Detection for Early Discovery of Software Vulnerability Exploits,Malware
+108,From Behavior Similarity to Symptom Similarity: Using Community Detection for Early Discovery of Software Vulnerability Exploits,Software security
+109,GAC: Graph-Based Alert Correlation for the Detection of Distributed Attacks,Forensics
+109,GAC: Graph-Based Alert Correlation for the Detection of Distributed Attacks,Intrusion detection
+109,GAC: Graph-Based Alert Correlation for the Detection of Distributed Attacks,Network security
+110,Attacks and Defenses in Mobile IP: Modeling with Stochastic Game Petri Net,Distributed systems security
+110,Attacks and Defenses in Mobile IP: Modeling with Stochastic Game Petri Net,Intrusion detection
+110,Attacks and Defenses in Mobile IP: Modeling with Stochastic Game Petri Net,Network security
+110,Attacks and Defenses in Mobile IP: Modeling with Stochastic Game Petri Net,Protocols
+112,QAPri: Answering Free-form Questions about Privacy Policies with Deep Learning,Machine learning
+112,QAPri: Answering Free-form Questions about Privacy Policies with Deep Learning,Privacy policies
+112,QAPri: Answering Free-form Questions about Privacy Policies with Deep Learning,User studies
+114,Good or Bad: A Systematic Study of the Implication of Technical Reports for Malware Detection,Machine learning
+114,Good or Bad: A Systematic Study of the Implication of Technical Reports for Malware Detection,Malware
+115,Making NSEC5 Practical for DNSSEC,Applied cryptography
+115,Making NSEC5 Practical for DNSSEC,Network security
+115,Making NSEC5 Practical for DNSSEC,Protocols
+116,Hybrid Aggregation and Verification of Certificates and Signatures in Vehicular Ad Hoc Network,Authentication and authorization
+116,Hybrid Aggregation and Verification of Certificates and Signatures in Vehicular Ad Hoc Network,Mobile security and privacy
+116,Hybrid Aggregation and Verification of Certificates and Signatures in Vehicular Ad Hoc Network,Network security
+117,The Future of Ad Blocking: An Analytical Framework and New Techniques,Web security and privacy
+121,Blockchain-based Public Key Infrastructure for Internet-of-Things,Authentication and authorization
+121,Blockchain-based Public Key Infrastructure for Internet-of-Things,Cyber-physical systems (including IoT) security
+121,Blockchain-based Public Key Infrastructure for Internet-of-Things,Distributed systems security
+122,A Thunderbolt from the Blue: Exploiting IOMMU Bypass Vulnerabilities in Operating Systems,Hardware and architecture security
+122,A Thunderbolt from the Blue: Exploiting IOMMU Bypass Vulnerabilities in Operating Systems,Software security
+123,Tail Attacks on Web Applications,Distributed systems security
+123,Tail Attacks on Web Applications,Web security and privacy
+124,Return of the Coppersmith‰Ûªs Attack: Practical Factorization of Widely Used RSA Moduli,Applied cryptography
+124,Return of the Coppersmith‰Ûªs Attack: Practical Factorization of Widely Used RSA Moduli,Cyber-physical systems (including IoT) security
+124,Return of the Coppersmith‰Ûªs Attack: Practical Factorization of Widely Used RSA Moduli,Hardware and architecture security
+124,Return of the Coppersmith‰Ûªs Attack: Practical Factorization of Widely Used RSA Moduli,Software security
+125,There's a Hole in the Bottom of the C: On the Effectiveness of Allocation Protection Techniques,Software security
+126,A Robust Covert Channel on FPGAs Based on Long Wire Delays,Cyber-physical systems (including IoT) security
+126,A Robust Covert Channel on FPGAs Based on Long Wire Delays,Hardware and architecture security
+127,Using Stochastic Control to Improve Industrial Fuzzing Yield,Cloud security
+127,Using Stochastic Control to Improve Industrial Fuzzing Yield,Cyber-physical systems (including IoT) security
+127,Using Stochastic Control to Improve Industrial Fuzzing Yield,Mobile security and privacy
+127,Using Stochastic Control to Improve Industrial Fuzzing Yield,Network security
+127,Using Stochastic Control to Improve Industrial Fuzzing Yield,Software security
+128,DeWiCam: Detecting Hidden Wireless Cameras via Smartphones,Mobile security and privacy
+128,DeWiCam: Detecting Hidden Wireless Cameras via Smartphones,Privacy-preserving systems
+129,Blue Note: Scratching the Surface of Hard Disk Drive Security with Denial of Service by Intentional Acoustic Interference,Cyber-physical systems (including IoT) security
+129,Blue Note: Scratching the Surface of Hard Disk Drive Security with Denial of Service by Intentional Acoustic Interference,Hardware and architecture security
+129,Blue Note: Scratching the Surface of Hard Disk Drive Security with Denial of Service by Intentional Acoustic Interference,Software security
+130,General Android deobfuscation with hybrid static-dynamic iterative analysis,Malware
+130,General Android deobfuscation with hybrid static-dynamic iterative analysis,Mobile security and privacy
+130,General Android deobfuscation with hybrid static-dynamic iterative analysis,Software security
+131,Forward Secure Dynamic Searchable Symmetric Encryption with Efficient Updates,Applied cryptography
+131,Forward Secure Dynamic Searchable Symmetric Encryption with Efficient Updates,Cloud security
+132,Dynamic Group-Oriented Provable Data Possession,Cloud security
+133,AppScalpel: Towards Pruning Undesirable Usage of Sensitive Data in Android Applications with Nonintervention Rules,Mobile security and privacy
+133,AppScalpel: Towards Pruning Undesirable Usage of Sensitive Data in Android Applications with Nonintervention Rules,Privacy-preserving systems
+134,Accountability in security protocols,Distributed systems security
+134,Accountability in security protocols,Protocols
+134,Accountability in security protocols,Secure and verifiable computation
+135,Herding Vulnerable Cats: A Statistical Approach to Disentangle Joint Responsibility for Web Security in Shared Hosting,Metrics
+135,Herding Vulnerable Cats: A Statistical Approach to Disentangle Joint Responsibility for Web Security in Shared Hosting,Web security and privacy
+136,"Weird machines, exploitability, and provable unexploitability",Language-based security
+136,"Weird machines, exploitability, and provable unexploitability",Software security
+137,Thwarting Leakage Abuse Attacks against Searchable Encryption -- A Formal Approach and Applications to Database Padding,Applied cryptography
+137,Thwarting Leakage Abuse Attacks against Searchable Encryption -- A Formal Approach and Applications to Database Padding,Cloud security
+137,Thwarting Leakage Abuse Attacks against Searchable Encryption -- A Formal Approach and Applications to Database Padding,Privacy-preserving systems
+137,Thwarting Leakage Abuse Attacks against Searchable Encryption -- A Formal Approach and Applications to Database Padding,Secure and verifiable computation
+138,Adding Accountability and Revocability to Anonymous Credential Systems Using BlockChain: A Decentralized Approach,Anonymity
+138,Adding Accountability and Revocability to Anonymous Credential Systems Using BlockChain: A Decentralized Approach,Authentication and authorization
+138,Adding Accountability and Revocability to Anonymous Credential Systems Using BlockChain: A Decentralized Approach,Privacy-preserving systems
+139,Oops!...I think I scanned a malware,Malware
+139,Oops!...I think I scanned a malware,Network security
+140,The Heisenberg Defense: Proactively Defending SGX Enclaves against Page-Table-Based Side-Channel Attacks,Secure and verifiable computation
+140,The Heisenberg Defense: Proactively Defending SGX Enclaves against Page-Table-Based Side-Channel Attacks,Software security
+141,Secure AES Computation Comparable to Local AES Computation,Applied cryptography
+141,Secure AES Computation Comparable to Local AES Computation,Privacy-preserving systems
+141,Secure AES Computation Comparable to Local AES Computation,Protocols
+142,CUP: Comprehensive User-Space Protection for C/C++,Language-based security
+142,CUP: Comprehensive User-Space Protection for C/C++,Software security
+143,Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods,Machine learning
+145,walk2friends: Inferring Social Links from Mobility Profiles,Machine learning
+145,walk2friends: Inferring Social Links from Mobility Profiles,Mobile security and privacy
+145,walk2friends: Inferring Social Links from Mobility Profiles,Privacy-preserving systems
+146,Let‰Ûªs go in for a closer look: Observing passwords in their natural habitat,Access control
+146,Let‰Ûªs go in for a closer look: Observing passwords in their natural habitat,Authentication and authorization
+146,Let‰Ûªs go in for a closer look: Observing passwords in their natural habitat,User studies
+146,Let‰Ûªs go in for a closer look: Observing passwords in their natural habitat,Web security and privacy
+147,le-git-imate: Towards Verifiable Web-based Git Repositories,Authentication and authorization
+147,le-git-imate: Towards Verifiable Web-based Git Repositories,Secure and verifiable computation
+147,le-git-imate: Towards Verifiable Web-based Git Repositories,Web security and privacy
+148,Verified Correctness and Security of mbedTLS HMAC-DRBG,Applied cryptography
+148,Verified Correctness and Security of mbedTLS HMAC-DRBG,Secure and verifiable computation
+148,Verified Correctness and Security of mbedTLS HMAC-DRBG,Software security
+149,Vulnerable Implicit Service: A Revisit,Mobile security and privacy
+150,REAPER: Real-time Permission Analysis for Detecting Third-party Privacy Leaks in Android,Mobile security and privacy
+152,SoK: Website Fingerprinting Attacks,Anonymity
+152,SoK: Website Fingerprinting Attacks,Privacy-preserving systems
+153,Does Telephone Phishing Work?,User studies
+154,Behavior Prediction over Summarized Network Activities,Machine learning
+154,Behavior Prediction over Summarized Network Activities,Network security
+155,Accessing Data while Preserving Privacy,Distributed systems security
+155,Accessing Data while Preserving Privacy,Privacy-preserving systems
+156,Evidence Theory Data Fusion Based Method For Cyber-Attack Detection,Intrusion detection
+156,Evidence Theory Data Fusion Based Method For Cyber-Attack Detection,Network security
+157,Secure Sequence Alignment Using One-Sided Encryption,Applied cryptography
+157,Secure Sequence Alignment Using One-Sided Encryption,Privacy-preserving systems
+157,Secure Sequence Alignment Using One-Sided Encryption,Secure and verifiable computation
+158,InstaGuard: Instant Guard for Vulnerabilities in Non-updatable Programs on Android Devices,Mobile security and privacy
+158,InstaGuard: Instant Guard for Vulnerabilities in Non-updatable Programs on Android Devices,Software security
+159,"O Single Sign-Off, Where Art Thou? An Empirical Analysis of Single Sign-On Account Hijacking",Authentication and authorization
+159,"O Single Sign-Off, Where Art Thou? An Empirical Analysis of Single Sign-On Account Hijacking",Web security and privacy
+160,PartiSan: Fast and Flexible Sanitization via Run-time Partitioning,Software security
+161,Public Order Preserving Cipher Generation Scheme for Distributed Computing,Applied cryptography
+161,Public Order Preserving Cipher Generation Scheme for Distributed Computing,Privacy-preserving systems
+161,Public Order Preserving Cipher Generation Scheme for Distributed Computing,Protocols
+161,Public Order Preserving Cipher Generation Scheme for Distributed Computing,Secure and verifiable computation
+162,Scalable and Provably Secure P2P Communication Protocols,Anonymity
+162,Scalable and Provably Secure P2P Communication Protocols,Distributed systems security
+162,Scalable and Provably Secure P2P Communication Protocols,Network security
+162,Scalable and Provably Secure P2P Communication Protocols,Protocols
+163,A Two-Phase Framework to Defend Against Machine Learning based Inference Attacks,Machine learning
+163,A Two-Phase Framework to Defend Against Machine Learning based Inference Attacks,Privacy-preserving systems
+163,A Two-Phase Framework to Defend Against Machine Learning based Inference Attacks,Web security and privacy
+165,Security Risks in Asynchronous Web Servers: When Performance Optimizations Amplify the Impact of Data-oriented Attacks,Distributed systems security
+165,Security Risks in Asynchronous Web Servers: When Performance Optimizations Amplify the Impact of Data-oriented Attacks,Software security
+165,Security Risks in Asynchronous Web Servers: When Performance Optimizations Amplify the Impact of Data-oriented Attacks,Web security and privacy
+167,Implementing BP-Obfuscation Using Graph-Induced Encoding,Applied cryptography
+167,Implementing BP-Obfuscation Using Graph-Induced Encoding,Secure and verifiable computation
+168,Tracing and Understanding Security Risks in Node.js Applications,Malware
+168,Tracing and Understanding Security Risks in Node.js Applications,Software security
+168,Tracing and Understanding Security Risks in Node.js Applications,Web security and privacy
+169,A Novel Privacy Protection Approach Based on Android Application‰Ûªs Runtime Behavior Monitor and Control,Access control
+169,A Novel Privacy Protection Approach Based on Android Application‰Ûªs Runtime Behavior Monitor and Control,Mobile security and privacy
+169,A Novel Privacy Protection Approach Based on Android Application‰Ûªs Runtime Behavior Monitor and Control,Privacy-preserving systems
+169,A Novel Privacy Protection Approach Based on Android Application‰Ûªs Runtime Behavior Monitor and Control,Privacy policies
+169,A Novel Privacy Protection Approach Based on Android Application‰Ûªs Runtime Behavior Monitor and Control,Software security
+170,Zeus: Analyzing Safety of Smart Contracts,Access control
+170,Zeus: Analyzing Safety of Smart Contracts,Software security
+171,A Stitch in Time: Supporting Android Developers in Writing Secure Code,Mobile security and privacy
+171,A Stitch in Time: Supporting Android Developers in Writing Secure Code,User studies
+172,Privacy-Preserving Fuzzy Keyword Searching with Primes,Applied cryptography
+172,Privacy-Preserving Fuzzy Keyword Searching with Primes,Cloud security
+173,Internet-of-Dings: Dissecting the Evolution of Internet-of-Things Malware,Malware
+174,Password Inference Based on Wearable Devices Data Analysis,Machine learning
+174,Password Inference Based on Wearable Devices Data Analysis,Mobile security and privacy
+175,Evading Classifiers by Morphing in the Dark,Machine learning
+176,P-STM: Privacy-protected Social Tie Mining of Individual Trajectories,Privacy-preserving systems
+177,DOMtegrity: Ensuring Web Page Integrity against Browser Extension Modifications,Intrusion detection
+177,DOMtegrity: Ensuring Web Page Integrity against Browser Extension Modifications,Web security and privacy
+178,Global-Scale Secure Multiparty Computation,Applied cryptography
+178,Global-Scale Secure Multiparty Computation,Secure and verifiable computation
+179,TypeShield: Practical Forward-Backward Edge Attack Protection,Language-based security
+179,TypeShield: Practical Forward-Backward Edge Attack Protection,Malware
+179,TypeShield: Practical Forward-Backward Edge Attack Protection,Network security
+179,TypeShield: Practical Forward-Backward Edge Attack Protection,Privacy-preserving systems
+179,TypeShield: Practical Forward-Backward Edge Attack Protection,Software security
+179,TypeShield: Practical Forward-Backward Edge Attack Protection,Web security and privacy
+180,CREAM: Unauthorized Secondary User Detection in Fading Environments,Mobile security and privacy
+181,Handwritten Signature Verification Using Wrist-Worn Devices,Authentication and authorization
+181,Handwritten Signature Verification Using Wrist-Worn Devices,Cyber-physical systems (including IoT) security
+181,Handwritten Signature Verification Using Wrist-Worn Devices,Machine learning
+182,Amnesiac DRAM: Truly Volatile Memory to Defeat Cold-Boot Attack,Hardware and architecture security
+183,Reducing Searchable Encryption Leakage using Constrained Cryptographic Primitives,Applied cryptography
+183,Reducing Searchable Encryption Leakage using Constrained Cryptographic Primitives,Cloud security
+183,Reducing Searchable Encryption Leakage using Constrained Cryptographic Primitives,Privacy-preserving systems
+183,Reducing Searchable Encryption Leakage using Constrained Cryptographic Primitives,Protocols
+183,Reducing Searchable Encryption Leakage using Constrained Cryptographic Primitives,Secure and verifiable computation
+184,The Past Does Not Predict the Future! A Model-Free Approach to Stealthy Attack Detection in Control Systems,Cyber-physical systems (including IoT) security
+184,The Past Does Not Predict the Future! A Model-Free Approach to Stealthy Attack Detection in Control Systems,Intrusion detection
+185,Mitigating infrastructure attacks on the Internet,Network security
+185,Mitigating infrastructure attacks on the Internet,Protocols
+186,Algorithm Substitution Attacks from a Steganographic Perspective,Distributed systems security
+186,Algorithm Substitution Attacks from a Steganographic Perspective,Network security
+186,Algorithm Substitution Attacks from a Steganographic Perspective,Protocols
+187,"Privacy notions, models and games for privacy-preserving distributed data mining",Anonymity
+187,"Privacy notions, models and games for privacy-preserving distributed data mining",Distributed systems security
+187,"Privacy notions, models and games for privacy-preserving distributed data mining",Privacy-preserving systems
+187,"Privacy notions, models and games for privacy-preserving distributed data mining",Privacy policies
+188,Practical Secure Aggregation for Privacy-Preserving Machine Learning,Privacy-preserving systems
+188,Practical Secure Aggregation for Privacy-Preserving Machine Learning,Protocols
+189,5Gen-C: Multi-input Functional Encryption and Program Obfuscation for Arithmetic Circuits,Secure and verifiable computation
+190,Full accounting for verifiable outsourcing,Hardware and architecture security
+190,Full accounting for verifiable outsourcing,Protocols
+190,Full accounting for verifiable outsourcing,Secure and verifiable computation
+193,AVPass: Automatically Bypassing Android Malware Classifiers,Malware
+193,AVPass: Automatically Bypassing Android Malware Classifiers,Mobile security and privacy
+194,Provably-Secure Logic Locking: From Theory To Practice,Hardware and architecture security
+195,Object Flow Integrity,Language-based security
+196,TruZ-Droid: Integrating TrustZone with Mobile Operating System,Mobile security and privacy
+197,Hindsight: Understanding the Evolution of UI Vulnerabilities in Mobile Browsers,Metrics
+197,Hindsight: Understanding the Evolution of UI Vulnerabilities in Mobile Browsers,Mobile security and privacy
+197,Hindsight: Understanding the Evolution of UI Vulnerabilities in Mobile Browsers,Web security and privacy
+198,No One In The Middle: Enabling Network Access Control Via Transparent Attribution,Access control
+198,No One In The Middle: Enabling Network Access Control Via Transparent Attribution,Authentication and authorization
+198,No One In The Middle: Enabling Network Access Control Via Transparent Attribution,Cyber-physical systems (including IoT) security
+198,No One In The Middle: Enabling Network Access Control Via Transparent Attribution,Intrusion detection
+198,No One In The Middle: Enabling Network Access Control Via Transparent Attribution,Network security
+198,No One In The Middle: Enabling Network Access Control Via Transparent Attribution,User studies
+199,G-Guard: A Secure Memory Management Ecosystem for GPGPU,Privacy-preserving systems
+199,G-Guard: A Secure Memory Management Ecosystem for GPGPU,Software security
+200,Prime+Count: A Novel Cache Attack for Cross-world Covert Channels on ARM TrustZone,Hardware and architecture security
+201,The Wolf of Name Street: Hijacking Domains Through Their Nameservers,Distributed systems security
+201,The Wolf of Name Street: Hijacking Domains Through Their Nameservers,Network security
+201,The Wolf of Name Street: Hijacking Domains Through Their Nameservers,Web security and privacy
+202,"Fidelius: A Practical, Secure Key-Value Store for Smart Home Systems",Cloud security
+202,"Fidelius: A Practical, Secure Key-Value Store for Smart Home Systems",Cyber-physical systems (including IoT) security
+202,"Fidelius: A Practical, Secure Key-Value Store for Smart Home Systems",Distributed systems security
+202,"Fidelius: A Practical, Secure Key-Value Store for Smart Home Systems",Mobile security and privacy
+203,Mobile IMUs Reveal Who You Are From Your Vehicle Turns,Cyber-physical systems (including IoT) security
+203,Mobile IMUs Reveal Who You Are From Your Vehicle Turns,Mobile security and privacy
+206,Permission-Use Provenance in Android Using Sparse Dynamic Analysis,Language-based security
+206,Permission-Use Provenance in Android Using Sparse Dynamic Analysis,Mobile security and privacy
+206,Permission-Use Provenance in Android Using Sparse Dynamic Analysis,Software security
+208,Search-based Fuzzing,Software security
+209,T/Key: Second-Factor Authentication From Secure Hash Chains,Applied cryptography
+209,T/Key: Second-Factor Authentication From Secure Hash Chains,Authentication and authorization
+210,Automated Attack Discovery in TCP Congestion Control Using a Model-guided Approach,Network security
+210,Automated Attack Discovery in TCP Congestion Control Using a Model-guided Approach,Protocols
+210,Automated Attack Discovery in TCP Congestion Control Using a Model-guided Approach,Software security
+210,Automated Attack Discovery in TCP Congestion Control Using a Model-guided Approach,Web security and privacy
+212,Automated Crowdturfing Attacks and Defenses in Online Review Systems,Machine learning
+212,Automated Crowdturfing Attacks and Defenses in Online Review Systems,User studies
+212,Automated Crowdturfing Attacks and Defenses in Online Review Systems,Web security and privacy
+213,Differentially Private Oblivious RAM,Anonymity
+213,Differentially Private Oblivious RAM,Applied cryptography
+213,Differentially Private Oblivious RAM,Cloud security
+213,Differentially Private Oblivious RAM,Hardware and architecture security
+213,Differentially Private Oblivious RAM,Metrics
+213,Differentially Private Oblivious RAM,Privacy-preserving systems
+214,Integrity Attacks on Renewable Energy Generators,Cyber-physical systems (including IoT) security
+214,Integrity Attacks on Renewable Energy Generators,Distributed systems security
+215,Chameleon: Hybrid Secure Computation Framework and Applications,Applied cryptography
+215,Chameleon: Hybrid Secure Computation Framework and Applications,Privacy-preserving systems
+215,Chameleon: Hybrid Secure Computation Framework and Applications,Secure and verifiable computation
+217,Sybil Ranking in Online Social Networks using Directed Graphs,Distributed systems security
+217,Sybil Ranking in Online Social Networks using Directed Graphs,Network security
+217,Sybil Ranking in Online Social Networks using Directed Graphs,Web security and privacy
+219,Dynamic Policy Update for Ciphertext-Policy Attribute-Based Encryption,Access control
+219,Dynamic Policy Update for Ciphertext-Policy Attribute-Based Encryption,Applied cryptography
+219,Dynamic Policy Update for Ciphertext-Policy Attribute-Based Encryption,Cloud security
+220,Detecting Visual Eavesdropping via Face Tracking and Gaze Following,Machine learning
+220,Detecting Visual Eavesdropping via Face Tracking and Gaze Following,Privacy-preserving systems
+220,Detecting Visual Eavesdropping via Face Tracking and Gaze Following,User studies
+221,Advanced Persistent Threats Detection Through Combining Dynamic and Static Attack Information,Intrusion detection
+221,Advanced Persistent Threats Detection Through Combining Dynamic and Static Attack Information,Network security
+221,Advanced Persistent Threats Detection Through Combining Dynamic and Static Attack Information,Web security and privacy
+222,DUPLO: Unifying Cut-and-Choose for Garbled Circuits,Applied cryptography
+222,DUPLO: Unifying Cut-and-Choose for Garbled Circuits,Protocols
+222,DUPLO: Unifying Cut-and-Choose for Garbled Circuits,Secure and verifiable computation
+223,Better Bounds for Block Cipher Modes of Operation via Nonce-Based Key Derivation,Applied cryptography
+224,HyperMPC: A Hyper-Efficient Multi-Party Protocol,Secure and verifiable computation
+225,PatchSweetner: Exploit Detection through the Automatic Transformation of Security Patches,Intrusion detection
+225,PatchSweetner: Exploit Detection through the Automatic Transformation of Security Patches,Machine learning
+225,PatchSweetner: Exploit Detection through the Automatic Transformation of Security Patches,Software security
+226,An Encrypted DBMS without Property-Preserving Encryption,Applied cryptography
+226,An Encrypted DBMS without Property-Preserving Encryption,Cloud security
+226,An Encrypted DBMS without Property-Preserving Encryption,Privacy-preserving systems
+227,Penetrate into Software-Defined Networks: Novel DDoS Attacks in OpenFlow Networks and Countermeasures,Network security
+229,Tractor Beam: Safe-hijacking of Consumer Drones with Adaptive GPS Spoofing - Through White/Black-box Analysis of Fail-safe Mechanisms,Cyber-physical systems (including IoT) security
+230,Generic Semantic Security against a Kleptographic Adversary,Applied cryptography
+231,Security issues in 5G,Mobile security and privacy
+231,Security issues in 5G,Web security and privacy
+232,"Sulong, and Thanks For All the Bugs: Finding Errors in C Programs by Abstracting from the Native Execution Model",Cloud security
+232,"Sulong, and Thanks For All the Bugs: Finding Errors in C Programs by Abstracting from the Native Execution Model",Language-based security
+232,"Sulong, and Thanks For All the Bugs: Finding Errors in C Programs by Abstracting from the Native Execution Model",Software security
+233,Comprehensive VM Protection against Untrusted Hypervisor through Retrofitted AMD Memory Encryption,Cloud security
+233,Comprehensive VM Protection against Untrusted Hypervisor through Retrofitted AMD Memory Encryption,Hardware and architecture security
+233,Comprehensive VM Protection against Untrusted Hypervisor through Retrofitted AMD Memory Encryption,Privacy-preserving systems
+234,De-anonymization of Mobility Trajectories: Dissecting the Gaps between Theory and Practice,Anonymity
+234,De-anonymization of Mobility Trajectories: Dissecting the Gaps between Theory and Practice,Mobile security and privacy
+235,Exploiting a Thermal Side Channel for Power Attacks in Multi-Tenant Data Centers,Cloud security
+235,Exploiting a Thermal Side Channel for Power Attacks in Multi-Tenant Data Centers,Cyber-physical systems (including IoT) security
+236,Randomized mechanisms under attacks for tuning privacy parameters,Anonymity
+236,Randomized mechanisms under attacks for tuning privacy parameters,Privacy-preserving systems
+237,Smuggling in the Shadows: Silent Install Usage in Android Apps and Security Implications,Malware
+237,Smuggling in the Shadows: Silent Install Usage in Android Apps and Security Implications,Mobile security and privacy
+237,Smuggling in the Shadows: Silent Install Usage in Android Apps and Security Implications,Software security
+238,Breakdown Resilience of Key Exchange Protocols and the Case of NewHope and TLS 1.3,Applied cryptography
+238,Breakdown Resilience of Key Exchange Protocols and the Case of NewHope and TLS 1.3,Protocols
+239,LightBox: SGX-assisted Secure Network Functions at Near-native Speed,Cloud security
+239,LightBox: SGX-assisted Secure Network Functions at Near-native Speed,Network security
+239,LightBox: SGX-assisted Secure Network Functions at Near-native Speed,Privacy-preserving systems
+240,Towards Sustainable Evolution for the TLS Public-Key Infrastructure,Network security
+240,Towards Sustainable Evolution for the TLS Public-Key Infrastructure,Protocols
+241,Machine Learning over Hybrid Data: Secure Realization and Acceleration,Cloud security
+241,Machine Learning over Hybrid Data: Secure Realization and Acceleration,Machine learning
+241,Machine Learning over Hybrid Data: Secure Realization and Acceleration,Privacy-preserving systems
+242,3DSafe: Thwarting Collision Causing Instruction Attacks in 3D Printers,Cyber-physical systems (including IoT) security
+242,3DSafe: Thwarting Collision Causing Instruction Attacks in 3D Printers,Hardware and architecture security
+242,3DSafe: Thwarting Collision Causing Instruction Attacks in 3D Printers,Information flow
+242,3DSafe: Thwarting Collision Causing Instruction Attacks in 3D Printers,Malware
+242,3DSafe: Thwarting Collision Causing Instruction Attacks in 3D Printers,Software security
+243,On the (statistical) Detection of Adversarial Examples,Machine learning
+244,ShieldStore: Shielded In-memory Key-value Storage with SGX,Cloud security
+244,ShieldStore: Shielded In-memory Key-value Storage with SGX,Hardware and architecture security
+245,Privacy Amplification against Active Adversaries for Secure Quantum Communication,Applied cryptography
+245,Privacy Amplification against Active Adversaries for Secure Quantum Communication,Network security
+245,Privacy Amplification against Active Adversaries for Secure Quantum Communication,Protocols
+246,Who is Knocking on Telnet Port: A Large-Scale Empirical Study of Network Scanning,Network security
+247,Identity-Based Format-Preserving Encryption,Applied cryptography
+248,Borrowing Information Flow Security from a Secure Kernel,Information flow
+248,Borrowing Information Flow Security from a Secure Kernel,Secure and verifiable computation
+248,Borrowing Information Flow Security from a Secure Kernel,Software security
+248,Borrowing Information Flow Security from a Secure Kernel,Web security and privacy
+249,Deterministic Browser,Web security and privacy
+250,On Ends-to-Ends Encryption: Asynchronous Group Messaging with Strong Security Guarantees,Applied cryptography
+250,On Ends-to-Ends Encryption: Asynchronous Group Messaging with Strong Security Guarantees,Authentication and authorization
+250,On Ends-to-Ends Encryption: Asynchronous Group Messaging with Strong Security Guarantees,Mobile security and privacy
+250,On Ends-to-Ends Encryption: Asynchronous Group Messaging with Strong Security Guarantees,Network security
+250,On Ends-to-Ends Encryption: Asynchronous Group Messaging with Strong Security Guarantees,Protocols
+250,On Ends-to-Ends Encryption: Asynchronous Group Messaging with Strong Security Guarantees,Web security and privacy
+251,"Boosting Private Payments in Monero - New Attacks, Exact Cryptographic Definitions, and Sublinear Ring Signatures",Anonymity
+251,"Boosting Private Payments in Monero - New Attacks, Exact Cryptographic Definitions, and Sublinear Ring Signatures",Applied cryptography
+252,Post-Quantum Zero-Knowledge and Signatures from Symmetric-Key Primitives,Applied cryptography
+252,Post-Quantum Zero-Knowledge and Signatures from Symmetric-Key Primitives,Authentication and authorization
+253,Refreshing Coins for Giving Change and Refunds in Chaum-style Anonymous Payment Systems,Anonymity
+253,Refreshing Coins for Giving Change and Refunds in Chaum-style Anonymous Payment Systems,Applied cryptography
+253,Refreshing Coins for Giving Change and Refunds in Chaum-style Anonymous Payment Systems,Privacy-preserving systems
+253,Refreshing Coins for Giving Change and Refunds in Chaum-style Anonymous Payment Systems,Protocols
+253,Refreshing Coins for Giving Change and Refunds in Chaum-style Anonymous Payment Systems,Web security and privacy
+254,ELF GOT Problems? C F I Can Help.,Software security
+255,Early Stage Malware Prediction,Machine learning
+255,Early Stage Malware Prediction,Malware
+256,Toward Secure Drones System: Flying with Real-time Homomorphic Authenticated Encryption,Applied cryptography
+256,Toward Secure Drones System: Flying with Real-time Homomorphic Authenticated Encryption,Authentication and authorization
+256,Toward Secure Drones System: Flying with Real-time Homomorphic Authenticated Encryption,Hardware and architecture security
+256,Toward Secure Drones System: Flying with Real-time Homomorphic Authenticated Encryption,Privacy-preserving systems
+256,Toward Secure Drones System: Flying with Real-time Homomorphic Authenticated Encryption,Secure and verifiable computation
+257,A type system for privacy properties,Language-based security
+257,A type system for privacy properties,Protocols
+259,A Framework for Constructing Fast MPC over Arithmetic Circuits with Malicious Adversaries and an Honest-Majority,<none>
+260,A Programmable Threat Intelligence Framework for Containerized Clouds,Cloud security
+260,A Programmable Threat Intelligence Framework for Containerized Clouds,Distributed systems security
+260,A Programmable Threat Intelligence Framework for Containerized Clouds,Network security
+262,An Efficiently Searchable Encrypted Data Structure for Range Queries,Applied cryptography
+262,An Efficiently Searchable Encrypted Data Structure for Range Queries,Cloud security
+262,An Efficiently Searchable Encrypted Data Structure for Range Queries,Secure and verifiable computation
+263,More is Less: How Group Chats Weaken the Security of Instant Messengers,Mobile security and privacy
+263,More is Less: How Group Chats Weaken the Security of Instant Messengers,Protocols
+264,Dynamic Packet Forwarding Verification in SDN,Network security
+264,Dynamic Packet Forwarding Verification in SDN,Protocols
+265,Understanding and Automatically Preventing Injection Attacks on Node.js,Software security
+265,Understanding and Automatically Preventing Injection Attacks on Node.js,Web security and privacy
+267,Bitter Harvest: Fingerprinting SSH Honeypots at Internet Scale,Intrusion detection
+267,Bitter Harvest: Fingerprinting SSH Honeypots at Internet Scale,Network security
+267,Bitter Harvest: Fingerprinting SSH Honeypots at Internet Scale,User studies
+268,PrivMin: Differentially Private MinHash for Jaccard Similarity Computation,Privacy-preserving systems
+268,PrivMin: Differentially Private MinHash for Jaccard Similarity Computation,Protocols
+269,The TypTop System: Personalized Typo-tolerant Password Checking,Applied cryptography
+269,The TypTop System: Personalized Typo-tolerant Password Checking,User studies
+269,The TypTop System: Personalized Typo-tolerant Password Checking,Web security and privacy
+270,VoltageIDS: Low-Level Communication characteristics for Automotive Intrusion Detection System,Authentication and authorization
+270,VoltageIDS: Low-Level Communication characteristics for Automotive Intrusion Detection System,Cyber-physical systems (including IoT) security
+270,VoltageIDS: Low-Level Communication characteristics for Automotive Intrusion Detection System,Intrusion detection
+271,Attacking FHE-based applications by software fault injections,Applied cryptography
+271,Attacking FHE-based applications by software fault injections,Cloud security
+272,Viden: Attacker Identification on In-Vehicle Networks,Cyber-physical systems (including IoT) security
+273,A Secure and Efficient Mobile Device Pairing Mechanism via Indoor Electromagnetic Field,Mobile security and privacy
+274,UltraVag: Unlinkability Through Random Virtual Identifier Sub-tree Spinning,Anonymity
+274,UltraVag: Unlinkability Through Random Virtual Identifier Sub-tree Spinning,Network security
+275,Control-Flow Integrity for Real-Time Embedded Systems,Cyber-physical systems (including IoT) security
+275,Control-Flow Integrity for Real-Time Embedded Systems,Software security
+276,"Automated Detection, Exploitation, and Prevention of Double-Fetch Bugs using Modern Processor Features",Software security
+277,KeyDrown: Eliminating Keystroke Timing Side-Channel Attacks,Software security
+278,Enabling Inference Control on Mobile Sensing Applications,Mobile security and privacy
+278,Enabling Inference Control on Mobile Sensing Applications,Privacy-preserving systems
+279,Deceptive Secret Sharing,Distributed systems security
+279,Deceptive Secret Sharing,Privacy-preserving systems
+280,You Can Get There From Here: Circumventing Fine-Grained Memory Re-Randomization via Relative-Address Attacks,Software security
+281,Do Smartphone Motion Sensors Pose a Threat to Speech Privacy?,Mobile security and privacy
+282,Optimus Prime: Linear transformations to secure machine learning systems,Machine learning
+282,Optimus Prime: Linear transformations to secure machine learning systems,Metrics
+283,Forward-Security under Continual Leakage,Applied cryptography
+284,A Study on APT Attack Detection Through Network-based Behavior Profiling and Traffic Flow Analysis,Malware
+284,A Study on APT Attack Detection Through Network-based Behavior Profiling and Traffic Flow Analysis,Network security
+285,Get in line: Membership verification for urban vehicle platoons based on driving trajectories,Authentication and authorization
+285,Get in line: Membership verification for urban vehicle platoons based on driving trajectories,Cyber-physical systems (including IoT) security
+285,Get in line: Membership verification for urban vehicle platoons based on driving trajectories,Distributed systems security
+285,Get in line: Membership verification for urban vehicle platoons based on driving trajectories,Mobile security and privacy
+286,Leakage-Resilient and Misuse-Resistant Authenticated Encryption,Applied cryptography
+286,Leakage-Resilient and Misuse-Resistant Authenticated Encryption,Hardware and architecture security
+287,Hiding in Plain Sight: A Longitudinal Study of Combosquatting Abuse,Malware
+287,Hiding in Plain Sight: A Longitudinal Study of Combosquatting Abuse,Network security
+288,On the (in)security of encryption over compression in TLS,Applied cryptography
+288,On the (in)security of encryption over compression in TLS,Web security and privacy
+289,Feature Conservation in Adversarial Classifier Evasion,Machine learning
+289,Feature Conservation in Adversarial Classifier Evasion,Malware
+290,"Thunder - When Clouds Intersect (or, Private Set Intersection of Outsourced Data)",Privacy-preserving systems
+290,"Thunder - When Clouds Intersect (or, Private Set Intersection of Outsourced Data)",Secure and verifiable computation
+291,Controlled-Channel Attacks Beyond the Usual Suspects: Information Leakage from Elementary CPU Behavior,Cyber-physical systems (including IoT) security
+291,Controlled-Channel Attacks Beyond the Usual Suspects: Information Leakage from Elementary CPU Behavior,Hardware and architecture security
+291,Controlled-Channel Attacks Beyond the Usual Suspects: Information Leakage from Elementary CPU Behavior,Secure and verifiable computation
+292,Practical x86 Timing-Based Software Attestation Forgery,Forensics
+292,Practical x86 Timing-Based Software Attestation Forgery,Hardware and architecture security
+292,Practical x86 Timing-Based Software Attestation Forgery,Intrusion detection
+292,Practical x86 Timing-Based Software Attestation Forgery,Secure and verifiable computation
+292,Practical x86 Timing-Based Software Attestation Forgery,Software security
+293,AdBudgetKiller: Online Advertising Budget Draining Attack,Web security and privacy
+294,Mayall: A Framework for Desktop JavaScript Auditing and Post-Exploitation Analysis,Malware
+294,Mayall: A Framework for Desktop JavaScript Auditing and Post-Exploitation Analysis,Software security
+294,Mayall: A Framework for Desktop JavaScript Auditing and Post-Exploitation Analysis,Web security and privacy
+295,Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Supervised Regression Learning,Machine learning
+296,Practical Compiler-assisted Code Randomization,Software security
+297,Securing Mobile Data Collectors by Integrating Software Attestation and Encrypted Data Repositories,Applied cryptography
+297,Securing Mobile Data Collectors by Integrating Software Attestation and Encrypted Data Repositories,Cyber-physical systems (including IoT) security
+297,Securing Mobile Data Collectors by Integrating Software Attestation and Encrypted Data Repositories,Distributed systems security
+297,Securing Mobile Data Collectors by Integrating Software Attestation and Encrypted Data Repositories,Mobile security and privacy
+297,Securing Mobile Data Collectors by Integrating Software Attestation and Encrypted Data Repositories,Secure and verifiable computation
+298,Differentially private and utility preserving publication of trajectory data,Anonymity
+298,Differentially private and utility preserving publication of trajectory data,Mobile security and privacy
+298,Differentially private and utility preserving publication of trajectory data,Privacy-preserving systems
+299,ERASER: Your Data Won't Be Back,<none>
+300,Software Countermeasure against Fault Injection and Side-Channel Attacks,Applied cryptography
+301,Nameles: A System for Real-Time Invalid Ad Traffic Detection at Scale,Web security and privacy
+302,Signal Monitoring in Cyber-Physical Systems for Attack Detection with Distributed Neural Networks,Cyber-physical systems (including IoT) security
+302,Signal Monitoring in Cyber-Physical Systems for Attack Detection with Distributed Neural Networks,Machine learning
+303,Evaluating Privacy Leakage of Generative Models using Generative Adversarial Networks,Machine learning
+304,Detecting Structurally Anomalous Logins Within Enterprise Networks,Authentication and authorization
+304,Detecting Structurally Anomalous Logins Within Enterprise Networks,Intrusion detection
+304,Detecting Structurally Anomalous Logins Within Enterprise Networks,Machine learning
+304,Detecting Structurally Anomalous Logins Within Enterprise Networks,Network security
+305,The VACCINE Framework for Building DLP Systems,Access control
+305,The VACCINE Framework for Building DLP Systems,Information flow
+305,The VACCINE Framework for Building DLP Systems,Privacy policies
+306,Back to the drawing board: Revisiting the design of optimal location privacy-preserving mechanisms,Metrics
+306,Back to the drawing board: Revisiting the design of optimal location privacy-preserving mechanisms,Privacy-preserving systems
+308,Proactive Identification of Exploits in the Wild Through Vulnerability Mentions Online,Language-based security
+308,Proactive Identification of Exploits in the Wild Through Vulnerability Mentions Online,Machine learning
+308,Proactive Identification of Exploits in the Wild Through Vulnerability Mentions Online,Software security
+309,Large-Scale Detection of Malicious Lateral Movement,Forensics
+309,Large-Scale Detection of Malicious Lateral Movement,Intrusion detection
+310,Changing Users' Software Update Behavior via Video-Based Emotional Inoculation and Social Motivation Interventions,User studies
+311,Membership Function Sensitivity Using a Fuzzy Genetic Algorithm for Intrusion Detection,Intrusion detection
+311,Membership Function Sensitivity Using a Fuzzy Genetic Algorithm for Intrusion Detection,Machine learning
+311,Membership Function Sensitivity Using a Fuzzy Genetic Algorithm for Intrusion Detection,Network security
+313,Tamper-Proof Systems by Physical Unclonable Envelopes,Hardware and architecture security
+314,The road not taken: Secure asymmetry and deployability for decoy routing systems,Censorship-resistance
+314,The road not taken: Secure asymmetry and deployability for decoy routing systems,Protocols
+315,Post-Quantum SPA: Post-Quantum Secure Private Stream Aggregation,Applied cryptography
+315,Post-Quantum SPA: Post-Quantum Secure Private Stream Aggregation,Privacy-preserving systems
+316,Cusper: A Formal Approach to Resolving the Predicament of Android Custom Permissions,Mobile security and privacy
+317,"After You, Please: Browser Extensions Order Attacks",Malware
+317,"After You, Please: Browser Extensions Order Attacks",Web security and privacy
+318,How Unique is Your .onion? An Analysis of the Fingerprintability of Tor Onion Services,Anonymity
+318,How Unique is Your .onion? An Analysis of the Fingerprintability of Tor Onion Services,Web security and privacy
+319,No-Match Attacks and Robust Partnering Definitions -- Defining Trivial Attacks for Security Protocols is Not Trivial,Applied cryptography
+319,No-Match Attacks and Robust Partnering Definitions -- Defining Trivial Attacks for Security Protocols is Not Trivial,Protocols
+320,Design and Implementation of a Biodiversity-inspired DNS security framework,Network security
+321,Deception and Misunderstanding: Analyzing Email Spoofing from User Perspectives,Authentication and authorization
+321,Deception and Misunderstanding: Analyzing Email Spoofing from User Perspectives,Network security
+321,Deception and Misunderstanding: Analyzing Email Spoofing from User Perspectives,User studies
+322,Temporal Consistency of Integrity-Ensuring Computations and Applications to Embedded Systems Security,Cyber-physical systems (including IoT) security
+322,Temporal Consistency of Integrity-Ensuring Computations and Applications to Embedded Systems Security,Malware
+323,Sudden Death of Live Migration and Its Security Implications,Cloud security
+323,Sudden Death of Live Migration and Its Security Implications,Network security
+324,Use-After-Free Mitigation via Protected Heap Allocation,Network security
+324,Use-After-Free Mitigation via Protected Heap Allocation,Web security and privacy
+325,Where the Wild Warnings Are: Root Causes of Chrome HTTPS Certificate Errors,Network security
+325,Where the Wild Warnings Are: Root Causes of Chrome HTTPS Certificate Errors,User studies
+325,Where the Wild Warnings Are: Root Causes of Chrome HTTPS Certificate Errors,Web security and privacy
+326,Stealing Hyperparameters in Machine Learning,Cloud security
+326,Stealing Hyperparameters in Machine Learning,Machine learning
+327,"Anatomy of a Vulnerable Fitness Tracking System: Dissecting the Fitbit Cloud, App, and Firmware",Authentication and authorization
+327,"Anatomy of a Vulnerable Fitness Tracking System: Dissecting the Fitbit Cloud, App, and Firmware",Cloud security
+327,"Anatomy of a Vulnerable Fitness Tracking System: Dissecting the Fitbit Cloud, App, and Firmware",Cyber-physical systems (including IoT) security
+327,"Anatomy of a Vulnerable Fitness Tracking System: Dissecting the Fitbit Cloud, App, and Firmware",Hardware and architecture security
+327,"Anatomy of a Vulnerable Fitness Tracking System: Dissecting the Fitbit Cloud, App, and Firmware",Malware
+327,"Anatomy of a Vulnerable Fitness Tracking System: Dissecting the Fitbit Cloud, App, and Firmware",Mobile security and privacy
+327,"Anatomy of a Vulnerable Fitness Tracking System: Dissecting the Fitbit Cloud, App, and Firmware",Web security and privacy
+329,Asm2Vec: Learning Robust Assembly Code Representation for Semantic Clone Analysis,Machine learning
+329,Asm2Vec: Learning Robust Assembly Code Representation for Semantic Clone Analysis,Malware
+329,Asm2Vec: Learning Robust Assembly Code Representation for Semantic Clone Analysis,Software security
+330,Home Digital Voice Assistants: Security Threats and Countermeasure,Cyber-physical systems (including IoT) security
+330,Home Digital Voice Assistants: Security Threats and Countermeasure,Mobile security and privacy
+331,Privacy Preserving Autoencoder,Anonymity
+333,Environment Targeted Parameter Trojaning Atacks for Cyber-physical Systems,Cyber-physical systems (including IoT) security
+334,Adding Privacy to Publicly-Accessible Data Storage,Access control
+334,Adding Privacy to Publicly-Accessible Data Storage,Applied cryptography
+334,Adding Privacy to Publicly-Accessible Data Storage,Cloud security
+335,Flat ORAM: A Simplified {Write-Only} Oblivious RAM Construction for Secure Processors,Cloud security
+335,Flat ORAM: A Simplified {Write-Only} Oblivious RAM Construction for Secure Processors,Hardware and architecture security
+335,Flat ORAM: A Simplified {Write-Only} Oblivious RAM Construction for Secure Processors,Privacy-preserving systems
+336,"How to create a ""fanTabulous"" password",Authentication and authorization
+336,"How to create a ""fanTabulous"" password",User studies
+337,RAN: Routing Around Nation-States,Network security
+337,RAN: Routing Around Nation-States,Privacy-preserving systems
+338,Heavy Light Encrypted Graphs: Efficient Graph Encryption Schemes for Path Queries,Applied cryptography
+338,Heavy Light Encrypted Graphs: Efficient Graph Encryption Schemes for Path Queries,Cloud security
+338,Heavy Light Encrypted Graphs: Efficient Graph Encryption Schemes for Path Queries,Privacy-preserving systems
+339,Querying for Queries: Indexes of Queries for Efficient and Expressive IT-PIR,Applied cryptography
+339,Querying for Queries: Indexes of Queries for Efficient and Expressive IT-PIR,Distributed systems security
+339,Querying for Queries: Indexes of Queries for Efficient and Expressive IT-PIR,Mobile security and privacy
+339,Querying for Queries: Indexes of Queries for Efficient and Expressive IT-PIR,Privacy-preserving systems
+339,Querying for Queries: Indexes of Queries for Efficient and Expressive IT-PIR,Protocols
+339,Querying for Queries: Indexes of Queries for Efficient and Expressive IT-PIR,Web security and privacy
+340,OCDN: Oblivious Content Distribution Networks,Anonymity
+340,OCDN: Oblivious Content Distribution Networks,Cloud security
+340,OCDN: Oblivious Content Distribution Networks,Distributed systems security
+340,OCDN: Oblivious Content Distribution Networks,Network security
+340,OCDN: Oblivious Content Distribution Networks,Privacy-preserving systems
+341,Protecting the Stack with Metadata Policies and Tagged Hardware,Hardware and architecture security
+341,Protecting the Stack with Metadata Policies and Tagged Hardware,Software security
+342,Message Detectable CP-ABE: How to Protect Your Digital Rights,Applied cryptography
+343,"Searchable Symmetric Encryption: A Decentralized, Reliable and Fair Realization",Cloud security
+343,"Searchable Symmetric Encryption: A Decentralized, Reliable and Fair Realization",Privacy-preserving systems
+343,"Searchable Symmetric Encryption: A Decentralized, Reliable and Fair Realization",Secure and verifiable computation
+344,Mass Discovery of Android Traffic Imprints through Instantiated Partial Execution,Mobile security and privacy
+344,Mass Discovery of Android Traffic Imprints through Instantiated Partial Execution,Network security
+345,Solidus: Confidential Distributed Ledger Transactions via PVORM,Applied cryptography
+345,Solidus: Confidential Distributed Ledger Transactions via PVORM,Distributed systems security
+345,Solidus: Confidential Distributed Ledger Transactions via PVORM,Privacy-preserving systems
+349,Attribute-Privacy Preserved Machine Learning Models under Model Inversion Attack,Machine learning
+349,Attribute-Privacy Preserved Machine Learning Models under Model Inversion Attack,Privacy-preserving systems
+349,Attribute-Privacy Preserved Machine Learning Models under Model Inversion Attack,Protocols
+350,On the (In)effectiveness of Fine-Grained Randomization for Legacy Binaries: In-Depth Analysis and Risk Assessment,Software security
+351,Game of Missuggestions: Semantic Analysis of Search-Autocomplete Manipulations,Web security and privacy
+352,ARM2GC: Simple and Efficient Garbled Circuit Framework by Skipping,Applied cryptography
+352,ARM2GC: Simple and Efficient Garbled Circuit Framework by Skipping,Privacy-preserving systems
+352,ARM2GC: Simple and Efficient Garbled Circuit Framework by Skipping,Secure and verifiable computation
+353,Static Detection and Mitigation Assessment of Storage Side Channels using Approximate Model Counting,Information flow
+353,Static Detection and Mitigation Assessment of Storage Side Channels using Approximate Model Counting,Software security
+354,DEFTL: Implementing Plausibly Deniable Encryption in Flash Translation Layer,Forensics
+354,DEFTL: Implementing Plausibly Deniable Encryption in Flash Translation Layer,Mobile security and privacy
+355,Lunchtime Attack Mitigation with PoPa: Posture Pattern Biometric,Authentication and authorization
+355,Lunchtime Attack Mitigation with PoPa: Posture Pattern Biometric,Intrusion detection
+355,Lunchtime Attack Mitigation with PoPa: Posture Pattern Biometric,User studies
+356,Digging Deception-Enhanced Threat Data for Attack Detection,Intrusion detection
+356,Digging Deception-Enhanced Threat Data for Attack Detection,Machine learning
+357,Wrist-spy: Snooping Passcode in Mobile Payment Using Wrist-worn Wearables,Mobile security and privacy
+358,Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning,Distributed systems security
+358,Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning,Machine learning
+358,Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning,Privacy-preserving systems
+359,CryptMe: Data Leakage Prevention for Unmodified Programs on ARM Devices,Cyber-physical systems (including IoT) security
+360,On Attack-Agnostic Defense against Adversarial Inputs,Machine learning
+361,"Modular Learning Component Attacks: Today's Reality, Tomorrow's Challenge",Machine learning
+361,"Modular Learning Component Attacks: Today's Reality, Tomorrow's Challenge",Software security
+362,"CCCP: Closed Caption Crypto Phones to Resist MITM Attacks, Human Errors and Click-Through",Mobile security and privacy
+363,Incognitus: Practical Privacy-preserving Web Analytics,Distributed systems security
+363,Incognitus: Practical Privacy-preserving Web Analytics,Network security
+363,Incognitus: Practical Privacy-preserving Web Analytics,Privacy-preserving systems
+364,FAME: Fast Attribute-based Message Encryption,Access control
+364,FAME: Fast Attribute-based Message Encryption,Applied cryptography
+364,FAME: Fast Attribute-based Message Encryption,Privacy policies
+364,FAME: Fast Attribute-based Message Encryption,Protocols
+365,FMCode: A 3D In-the-Air Finger Motion Based User Login Framework for Gesture Interface,Authentication and authorization
+365,FMCode: A 3D In-the-Air Finger Motion Based User Login Framework for Gesture Interface,Machine learning
+366,Privacy-Preserving Face Recognition with Differentially Private Deep Convolutional Neural Networks,Machine learning
+366,Privacy-Preserving Face Recognition with Differentially Private Deep Convolutional Neural Networks,Privacy-preserving systems
+367,PCA-Gauss: Leveraging Dimensionality Reduction on a Generative Model for Non-Interactive Private Data Release,Privacy-preserving systems
+368,Decomposing Binary Code Into Components via Locality-Based Graph Clustering,Malware
+368,Decomposing Binary Code Into Components via Locality-Based Graph Clustering,Software security
+369,Compact-LWE: Enabling Practically Lightweight Public Key Encryption for Leveled IoT Device Authentication,Applied cryptography
+369,Compact-LWE: Enabling Practically Lightweight Public Key Encryption for Leveled IoT Device Authentication,Authentication and authorization
+369,Compact-LWE: Enabling Practically Lightweight Public Key Encryption for Leveled IoT Device Authentication,Cyber-physical systems (including IoT) security
+370,BinPro: A Tool for Binary Source Code Provenance,Software security
+371,uSFI: Ultra-Lightweight Software Fault Isolation for IoT-Class Devices,Access control
+371,uSFI: Ultra-Lightweight Software Fault Isolation for IoT-Class Devices,Cyber-physical systems (including IoT) security
+371,uSFI: Ultra-Lightweight Software Fault Isolation for IoT-Class Devices,Software security
+372,Data-Driven Trust Computing and Resource Clustering for Personalized Cloud Collaboration Service,Cloud security
+372,Data-Driven Trust Computing and Resource Clustering for Personalized Cloud Collaboration Service,User studies
+373,Brain Hemorrhage: When Brainwaves Leak Medical Conditions,Web security and privacy
+374,Wildcard Search over Encrypted Data with High Accuracy,Applied cryptography
+374,Wildcard Search over Encrypted Data with High Accuracy,Cloud security
+374,Wildcard Search over Encrypted Data with High Accuracy,Privacy-preserving systems
+374,Wildcard Search over Encrypted Data with High Accuracy,Protocols
+375,Blockchain-based Certificate Transparency and Revocation Transparency,Applied cryptography
+375,Blockchain-based Certificate Transparency and Revocation Transparency,Authentication and authorization
+375,Blockchain-based Certificate Transparency and Revocation Transparency,Network security
+375,Blockchain-based Certificate Transparency and Revocation Transparency,Protocols
+376,Smoke Screener or Straight Shooter: Detecting Elite Sybil Attacks in User-Review Social Networks,Intrusion detection
+376,Smoke Screener or Straight Shooter: Detecting Elite Sybil Attacks in User-Review Social Networks,Mobile security and privacy
+376,Smoke Screener or Straight Shooter: Detecting Elite Sybil Attacks in User-Review Social Networks,Web security and privacy
+377,Comparative Analysis and Framework Evaluating Mimicry-Resistant and Invisible Web Authentication Schemes,Authentication and authorization
+378,EOS: Searchable Encryption without Access-Pattern Leakage Using Hardware Enclaves,Applied cryptography
+378,EOS: Searchable Encryption without Access-Pattern Leakage Using Hardware Enclaves,Cloud security
+379,APIARY: Finding Insecure Crypto Key Usage in Binary Executables,Applied cryptography
+379,APIARY: Finding Insecure Crypto Key Usage in Binary Executables,Software security
+380,Don't Touch My Ad-blocker: Cloaking Ad-blockers With Differential Execution Trace Analysis,Software security
+380,Don't Touch My Ad-blocker: Cloaking Ad-blockers With Differential Execution Trace Analysis,Web security and privacy
+381,DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning,Intrusion detection
+381,DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning,Machine learning
+382,Secure Authentication and Four-way Handshake Scheme for Protected Individual Communication in Public Wi-Fi Networks,Authentication and authorization
+382,Secure Authentication and Four-way Handshake Scheme for Protected Individual Communication in Public Wi-Fi Networks,Mobile security and privacy
+382,Secure Authentication and Four-way Handshake Scheme for Protected Individual Communication in Public Wi-Fi Networks,Network security
+382,Secure Authentication and Four-way Handshake Scheme for Protected Individual Communication in Public Wi-Fi Networks,Privacy-preserving systems
+383,Stacco: Differentially Analyzing Side-Channel Traces for Detecting SSL/TLS Vulnerabilities in Secure Enclaves,Hardware and architecture security
+383,Stacco: Differentially Analyzing Side-Channel Traces for Detecting SSL/TLS Vulnerabilities in Secure Enclaves,Network security
+383,Stacco: Differentially Analyzing Side-Channel Traces for Detecting SSL/TLS Vulnerabilities in Secure Enclaves,Protocols
+384,ANF Computation of Cryptographic Primitive Switching Functions using a Netlist Representation,Applied cryptography
+384,ANF Computation of Cryptographic Primitive Switching Functions using a Netlist Representation,Hardware and architecture security
+385,An Insider's Game: Just-in-Time Code Injection for Active Cyber Deception and Response,Intrusion detection
+385,An Insider's Game: Just-in-Time Code Injection for Active Cyber Deception and Response,Software security
+386,Enabling PoW-based Blockchain Data Sharding via Proofs of Knowledge,Applied cryptography
+386,Enabling PoW-based Blockchain Data Sharding via Proofs of Knowledge,Distributed systems security
+387,Detecting Adversarial Examples in Deep Networks with Adaptive Noise Reduction,Machine learning
+388,Collision Resistant Hashing from Learning Parity with Noise,Applied cryptography
+388,Collision Resistant Hashing from Learning Parity with Noise,Authentication and authorization
+389,SAIF against DoS: the Secure Accountable Inter-domain Forwarding Protocol,Network security
+389,SAIF against DoS: the Secure Accountable Inter-domain Forwarding Protocol,Protocols
+390,No right to remain silent: Isolating Malicious Mixes,Anonymity
+391,Secure Publish-Process-Subscribe System for the Internet of Things,Applied cryptography
+391,Secure Publish-Process-Subscribe System for the Internet of Things,Cyber-physical systems (including IoT) security
+391,Secure Publish-Process-Subscribe System for the Internet of Things,Distributed systems security
+391,Secure Publish-Process-Subscribe System for the Internet of Things,Privacy-preserving systems
+391,Secure Publish-Process-Subscribe System for the Internet of Things,Protocols
+391,Secure Publish-Process-Subscribe System for the Internet of Things,Secure and verifiable computation
+392,Computer-aided proofs for secure multiparty computation,Language-based security
+392,Computer-aided proofs for secure multiparty computation,Secure and verifiable computation
+393,Neural Basis of Voice Hacking: An fNIRS Study of Speaker Legitimacy and Familiarity,User studies
+394,A New Constraint of Privacy: $\alpha$-Combined Mutual Information Security,Applied cryptography
+394,A New Constraint of Privacy: $\alpha$-Combined Mutual Information Security,Privacy-preserving systems
+394,A New Constraint of Privacy: $\alpha$-Combined Mutual Information Security,Protocols
+395,Power Control Identification: A Novel Sybil Attack Detection Scheme using RSSI for VANETs,Network security
+396,How to Sign with White-Boxed AES,Applied cryptography
+396,How to Sign with White-Boxed AES,Protocols
+397,Knockin' on Trackers' Door: Large-Scale Automatic Analysis of Web Tracking on the Internet,Privacy-preserving systems
+397,Knockin' on Trackers' Door: Large-Scale Automatic Analysis of Web Tracking on the Internet,Web security and privacy
+398,Towards Thwarting Template Side-channel Attacks in Secure Cloud Deduplications,Cloud security
+398,Towards Thwarting Template Side-channel Attacks in Secure Cloud Deduplications,Privacy-preserving systems
+399,CFHider: Protecting Control Flow Confidentiality with SGX,Cloud security
+399,CFHider: Protecting Control Flow Confidentiality with SGX,Language-based security
+399,CFHider: Protecting Control Flow Confidentiality with SGX,Software security
+401,Malware Lineage in the Wild,Malware
+401,Malware Lineage in the Wild,Software security
+402,Scalable Byzantine Consensus via Hardware-assisted Secret Sharing,Distributed systems security
+402,Scalable Byzantine Consensus via Hardware-assisted Secret Sharing,Protocols
+403,Leaking through the Protection of Secure Containers on ARM Devices,Hardware and architecture security
+403,Leaking through the Protection of Secure Containers on ARM Devices,Information flow
+404,Your Culture is in Your Password: An Analysis of a Demographically-diverse Password Dataset,Authentication and authorization
+404,Your Culture is in Your Password: An Analysis of a Demographically-diverse Password Dataset,User studies
+405,Analyzing and Enhancing the Security of Ultrasonic Sensors in Automobiles,Cyber-physical systems (including IoT) security
+405,Analyzing and Enhancing the Security of Ultrasonic Sensors in Automobiles,Hardware and architecture security
+406,DDVM: Virtualization-based Device Driver Isolation Method for Macro-Kernel OS,Software security
+407,PatternListener: Cracking Android Pattern Lock Using Acoustic Signals,Mobile security and privacy
+408,PrivPy: Enabling Scalable and General Privacy-Preserving Distributed Computation,Privacy-preserving systems
+409,Updatable Group Messaging Protocol for End-to-End Encryption on Enterprise Chat Systems,Network security
+409,Updatable Group Messaging Protocol for End-to-End Encryption on Enterprise Chat Systems,Protocols
+410,A Fast and Verified Software Stack for Secure Function Evaluation,Secure and verifiable computation
+411,xJsnark: A Framework for Efficient Verifiable Computation,Applied cryptography
+411,xJsnark: A Framework for Efficient Verifiable Computation,Secure and verifiable computation
+412,Why Johnny Cannot Remember His Password: An Empirical Investigation,User studies
+413,Listening Watch: Wearable Two-Factor Authentication using Speech Sounds Resistant to Near-Far Attacks,Authentication and authorization
+413,Listening Watch: Wearable Two-Factor Authentication using Speech Sounds Resistant to Near-Far Attacks,Web security and privacy
+414,Dissecting Privacy Risks in Biomedical Data,Anonymity
+414,Dissecting Privacy Risks in Biomedical Data,Machine learning
+414,Dissecting Privacy Risks in Biomedical Data,Privacy-preserving systems
+415,Sultans of Swipe: Detecting Counterfeit Magnetic Stripe Cards Using Encoding Jitter,Authentication and authorization
+415,Sultans of Swipe: Detecting Counterfeit Magnetic Stripe Cards Using Encoding Jitter,Hardware and architecture security
+416,Enhancing User Verification and Privacy Protection in Outsourced Biometric Authentication,Applied cryptography
+416,Enhancing User Verification and Privacy Protection in Outsourced Biometric Authentication,Authentication and authorization
+416,Enhancing User Verification and Privacy Protection in Outsourced Biometric Authentication,Cyber-physical systems (including IoT) security
+416,Enhancing User Verification and Privacy Protection in Outsourced Biometric Authentication,Privacy-preserving systems
+416,Enhancing User Verification and Privacy Protection in Outsourced Biometric Authentication,Protocols
+418,Find Me A Safe Zone: A Countermeasure for Channel State Information Based Attacks,Mobile security and privacy
+419,Effective Phishing Education in Less than Five Minutes,Mobile security and privacy
+419,Effective Phishing Education in Less than Five Minutes,Privacy-preserving systems
+419,Effective Phishing Education in Less than Five Minutes,User studies
+419,Effective Phishing Education in Less than Five Minutes,Web security and privacy
+421,"With one it is easy, with many it gets complicated: Understanding channel security for groups",Applied cryptography
+421,"With one it is easy, with many it gets complicated: Understanding channel security for groups",Distributed systems security
+421,"With one it is easy, with many it gets complicated: Understanding channel security for groups",Network security
+421,"With one it is easy, with many it gets complicated: Understanding channel security for groups",Protocols
+422,"Angora: Efficient, Coverage-Directed Fuzzing",Software security
+423,Obfuscation for the Masses? A Large Scale Investigation of ProGuard Use in Google Play,Mobile security and privacy
+423,Obfuscation for the Masses? A Large Scale Investigation of ProGuard Use in Google Play,User studies
+424,CATCHA: When Cats Breach Your Privacy,Web security and privacy
+426,WACA: Wearable-Assisted Continuous Authentication,Authentication and authorization
+427,Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection,Machine learning
+427,Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection,Malware
+428,Application and Analysis of Blockchain to the South African Social Security Agency (SASSA),Anonymity
+428,Application and Analysis of Blockchain to the South African Social Security Agency (SASSA),Applied cryptography
+428,Application and Analysis of Blockchain to the South African Social Security Agency (SASSA),Authentication and authorization
+429,Tempest: Temporal Dynamics in Anonymity Systems,Anonymity
+429,Tempest: Temporal Dynamics in Anonymity Systems,Distributed systems security
+429,Tempest: Temporal Dynamics in Anonymity Systems,Mobile security and privacy
+429,Tempest: Temporal Dynamics in Anonymity Systems,Privacy-preserving systems
+429,Tempest: Temporal Dynamics in Anonymity Systems,Protocols
+430,Steganalysis of VoIP Streams Using Recurrent Neural Network,Forensics
+430,Steganalysis of VoIP Streams Using Recurrent Neural Network,Network security
+431,Forward Secure Order-Revealing Encryption against File-Injection Attack,Cloud security
+431,Forward Secure Order-Revealing Encryption against File-Injection Attack,Privacy-preserving systems
+432,Be Selfish and Avoid Dilemmas: Fork After Withholding (FAW) Attacks on Bitcoin,Distributed systems security
+433,Location Privacy in Hashtag-based Social Networks,Machine learning
+433,Location Privacy in Hashtag-based Social Networks,Mobile security and privacy
+433,Location Privacy in Hashtag-based Social Networks,Privacy-preserving systems
+434,Towards Proactive Auditing of Cascading Vulnerabilities across Inter-Cloud Replications,Cloud security
+434,Towards Proactive Auditing of Cascading Vulnerabilities across Inter-Cloud Replications,Privacy-preserving systems
+435,Encrypted Database Joins with Fine Granular Security,Applied cryptography
+435,Encrypted Database Joins with Fine Granular Security,Cloud security
+436,Preventing (Network) Time Travel with Chronos,Network security
+437,Trojan of Things: Embedding Malicious NFC Tags into Common Objects,Cyber-physical systems (including IoT) security
+437,Trojan of Things: Embedding Malicious NFC Tags into Common Objects,Hardware and architecture security
+438,Sub-Session Hijacking Attacks on the Web: Root Causes and Automated Protection,Distributed systems security
+438,Sub-Session Hijacking Attacks on the Web: Root Causes and Automated Protection,Web security and privacy
+439,A Subliminal Channel in EdDSA,Applied cryptography
+439,A Subliminal Channel in EdDSA,Authentication and authorization
+439,A Subliminal Channel in EdDSA,Censorship-resistance
+439,A Subliminal Channel in EdDSA,Cyber-physical systems (including IoT) security
+439,A Subliminal Channel in EdDSA,Network security
+439,A Subliminal Channel in EdDSA,Protocols
+441,EffectiveSan: Type Confusion and Memory Error Detection using Dynamically Typed C/C++,Language-based security
+441,EffectiveSan: Type Confusion and Memory Error Detection using Dynamically Typed C/C++,Software security
+442,Hiding Data Deception in Differential-Privacy Noise: Attacks and Countermeasures,Applied cryptography
+442,Hiding Data Deception in Differential-Privacy Noise: Attacks and Countermeasures,Cyber-physical systems (including IoT) security
+442,Hiding Data Deception in Differential-Privacy Noise: Attacks and Countermeasures,Intrusion detection
+442,Hiding Data Deception in Differential-Privacy Noise: Attacks and Countermeasures,Machine learning
+442,Hiding Data Deception in Differential-Privacy Noise: Attacks and Countermeasures,Privacy-preserving systems
+442,Hiding Data Deception in Differential-Privacy Noise: Attacks and Countermeasures,Privacy policies
+443,"Secure Three-party Arithmetic Computation Capable of Over 60,000 Times Biometric Authentications in a Second",Applied cryptography
+443,"Secure Three-party Arithmetic Computation Capable of Over 60,000 Times Biometric Authentications in a Second",Authentication and authorization
+443,"Secure Three-party Arithmetic Computation Capable of Over 60,000 Times Biometric Authentications in a Second",Mobile security and privacy
+443,"Secure Three-party Arithmetic Computation Capable of Over 60,000 Times Biometric Authentications in a Second",Secure and verifiable computation
+444,"Tortoise and Hares Consensus: the Meshcash Framework for Incentive-Compatible, Scalable Cryptocurrencies",Applied cryptography
+444,"Tortoise and Hares Consensus: the Meshcash Framework for Incentive-Compatible, Scalable Cryptocurrencies",Distributed systems security
+444,"Tortoise and Hares Consensus: the Meshcash Framework for Incentive-Compatible, Scalable Cryptocurrencies",Protocols
+445,Directed Greybox Fuzzing,Software security
+447,Face Flashing: a Secure Liveness Detection Protocol based on Light Reflections,Authentication and authorization
+448,What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices,Cyber-physical systems (including IoT) security
+448,What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices,Software security
+451,Unleashing the Walking Dead: Understanding Cross-App Remote Infections on Mobile WebViews,Mobile security and privacy
+451,Unleashing the Walking Dead: Understanding Cross-App Remote Infections on Mobile WebViews,Software security
+452,CRAC - Coercion-Resistant Anonymous Credentials,Applied cryptography
+452,CRAC - Coercion-Resistant Anonymous Credentials,Privacy-preserving systems
+453,GenoShare: Supporting Privacy-Informed Decisions for Sharing Exact Genomic Data,Privacy-preserving systems
+454,Predicting the Risk of Cyber Incidents,Machine learning
+455,Widespread Weak Digital Signatures on Android Applications,Mobile security and privacy
+456,To BLISS-B or not to be - Attacking strongSwan's Implementation of Post-Quantum Signatures,Applied cryptography
+456,To BLISS-B or not to be - Attacking strongSwan's Implementation of Post-Quantum Signatures,Hardware and architecture security
+456,To BLISS-B or not to be - Attacking strongSwan's Implementation of Post-Quantum Signatures,Software security
+457,The Rise of the Citizen Developer: Assessing the Security Impact of Mobile Application Generators,Mobile security and privacy
+458,TinyOLE: Efficient Actively Secure Two-Party Computation from Oblivious Linear Function Evaluation,Applied cryptography
+458,TinyOLE: Efficient Actively Secure Two-Party Computation from Oblivious Linear Function Evaluation,Protocols
+458,TinyOLE: Efficient Actively Secure Two-Party Computation from Oblivious Linear Function Evaluation,Secure and verifiable computation
+459,Practical UC-Secure Delegatable Credentials with Attributes and Their Application to Blockchain,Anonymity
+459,Practical UC-Secure Delegatable Credentials with Attributes and Their Application to Blockchain,Privacy-preserving systems
+459,Practical UC-Secure Delegatable Credentials with Attributes and Their Application to Blockchain,Protocols
+460,Crystal (ball): I Look at Physics and Predict Control Flow! Just-Ahead-Of-Time Controller Recovery,Cyber-physical systems (including IoT) security
+460,Crystal (ball): I Look at Physics and Predict Control Flow! Just-Ahead-Of-Time Controller Recovery,Intrusion detection
+460,Crystal (ball): I Look at Physics and Predict Control Flow! Just-Ahead-Of-Time Controller Recovery,Machine learning
+461,Sneakers: All Your Voice Authentication Apps are Belong to Us,Mobile security and privacy
+462,From Published to N/0-day: Understanding and Detection of XNU Kernel Vulnerabilities,Software security
+463,Efficient Privacy-Preserving k-Nearest Neighbours over Encrypted Data,Applied cryptography
+463,Efficient Privacy-Preserving k-Nearest Neighbours over Encrypted Data,Cloud security
+463,Efficient Privacy-Preserving k-Nearest Neighbours over Encrypted Data,Privacy-preserving systems
+464,Towards a Secure Zero-rating Framework with Three Parties,Network security
+464,Towards a Secure Zero-rating Framework with Three Parties,Protocols
+465,BabelView: Evaluating the Impact of Code Injection Attacks in Mobile Webviews,Information flow
+465,BabelView: Evaluating the Impact of Code Injection Attacks in Mobile Webviews,Mobile security and privacy
+465,BabelView: Evaluating the Impact of Code Injection Attacks in Mobile Webviews,Software security
+465,BabelView: Evaluating the Impact of Code Injection Attacks in Mobile Webviews,Web security and privacy
+466,On the Security of Frequency-Hiding Order-Preserving Encryption,Applied cryptography
+467,The Dynamics of Innocent Flesh on the Bone: Code Reuse Ten Years Later,Software security
+468,Multi-Tenant Secure Mobile Payment Framework,Hardware and architecture security
+468,Multi-Tenant Secure Mobile Payment Framework,Mobile security and privacy
+469,Robust Defense against Use-after-Free Vulnerabilities in Production Environments,Software security
+470,Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2,Applied cryptography
+470,Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2,Network security
+470,Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2,Protocols
+471,Private Evaluation of Decision Trees using Sublinear Communication,Applied cryptography
+471,Private Evaluation of Decision Trees using Sublinear Communication,Cloud security
+471,Private Evaluation of Decision Trees using Sublinear Communication,Machine learning
+471,Private Evaluation of Decision Trees using Sublinear Communication,Privacy-preserving systems
+471,Private Evaluation of Decision Trees using Sublinear Communication,Protocols
+472,Side-Channel Attacks on BLISS Lattice-Based Signatures: Exploiting Branch Tracing Against strongSwan and Electromagnetic Emanations in Microcontrollers,Applied cryptography
+472,Side-Channel Attacks on BLISS Lattice-Based Signatures: Exploiting Branch Tracing Against strongSwan and Electromagnetic Emanations in Microcontrollers,Hardware and architecture security
+472,Side-Channel Attacks on BLISS Lattice-Based Signatures: Exploiting Branch Tracing Against strongSwan and Electromagnetic Emanations in Microcontrollers,Software security
+473,An Empirical Investigation into Feature-Based Prediction Models and Email Spam Filters for Detecting Obfuscated JavaScript,Machine learning
+473,An Empirical Investigation into Feature-Based Prediction Models and Email Spam Filters for Detecting Obfuscated JavaScript,Malware
+473,An Empirical Investigation into Feature-Based Prediction Models and Email Spam Filters for Detecting Obfuscated JavaScript,Metrics
+473,An Empirical Investigation into Feature-Based Prediction Models and Email Spam Filters for Detecting Obfuscated JavaScript,Software security
+473,An Empirical Investigation into Feature-Based Prediction Models and Email Spam Filters for Detecting Obfuscated JavaScript,Web security and privacy
+474,Argos: An automated permission generation and verification framework for SDN,Network security
+475,Understanding Android Obfuscation Techniques: A Large-Scale Investigation in the Wild,Mobile security and privacy
+475,Understanding Android Obfuscation Techniques: A Large-Scale Investigation in the Wild,Software security
+476,"An error-tolerant approach for efficient AES key retrieval in the presence of cache prefetching - Experiments, Results, Analysis",Applied cryptography
+476,"An error-tolerant approach for efficient AES key retrieval in the presence of cache prefetching - Experiments, Results, Analysis",Hardware and architecture security
+477,Analysis of Encrypted Cloud Storage,Applied cryptography
+477,Analysis of Encrypted Cloud Storage,Cloud security
+478,Lookahead ORAM,Applied cryptography
+478,Lookahead ORAM,Cloud security
+478,Lookahead ORAM,Privacy-preserving systems
+479,Reduced Cooling Redundancy: A New Security Vulnerability in a Hot Data Center,Cloud security
+480,May the Fourth Be With You: A Microarchitectural Side Channel Attack on Real-World Applications of Curve25519,Applied cryptography
+480,May the Fourth Be With You: A Microarchitectural Side Channel Attack on Real-World Applications of Curve25519,Hardware and architecture security
+480,May the Fourth Be With You: A Microarchitectural Side Channel Attack on Real-World Applications of Curve25519,Software security
+481,Towards Practical Forward-Secure 0-RTT Key Exchange via Bloom Filter Encryption,Applied cryptography
+481,Towards Practical Forward-Secure 0-RTT Key Exchange via Bloom Filter Encryption,Protocols
+482,Watching the Weak Link into Your Home: An Inspection and Monitoring Toolkit for TR-069,Cyber-physical systems (including IoT) security
+482,Watching the Weak Link into Your Home: An Inspection and Monitoring Toolkit for TR-069,Distributed systems security
+482,Watching the Weak Link into Your Home: An Inspection and Monitoring Toolkit for TR-069,Network security
+482,Watching the Weak Link into Your Home: An Inspection and Monitoring Toolkit for TR-069,Protocols
+483,Directions for Improving Computer Security Incident Response Team (CSIRT) Effectiveness,Information flow
+483,Directions for Improving Computer Security Incident Response Team (CSIRT) Effectiveness,User studies
+484,Constrained Differential Privacy and Fair Mechanisms,Anonymity
+484,Constrained Differential Privacy and Fair Mechanisms,Privacy-preserving systems
+485,Composing Differential Privacy and Secure Computation: A case study on scaling private record linkage,Privacy policies
+485,Composing Differential Privacy and Secure Computation: A case study on scaling private record linkage,Secure and verifiable computation
+487,CuRTAIL: ChaRacterizing and Thwarting AdversarIal deep Learning,Machine learning
+488,PERUN: Virtual Payment Channels over Cryptographic Currencies,Applied cryptography
+488,PERUN: Virtual Payment Channels over Cryptographic Currencies,Protocols
+489,Practical Graphs for Optimal Side-Channel Resistant Memory-Hard Functions,Access control
+489,Practical Graphs for Optimal Side-Channel Resistant Memory-Hard Functions,Applied cryptography
+489,Practical Graphs for Optimal Side-Channel Resistant Memory-Hard Functions,Authentication and authorization
+489,Practical Graphs for Optimal Side-Channel Resistant Memory-Hard Functions,Hardware and architecture security
+489,Practical Graphs for Optimal Side-Channel Resistant Memory-Hard Functions,Mobile security and privacy
+490,Type-After-Type: Comprehensive and Practical Type-Safe Memory Reuse,Software security
+491,Towards Predicting Efficient and Anonymous Tor Circuits,Anonymity
+491,Towards Predicting Efficient and Anonymous Tor Circuits,Censorship-resistance
+491,Towards Predicting Efficient and Anonymous Tor Circuits,Network security
+492,The Meaning of Memory Safety,Information flow
+492,The Meaning of Memory Safety,Language-based security
+492,The Meaning of Memory Safety,Software security
+493,AceDroid: Normalizing Diverse Android Access Control Checks for Inconsistency Detection,Access control
+493,AceDroid: Normalizing Diverse Android Access Control Checks for Inconsistency Detection,Mobile security and privacy
+494,Catch of the Day: a Close Look at the Malware Samples Collected Daily by a Security Company,Malware
+495,Activity-aware Unsupervised Deep learning based Intrusion Detection System for Battery Exhausting Attacks on Android based mobile device,Machine learning
+495,Activity-aware Unsupervised Deep learning based Intrusion Detection System for Battery Exhausting Attacks on Android based mobile device,Malware
+495,Activity-aware Unsupervised Deep learning based Intrusion Detection System for Battery Exhausting Attacks on Android based mobile device,Mobile security and privacy
+495,Activity-aware Unsupervised Deep learning based Intrusion Detection System for Battery Exhausting Attacks on Android based mobile device,Software security
+495,Activity-aware Unsupervised Deep learning based Intrusion Detection System for Battery Exhausting Attacks on Android based mobile device,User studies
+496,"Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for Verifiable Cloud Computing",Cloud security
+496,"Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for Verifiable Cloud Computing",Secure and verifiable computation
+497,TZ-Container: Enforcing Container Isolation on Untrusted OS with ARM TrustZone,Cloud security
+498,(In-)Security of Cookies in HTTPS: Cookie Theft by Removing Cookie Flags,Network security
+498,(In-)Security of Cookies in HTTPS: Cookie Theft by Removing Cookie Flags,Web security and privacy
+500,Consistent Group Off-The-Record Messaging with SYM-GOTR,Protocols
+501,Universally Composable Security Analysis of OpenID Connect for Android,Access control
+501,Universally Composable Security Analysis of OpenID Connect for Android,Applied cryptography
+501,Universally Composable Security Analysis of OpenID Connect for Android,Authentication and authorization
+501,Universally Composable Security Analysis of OpenID Connect for Android,Protocols
+502,Beware of Your Screen: Anonymous Fingerprinting of Device Screens for Off-line Payment Protection,Anonymity
+502,Beware of Your Screen: Anonymous Fingerprinting of Device Screens for Off-line Payment Protection,Authentication and authorization
+502,Beware of Your Screen: Anonymous Fingerprinting of Device Screens for Off-line Payment Protection,Mobile security and privacy
+503,ProcHarvester: Fully Automated Analysis of Procfs Side-Channel Leaks on Android,Mobile security and privacy
+503,ProcHarvester: Fully Automated Analysis of Procfs Side-Channel Leaks on Android,Software security
+504,Spending Funds Fast and Silent: An Efficient Distributed Routing Algorithm for Path-Based Transactions,Privacy-preserving systems
+505,Twisted-Stack: Stack Randomization for Mitigating (Just-In-Time) Return-Oriented Programming,Software security
+506,Two-Factor Authentication with End-to-End Password Security and Reduced User Involvement,Applied cryptography
+507,On the (Im)Possibility of Large Scale Power System Cyberattacks Leveraging Public Information,Cyber-physical systems (including IoT) security
+508,Implementing Conjunction Obfuscation under Entropic Ring LWE,Applied cryptography
+508,Implementing Conjunction Obfuscation under Entropic Ring LWE,Software security
+509,Browser Security with a Grain of Salt: Drive-by Key-Extraction Cache Attack via PNaCl,Applied cryptography
+509,Browser Security with a Grain of Salt: Drive-by Key-Extraction Cache Attack via PNaCl,Hardware and architecture security
+509,Browser Security with a Grain of Salt: Drive-by Key-Extraction Cache Attack via PNaCl,Web security and privacy
+510,Tor Mix or not Tor Mix: Leveraging Mixing to Protect Against Confirmation Attacks in Tor,Anonymity
+510,Tor Mix or not Tor Mix: Leveraging Mixing to Protect Against Confirmation Attacks in Tor,Censorship-resistance
+510,Tor Mix or not Tor Mix: Leveraging Mixing to Protect Against Confirmation Attacks in Tor,Privacy-preserving systems
+511,Computer Vision Stealth: Protecting Privacy by Making Objects Invisible in Images,Machine learning
+511,Computer Vision Stealth: Protecting Privacy by Making Objects Invisible in Images,Privacy-preserving systems
+512,Active Proxies over TLS: Revisiting Multi-context TLS,Applied cryptography
+512,Active Proxies over TLS: Revisiting Multi-context TLS,Network security
+512,Active Proxies over TLS: Revisiting Multi-context TLS,Protocols
+513,e-SAFE: An Energy-Efficient Secure-Access and Forensics-Enabled Scheme for Implantable Medical Devices,Applied cryptography
+513,e-SAFE: An Energy-Efficient Secure-Access and Forensics-Enabled Scheme for Implantable Medical Devices,Authentication and authorization
+513,e-SAFE: An Energy-Efficient Secure-Access and Forensics-Enabled Scheme for Implantable Medical Devices,Cyber-physical systems (including IoT) security
+513,e-SAFE: An Energy-Efficient Secure-Access and Forensics-Enabled Scheme for Implantable Medical Devices,Protocols
+514,A Deep Learning Framework for Conducting Stealthy Attacks in Industrial Control Systems,Cyber-physical systems (including IoT) security
+514,A Deep Learning Framework for Conducting Stealthy Attacks in Industrial Control Systems,Machine learning
+515,Katchup: The First User-Asymmetric Proof of Work,Access control
+515,Katchup: The First User-Asymmetric Proof of Work,Applied cryptography
+515,Katchup: The First User-Asymmetric Proof of Work,Authentication and authorization
+515,Katchup: The First User-Asymmetric Proof of Work,Protocols
+517,Revive: Rebalancing Off-Blockchain Payment Networks,Distributed systems security
+517,Revive: Rebalancing Off-Blockchain Payment Networks,Protocols
+518,DNA based XOR operation(DNAX) for Security of Data and DNA as storage medium,Applied cryptography
+519,HoneyFrame: A Deception Planning Framework for Cyber Defense,Network security
+520,Mind Your Keys? A Security Evaluation of Java Keystores,Applied cryptography
+520,Mind Your Keys? A Security Evaluation of Java Keystores,Authentication and authorization
+520,Mind Your Keys? A Security Evaluation of Java Keystores,Software security
+521,Pattern Matching on Encrypted Streams: Applications to DPI and searches on genomic data,Applied cryptography
+521,Pattern Matching on Encrypted Streams: Applications to DPI and searches on genomic data,Cloud security
+521,Pattern Matching on Encrypted Streams: Applications to DPI and searches on genomic data,Privacy-preserving systems
+522,Protecting Data with Mandatory Retention Requirements using Dragchute Encryption,Applied cryptography
+522,Protecting Data with Mandatory Retention Requirements using Dragchute Encryption,Distributed systems security
+523,Expediting Network-wide Anomaly Detection - An Information Centrality based Approach,Cyber-physical systems (including IoT) security
+523,Expediting Network-wide Anomaly Detection - An Information Centrality based Approach,Information flow
+523,Expediting Network-wide Anomaly Detection - An Information Centrality based Approach,Intrusion detection
+523,Expediting Network-wide Anomaly Detection - An Information Centrality based Approach,Network security
+524,Breaking Ed25519 Using a Few Thousand Traces,Applied cryptography
+525,Distributed Measurement with Private Set-Union Cardinality,Anonymity
+525,Distributed Measurement with Private Set-Union Cardinality,Privacy-preserving systems
+526,FlashGuard: Leveraging Intrinsic Flash Properties to Defend Against Encryption Ransomware,Hardware and architecture security
+526,FlashGuard: Leveraging Intrinsic Flash Properties to Defend Against Encryption Ransomware,Software security
+527,Cryptographically Secure Information Flow Control on Key-Value Stores,Applied cryptography
+527,Cryptographically Secure Information Flow Control on Key-Value Stores,Information flow
+527,Cryptographically Secure Information Flow Control on Key-Value Stores,Language-based security
+528,ProbeGuard: Mitigating Probing Attacks Through Reactive Program Transformations,Software security
+529,Securing Unmanned Aircraft Through Continuous Pilot Authentication: An initial investigation,Access control
+529,Securing Unmanned Aircraft Through Continuous Pilot Authentication: An initial investigation,Authentication and authorization
+529,Securing Unmanned Aircraft Through Continuous Pilot Authentication: An initial investigation,Cyber-physical systems (including IoT) security
+529,Securing Unmanned Aircraft Through Continuous Pilot Authentication: An initial investigation,Distributed systems security
+529,Securing Unmanned Aircraft Through Continuous Pilot Authentication: An initial investigation,Hardware and architecture security
+529,Securing Unmanned Aircraft Through Continuous Pilot Authentication: An initial investigation,Intrusion detection
+529,Securing Unmanned Aircraft Through Continuous Pilot Authentication: An initial investigation,Machine learning
+529,Securing Unmanned Aircraft Through Continuous Pilot Authentication: An initial investigation,User studies
+531,MiniORAM: Minimizing Storage and Bandwidth for Layer-based Partition ORAMs,Cloud security
+531,MiniORAM: Minimizing Storage and Bandwidth for Layer-based Partition ORAMs,Privacy-preserving systems
+532,JITGuard: Hardening Just-in-time Compilers with SGX,Software security
+533,Contour: A Practical System for Binary Transparency,Distributed systems security
+533,Contour: A Practical System for Binary Transparency,Protocols
+533,Contour: A Practical System for Binary Transparency,Software security
+534,End Users Get Maneuvered: Redirection Hijacking in Content Delivery Networks,Distributed systems security
+534,End Users Get Maneuvered: Redirection Hijacking in Content Delivery Networks,Network security
+535,Bumblebee: A Program Transformer for Revealing Hidden Behavior in Android Applications,Malware
+535,Bumblebee: A Program Transformer for Revealing Hidden Behavior in Android Applications,Mobile security and privacy
+535,Bumblebee: A Program Transformer for Revealing Hidden Behavior in Android Applications,Software security
+536,Beyond Precision and Recall: Understanding Uses (and Misuses) of Similarity Hashes in Binary Analysis,Malware
+537,ANCHOR: logically-centralized security for Software-Defined Networks,Network security
+538,Linear Size Circuit-based PSI via Cuckoo Hashing,Privacy-preserving systems
+539,VButton: Practical Attestation of User-driven Operations in Mobile Apps,Mobile security and privacy
+540,Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX,Cloud security
+540,Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX,Hardware and architecture security
+541,Cache Leakage Detection in Cryptographic Libraries,Applied cryptography
+541,Cache Leakage Detection in Cryptographic Libraries,Hardware and architecture security
+541,Cache Leakage Detection in Cryptographic Libraries,Software security
+542,On the Power of Optical Contactless Probing: Attacking Bitstream Encryption of FPGAs,Cyber-physical systems (including IoT) security
+542,On the Power of Optical Contactless Probing: Attacking Bitstream Encryption of FPGAs,Hardware and architecture security
+543,User-driven Access Control via Mental Model Reconstruction,Access control
+543,User-driven Access Control via Mental Model Reconstruction,Machine learning
+543,User-driven Access Control via Mental Model Reconstruction,Mobile security and privacy
+543,User-driven Access Control via Mental Model Reconstruction,User studies
+544,Things You May Not Know About Android (Un)Packers: A Systematic Study based on Whole-System Emulation,Malware
+544,Things You May Not Know About Android (Un)Packers: A Systematic Study based on Whole-System Emulation,Mobile security and privacy
+544,Things You May Not Know About Android (Un)Packers: A Systematic Study based on Whole-System Emulation,Software security
+545,Template Based Compression on Security Related Information Flow Data,Forensics
+546,The Pyramid Scheme,Applied cryptography
+546,The Pyramid Scheme,Cloud security
+546,The Pyramid Scheme,Hardware and architecture security
+546,The Pyramid Scheme,Privacy-preserving systems
+547,Koinonia: A Transparent E-Voting Scheme with Long-term Privacy,Anonymity
+547,Koinonia: A Transparent E-Voting Scheme with Long-term Privacy,Applied cryptography
+547,Koinonia: A Transparent E-Voting Scheme with Long-term Privacy,Privacy-preserving systems
+547,Koinonia: A Transparent E-Voting Scheme with Long-term Privacy,Secure and verifiable computation
+547,Koinonia: A Transparent E-Voting Scheme with Long-term Privacy,Web security and privacy
+548,Standardizing Bad Cryptographic Practice - A teardown of the IEEE standard for protecting electronic-design intellectual property,Hardware and architecture security
+549,Broken Fingers: On the Usage of the Fingerprint API in Android,Mobile security and privacy
+549,Broken Fingers: On the Usage of the Fingerprint API in Android,Software security
+550,Breaking and Fixing Secure Similarity Approximations: Dealing with Adversarially Perturbed Inputs,Applied cryptography
+550,Breaking and Fixing Secure Similarity Approximations: Dealing with Adversarially Perturbed Inputs,Privacy-preserving systems
+550,Breaking and Fixing Secure Similarity Approximations: Dealing with Adversarially Perturbed Inputs,Secure and verifiable computation
+551,"Checked C for Safety, Gradually",Cyber-physical systems (including IoT) security
+551,"Checked C for Safety, Gradually",Language-based security
+551,"Checked C for Safety, Gradually",Software security
+552,Moíöbius: Trustless Tumbling for Transaction Privacy,Anonymity
+552,Moíöbius: Trustless Tumbling for Transaction Privacy,Applied cryptography
+552,Moíöbius: Trustless Tumbling for Transaction Privacy,Privacy-preserving systems
+552,Moíöbius: Trustless Tumbling for Transaction Privacy,Protocols
+553,Towards Supporting Security Program Comprehension by Detecting Object Interaction,Mobile security and privacy
+553,Towards Supporting Security Program Comprehension by Detecting Object Interaction,Software security
+554,A Systematic Hardening of Java's Information Hiding,Access control
+554,A Systematic Hardening of Java's Information Hiding,Software security
+555,Efficient Public Trace-and-Revoke from Standard Assumptions,Applied cryptography
+555,Efficient Public Trace-and-Revoke from Standard Assumptions,Protocols
+556,Frequency-smoothing encryption: preventing snapshot attacks on encrypted databases,Applied cryptography
+556,Frequency-smoothing encryption: preventing snapshot attacks on encrypted databases,Cloud security
+556,Frequency-smoothing encryption: preventing snapshot attacks on encrypted databases,Privacy-preserving systems
+557,Rewriting History: Changing the Archived Web from the Present,Web security and privacy
+558,HACL*: A Verified Modern Cryptographic Library,Applied cryptography
+558,HACL*: A Verified Modern Cryptographic Library,Information flow
+558,HACL*: A Verified Modern Cryptographic Library,Language-based security
+558,HACL*: A Verified Modern Cryptographic Library,Network security
+558,HACL*: A Verified Modern Cryptographic Library,Protocols
+558,HACL*: A Verified Modern Cryptographic Library,Software security
+559,Efficient Maliciously Secure Multiparty Computation for RAM,Secure and verifiable computation
+560,"When ciphering is not enough, Secure Access Control System",Access control
+560,"When ciphering is not enough, Secure Access Control System",Authentication and authorization
+560,"When ciphering is not enough, Secure Access Control System",Mobile security and privacy
+560,"When ciphering is not enough, Secure Access Control System",Protocols
+561,FileBounty: Fair Data and Value Exchange with Automated Dispute Mediation,Applied cryptography
+561,FileBounty: Fair Data and Value Exchange with Automated Dispute Mediation,Censorship-resistance
+561,FileBounty: Fair Data and Value Exchange with Automated Dispute Mediation,Distributed systems security
+561,FileBounty: Fair Data and Value Exchange with Automated Dispute Mediation,Protocols
+561,FileBounty: Fair Data and Value Exchange with Automated Dispute Mediation,Secure and verifiable computation
+561,FileBounty: Fair Data and Value Exchange with Automated Dispute Mediation,Web security and privacy
+563,Malicious-Secure Private Set Intersection via Dual Execution,Applied cryptography
+563,Malicious-Secure Private Set Intersection via Dual Execution,Protocols
+563,Malicious-Secure Private Set Intersection via Dual Execution,Secure and verifiable computation
+564,RAIN: Refinable Attack Investigation with On-demand Inter-Process Information Flow Tracking,Forensics
+564,RAIN: Refinable Attack Investigation with On-demand Inter-Process Information Flow Tracking,Information flow
+564,RAIN: Refinable Attack Investigation with On-demand Inter-Process Information Flow Tracking,Intrusion detection
+565,Designing New Operating Primitives to Improve Fuzzing Performance,Software security
+566,Solidus: An Incentive-compatible Cryptocurrency Based on Permissionless Byzantine Consensus,Applied cryptography
+566,Solidus: An Incentive-compatible Cryptocurrency Based on Permissionless Byzantine Consensus,Distributed systems security
+567,TARANET: Traffic-Analysis Resistant Anonymity at the NETwork layer,Anonymity
+567,TARANET: Traffic-Analysis Resistant Anonymity at the NETwork layer,Censorship-resistance
+568,Secure Data Exchange: A Marketplace in the Cloud,Applied cryptography
+568,Secure Data Exchange: A Marketplace in the Cloud,Cloud security
+568,Secure Data Exchange: A Marketplace in the Cloud,Protocols
+568,Secure Data Exchange: A Marketplace in the Cloud,Secure and verifiable computation
+569,Distribution-Sensitive Format-Transforming Encryption from Generative Models,Anonymity
+569,Distribution-Sensitive Format-Transforming Encryption from Generative Models,Applied cryptography
+569,Distribution-Sensitive Format-Transforming Encryption from Generative Models,Censorship-resistance
+569,Distribution-Sensitive Format-Transforming Encryption from Generative Models,Machine learning
+569,Distribution-Sensitive Format-Transforming Encryption from Generative Models,Privacy-preserving systems
+569,Distribution-Sensitive Format-Transforming Encryption from Generative Models,Web security and privacy
+570,Quantifying the Pressure of Legal Risks on Third-party Vulnerability Research,Cyber-physical systems (including IoT) security
+570,Quantifying the Pressure of Legal Risks on Third-party Vulnerability Research,Metrics
+570,Quantifying the Pressure of Legal Risks on Third-party Vulnerability Research,Network security
+570,Quantifying the Pressure of Legal Risks on Third-party Vulnerability Research,Privacy policies
+571,Privacy-Preserving Search of Similar Patients in Genomic Data,Applied cryptography
+571,Privacy-Preserving Search of Similar Patients in Genomic Data,Privacy-preserving systems
+571,Privacy-Preserving Search of Similar Patients in Genomic Data,Protocols
+571,Privacy-Preserving Search of Similar Patients in Genomic Data,Secure and verifiable computation
+572,User Blocking Considered Harmful? A Programmable Side Channel to Identify Social Accounts,Web security and privacy
+573,Checking Open-Source License Violation and 1-day Security Risk at Large Scale,Software security
+574,Don‰Ûªt Let One Rotten Apple Spoil the Whole Barrel: Towards Automated Detection of Shadowed Domains,Network security
+575,Towards a Timely Causality Analysis for Enterprise Security,Forensics
+575,Towards a Timely Causality Analysis for Enterprise Security,Intrusion detection
+577,FirmUSB: Vetting USB Device Firmware using Domain Informed Symbolic Execution,Forensics
+577,FirmUSB: Vetting USB Device Firmware using Domain Informed Symbolic Execution,Hardware and architecture security
+577,FirmUSB: Vetting USB Device Firmware using Domain Informed Symbolic Execution,Malware
+577,FirmUSB: Vetting USB Device Firmware using Domain Informed Symbolic Execution,Software security
+578,On the Effectiveness of Software Hooks in Anti-malware Tools,Malware
+578,On the Effectiveness of Software Hooks in Anti-malware Tools,Software security
+579,CRYSTALS -- Kyber: a CCA-secure module-lattice-based KEM,Applied cryptography
+579,CRYSTALS -- Kyber: a CCA-secure module-lattice-based KEM,Network security
+579,CRYSTALS -- Kyber: a CCA-secure module-lattice-based KEM,Protocols
+580,New message-recovery attacks on Format Preserving Encryption,Applied cryptography
+581,Curie: Policy-based Secure Data Exchange,Applied cryptography
+581,Curie: Policy-based Secure Data Exchange,Privacy-preserving systems
+581,Curie: Policy-based Secure Data Exchange,Privacy policies
+581,Curie: Policy-based Secure Data Exchange,Protocols
+581,Curie: Policy-based Secure Data Exchange,Secure and verifiable computation
+582,SUNDAE: Small Universal Deterministic Authenticated Encryption for the Internet of Things,Applied cryptography
+582,SUNDAE: Small Universal Deterministic Authenticated Encryption for the Internet of Things,Protocols
+583,Analyzing the security properties of Group Key Agreement protocols,Distributed systems security
+583,Analyzing the security properties of Group Key Agreement protocols,Network security
+584,A Trust-Chain Based Terminal Protection Tool,Malware
+584,A Trust-Chain Based Terminal Protection Tool,Secure and verifiable computation
+585,"Deterministic, Stash-Free Write-Only ORAM",Applied cryptography
+585,"Deterministic, Stash-Free Write-Only ORAM",Cloud security
+585,"Deterministic, Stash-Free Write-Only ORAM",Hardware and architecture security
+585,"Deterministic, Stash-Free Write-Only ORAM",Privacy-preserving systems
+585,"Deterministic, Stash-Free Write-Only ORAM",Protocols
+586,Improving Automated Symbolic Analysis for E-voting Protocols: A Method Based on Sufficient Conditions for Ballot Secrecy,Anonymity
+586,Improving Automated Symbolic Analysis for E-voting Protocols: A Method Based on Sufficient Conditions for Ballot Secrecy,Privacy-preserving systems
+586,Improving Automated Symbolic Analysis for E-voting Protocols: A Method Based on Sufficient Conditions for Ballot Secrecy,Protocols
+587,Formal Black-Box Analysis of Routing Protocol Implementations,Network security
+588,Experimental Evaluation of Attack Surface of Google's Cloud Video Intelligence API,Machine learning
+589,A Hybrid Approach to Secure Function Evaluation using SGX,Hardware and architecture security
+589,A Hybrid Approach to Secure Function Evaluation using SGX,Protocols
+589,A Hybrid Approach to Secure Function Evaluation using SGX,Secure and verifiable computation
+590,AlterEVE : Autonomous Verified Data Services,Access control
+590,AlterEVE : Autonomous Verified Data Services,Cloud security
+590,AlterEVE : Autonomous Verified Data Services,Distributed systems security
+590,AlterEVE : Autonomous Verified Data Services,Secure and verifiable computation
+591,Metron: An Unobtrusive Value-based Information Flow Tracker,Information flow
+591,Metron: An Unobtrusive Value-based Information Flow Tracker,Mobile security and privacy
+592,DolphinAttack: Inaudible Voice Commands,Cyber-physical systems (including IoT) security
+592,DolphinAttack: Inaudible Voice Commands,Hardware and architecture security
+592,DolphinAttack: Inaudible Voice Commands,Mobile security and privacy
+593,Building Adversary-Resistant Deep Neural Networks without Security through Obscurity,Machine learning
+595,PPETS-FGP: Privacy-Preserving Electronic Ticket Scheme with Fine-Grained Pricing,Anonymity
+595,PPETS-FGP: Privacy-Preserving Electronic Ticket Scheme with Fine-Grained Pricing,Applied cryptography
+595,PPETS-FGP: Privacy-Preserving Electronic Ticket Scheme with Fine-Grained Pricing,Authentication and authorization
+595,PPETS-FGP: Privacy-Preserving Electronic Ticket Scheme with Fine-Grained Pricing,Privacy-preserving systems
+595,PPETS-FGP: Privacy-Preserving Electronic Ticket Scheme with Fine-Grained Pricing,Protocols
+596,Authenticated Garbling and Efficient Maliciously Secure Two-Party Computation,Applied cryptography
+596,Authenticated Garbling and Efficient Maliciously Secure Two-Party Computation,Secure and verifiable computation
+597,Nonmalleable Information Flow Control,Information flow
+597,Nonmalleable Information Flow Control,Language-based security
+598,POISED: Spotting Twitter Spam Off the Beaten Paths,Machine learning
+598,POISED: Spotting Twitter Spam Off the Beaten Paths,Malware
+599,Oblivious Neural Network Predictions via MiniONN transformations,Applied cryptography
+599,Oblivious Neural Network Predictions via MiniONN transformations,Machine learning
+599,Oblivious Neural Network Predictions via MiniONN transformations,Privacy-preserving systems
+599,Oblivious Neural Network Predictions via MiniONN transformations,Protocols
+600,MagNet: a Two-Pronged Defense against Adversarial Examples,Machine learning
+601,Finding a Needle in a Haystack: The Traffic Analysis Version,Anonymity
+601,Finding a Needle in a Haystack: The Traffic Analysis Version,Censorship-resistance
+601,Finding a Needle in a Haystack: The Traffic Analysis Version,Intrusion detection
+601,Finding a Needle in a Haystack: The Traffic Analysis Version,Malware
+601,Finding a Needle in a Haystack: The Traffic Analysis Version,Network security
+601,Finding a Needle in a Haystack: The Traffic Analysis Version,Privacy-preserving systems
+602,Precise Detection of Side-Channel Vulnerabilities using Quantitative Cartesian Hoare Logic,Secure and verifiable computation
+602,Precise Detection of Side-Channel Vulnerabilities using Quantitative Cartesian Hoare Logic,Software security
+603,Keep me updated: An Empirical Study of Third-Party Library Updatability on Android,Mobile security and privacy
+604,Detection under Privileged Information,Intrusion detection
+604,Detection under Privileged Information,Machine learning
+604,Detection under Privileged Information,Malware
+604,Detection under Privileged Information,Metrics
+605,"Anonymous Communication for Messengers via ""Forced"" Participation",Privacy-preserving systems
+605,"Anonymous Communication for Messengers via ""Forced"" Participation",Web security and privacy
+606,Zero-Knowledge Contingent Payments Revisited: Attacks and Payments for Services,Applied cryptography
+606,Zero-Knowledge Contingent Payments Revisited: Attacks and Payments for Services,Protocols
+606,Zero-Knowledge Contingent Payments Revisited: Attacks and Payments for Services,Secure and verifiable computation
+607,How to Authenticate the Unauthenticated: More Uncertainty Certainly Helps,Applied cryptography
+608,Can We Authenticate Messages with Simple Parity Checks?,Applied cryptography
+609,Reverse Firewalls for Secure-Channel Establishment Revisited: Towards reverse firewalls for TLS 1.3,Applied cryptography
+609,Reverse Firewalls for Secure-Channel Establishment Revisited: Towards reverse firewalls for TLS 1.3,Protocols
+610,Fast Private Set Intersection from Homomorphic Encryption,Applied cryptography
+610,Fast Private Set Intersection from Homomorphic Encryption,Protocols
+610,Fast Private Set Intersection from Homomorphic Encryption,Secure and verifiable computation
+611,Leveraging Hardware Transactional Memory for Cache Side-Channel Defenses,Cloud security
+611,Leveraging Hardware Transactional Memory for Cache Side-Channel Defenses,Hardware and architecture security
+611,Leveraging Hardware Transactional Memory for Cache Side-Channel Defenses,Software security
+612,Gomora: Efficient Type Safety for C++,Language-based security
+612,Gomora: Efficient Type Safety for C++,Software security
+614,LibSEAL: Revealing Service Integrity Violations Using Trusted Execution,Cloud security
+614,LibSEAL: Revealing Service Integrity Violations Using Trusted Execution,Secure and verifiable computation
+614,LibSEAL: Revealing Service Integrity Violations Using Trusted Execution,Web security and privacy
+615,A Comprehensive Symbolic Analysis of TLS 1.3,Network security
+615,A Comprehensive Symbolic Analysis of TLS 1.3,Protocols
+615,A Comprehensive Symbolic Analysis of TLS 1.3,Secure and verifiable computation
+615,A Comprehensive Symbolic Analysis of TLS 1.3,Web security and privacy
+616,The ART of App Compartmentalization: Compiler-based Library Privilege Separation on Stock Android,Mobile security and privacy
+617,Dark Side of the Chamber: Understanding iOS Side Channels,Mobile security and privacy
+618,"A Modular, User-Centric Security Analysis of OpenStack",Authentication and authorization
+618,"A Modular, User-Centric Security Analysis of OpenStack",Cloud security
+618,"A Modular, User-Centric Security Analysis of OpenStack",Distributed systems security
+618,"A Modular, User-Centric Security Analysis of OpenStack",Hardware and architecture security
+618,"A Modular, User-Centric Security Analysis of OpenStack",Protocols
+618,"A Modular, User-Centric Security Analysis of OpenStack",Software security
+619,Sonar: Detecting SS7 Redirection Attacks Via Call Audio-Based Distance Bounding,Authentication and authorization
+619,Sonar: Detecting SS7 Redirection Attacks Via Call Audio-Based Distance Bounding,Mobile security and privacy
+619,Sonar: Detecting SS7 Redirection Attacks Via Call Audio-Based Distance Bounding,Network security
+620,An Empirical Analysis of Traceability in the Monero Blockchain,Anonymity
+620,An Empirical Analysis of Traceability in the Monero Blockchain,Distributed systems security
+620,An Empirical Analysis of Traceability in the Monero Blockchain,Privacy-preserving systems
+621,Practical Multi-party Private Set Intersection from Symmetric-Key Techniques,Applied cryptography
+621,Practical Multi-party Private Set Intersection from Symmetric-Key Techniques,Protocols
+621,Practical Multi-party Private Set Intersection from Symmetric-Key Techniques,Secure and verifiable computation
+622,One-Time Programs made Practical,Applied cryptography
+622,One-Time Programs made Practical,Hardware and architecture security
+622,One-Time Programs made Practical,Secure and verifiable computation
+625,The Tao of Inference in Privacy-Protected Databases,Cloud security
+625,The Tao of Inference in Privacy-Protected Databases,Privacy-preserving systems
+626,PtrSplit: Supporting general pointers in automatic program partitioning,Language-based security
+626,PtrSplit: Supporting general pointers in automatic program partitioning,Software security
+628,Formal Analysis of Countermeasures against Cache Storage Side Channels,Information flow
+628,Formal Analysis of Countermeasures against Cache Storage Side Channels,Secure and verifiable computation
+628,Formal Analysis of Countermeasures against Cache Storage Side Channels,Software security
+629,CFIXX: Object Type Integrity for C++ Virtual Dispatch,Language-based security
+629,CFIXX: Object Type Integrity for C++ Virtual Dispatch,Software security
+630,lxcsgx: Enabling Intel SGX for Linux Containers in the Cloud Environment,Cloud security
+630,lxcsgx: Enabling Intel SGX for Linux Containers in the Cloud Environment,Distributed systems security
+630,lxcsgx: Enabling Intel SGX for Linux Containers in the Cloud Environment,Hardware and architecture security
+630,lxcsgx: Enabling Intel SGX for Linux Containers in the Cloud Environment,Secure and verifiable computation
+631,Mining ABAC Rules from Sparse Logs,Access control
+631,Mining ABAC Rules from Sparse Logs,Authentication and authorization
+631,Mining ABAC Rules from Sparse Logs,Machine learning
+632,Forgetting the Forgotten with Letheia: Concealing Content Deletion from Persistent Observers,Privacy-preserving systems
+632,Forgetting the Forgotten with Letheia: Concealing Content Deletion from Persistent Observers,Web security and privacy
+633,From Debugging-Information Based Binary-Level Type Inference to CFG Generation,Language-based security
+633,From Debugging-Information Based Binary-Level Type Inference to CFG Generation,Software security
+634,Calculating Membership Privacy,Privacy-preserving systems
+635,DeepRefiner: Multi-layer Android Malware Detection System Applying Deep Neural Networks,Machine learning
+635,DeepRefiner: Multi-layer Android Malware Detection System Applying Deep Neural Networks,Malware
+635,DeepRefiner: Multi-layer Android Malware Detection System Applying Deep Neural Networks,Mobile security and privacy
+636,GalWare: Stealthy GPU Malware,Hardware and architecture security
+636,GalWare: Stealthy GPU Malware,Malware
+637,A privacy-preserving framework for outsourcing location-based services to the cloud,Cloud security
+637,A privacy-preserving framework for outsourcing location-based services to the cloud,Privacy-preserving systems
+638,"Analyzing Privacy Risk in Machine Learning: Overfitting, Influence, and Inference Attacks",Machine learning
+638,"Analyzing Privacy Risk in Machine Learning: Overfitting, Influence, and Inference Attacks",Privacy-preserving systems
+639,Security Analysis of The Token Binding Protocol,Authentication and authorization
+639,Security Analysis of The Token Binding Protocol,Protocols
+640,"Data breaches, phishing, or malware? Understanding the risks of stolen credentials",Authentication and authorization
+640,"Data breaches, phishing, or malware? Understanding the risks of stolen credentials",Intrusion detection
+640,"Data breaches, phishing, or malware? Understanding the risks of stolen credentials",Malware
+640,"Data breaches, phishing, or malware? Understanding the risks of stolen credentials",Metrics
+640,"Data breaches, phishing, or malware? Understanding the risks of stolen credentials",Web security and privacy
+641,Exploiting identical-prefix hash function collisions,Applied cryptography
+641,Exploiting identical-prefix hash function collisions,Malware
+641,Exploiting identical-prefix hash function collisions,Web security and privacy
+642,New Techniques for Structural Batch Verification in Bilinear Groups with Applications to Groth-Sahai Proofs,Applied cryptography
+642,New Techniques for Structural Batch Verification in Bilinear Groups with Applications to Groth-Sahai Proofs,Protocols
+642,New Techniques for Structural Batch Verification in Bilinear Groups with Applications to Groth-Sahai Proofs,Secure and verifiable computation
+643,Teechain: Scalable Blockchain Payments Using Trusted Execution Environments,Distributed systems security
+643,Teechain: Scalable Blockchain Payments Using Trusted Execution Environments,Protocols
+644,DIFUZE:Interface Aware Fuzzing for Kernel Drivers,Language-based security
+644,DIFUZE:Interface Aware Fuzzing for Kernel Drivers,Mobile security and privacy
+644,DIFUZE:Interface Aware Fuzzing for Kernel Drivers,Software security
+645,Which Banking App is More Secure? An Automatic Security Assessment of Global Mobile Banking Apps,Mobile security and privacy
+645,Which Banking App is More Secure? An Automatic Security Assessment of Global Mobile Banking Apps,Software security
+646,Pool: Scalable On-Demand Secure Computation Service Against Malicious Adversaries,Privacy-preserving systems
+646,Pool: Scalable On-Demand Secure Computation Service Against Malicious Adversaries,Protocols
+648,Breaking Deterministic Signature Schemes using Fault Attacks,Applied cryptography
+648,Breaking Deterministic Signature Schemes using Fault Attacks,Network security
+649,BBA+: Improving the Security and Applicability of Privacy-Preserving Point Collection,Anonymity
+649,BBA+: Improving the Security and Applicability of Privacy-Preserving Point Collection,Applied cryptography
+649,BBA+: Improving the Security and Applicability of Privacy-Preserving Point Collection,Privacy-preserving systems
+649,BBA+: Improving the Security and Applicability of Privacy-Preserving Point Collection,Protocols
+650,A Large-Scale Empirical Study of Security Patches,Metrics
+650,A Large-Scale Empirical Study of Security Patches,Software security
+651,SlowFuzz: Automated Domain-Independent Detection of Algorithmic Complexity Vulnerabilities,Software security
+652,Compact Attribute Based Encryption and SIMD-Enabled Homomorphic Signatures,Applied cryptography
+653,The Need to Audit Advertiser Interfaces: Personal Data Leakage via PII-based Targeted Advertising,Privacy policies
+653,The Need to Audit Advertiser Interfaces: Personal Data Leakage via PII-based Targeted Advertising,Web security and privacy
+654,Compressive Traffic Analysis: A New Paradigm for Scalable Traffic Analysis,Anonymity
+654,Compressive Traffic Analysis: A New Paradigm for Scalable Traffic Analysis,Privacy-preserving systems
+655,Detecting Targeted Phishing Attacks Using Semantic Analysis,Web security and privacy
+656,Sprites: Payment Channels that Go Faster than Lightning,Distributed systems security
+656,Sprites: Payment Channels that Go Faster than Lightning,Protocols
+657,RoomLock: Selecting Virtual Objects as 3D Graphical Passwords for Authentication in VR,Authentication and authorization
+657,RoomLock: Selecting Virtual Objects as 3D Graphical Passwords for Authentication in VR,Mobile security and privacy
+657,RoomLock: Selecting Virtual Objects as 3D Graphical Passwords for Authentication in VR,User studies
+658,The Waterfall of Liberty: Decoy Routing Circumvention that Resists Routing Attacks,Anonymity
+658,The Waterfall of Liberty: Decoy Routing Circumvention that Resists Routing Attacks,Censorship-resistance
+658,The Waterfall of Liberty: Decoy Routing Circumvention that Resists Routing Attacks,Privacy-preserving systems
+659,Profile Matching Across Unstructured Online Social Networks: Threats and Countermeasures,Anonymity
+659,Profile Matching Across Unstructured Online Social Networks: Threats and Countermeasures,Machine learning
+660,SynTF: Synthetic and Differentially Private Term Frequency Vectors for Privacy-Preserving Text Mining,Anonymity
+660,SynTF: Synthetic and Differentially Private Term Frequency Vectors for Privacy-Preserving Text Mining,Machine learning
+660,SynTF: Synthetic and Differentially Private Term Frequency Vectors for Privacy-Preserving Text Mining,Privacy-preserving systems
+660,SynTF: Synthetic and Differentially Private Term Frequency Vectors for Privacy-Preserving Text Mining,Web security and privacy
+661,A Closer Look At Usage of MMU Virtualization For Security Purposes,Distributed systems security
+661,A Closer Look At Usage of MMU Virtualization For Security Purposes,Hardware and architecture security
+662,RepuCoin: Your Reputation is Your Power,Authentication and authorization
+662,RepuCoin: Your Reputation is Your Power,Distributed systems security
+662,RepuCoin: Your Reputation is Your Power,Protocols
+663,"StrongBox: Confidentiality, Integrity, and Performance using Stream Ciphers for Full-Disk Encryption",Mobile security and privacy
+664,Plausible Obfuscation Of Location Traces Under Utility Feedback,<none>
+665,Certified Verification of Algebraic Properties on Low-Level Mathematical Constructs in Cryptographic Programs,Applied cryptography
+665,Certified Verification of Algebraic Properties on Low-Level Mathematical Constructs in Cryptographic Programs,Secure and verifiable computation
+666,MEDS: Enhancing Memory Error Detection for Large-Scale Applications,Software security
+667,Performance Counters to rescue: A Machine Learning based approach for protection against micro-architectural side-channel-attack,Intrusion detection
+667,Performance Counters to rescue: A Machine Learning based approach for protection against micro-architectural side-channel-attack,Machine learning
+667,Performance Counters to rescue: A Machine Learning based approach for protection against micro-architectural side-channel-attack,Privacy-preserving systems
+668,Reading Between The Lines: Content-Agnostic Detection of Spear-Phishing Emails,Intrusion detection
+668,Reading Between The Lines: Content-Agnostic Detection of Spear-Phishing Emails,Machine learning
+668,Reading Between The Lines: Content-Agnostic Detection of Spear-Phishing Emails,Network security
+669,Reconciling Database Access Control and Information-Flow Control,Information flow
+669,Reconciling Database Access Control and Information-Flow Control,Language-based security
+670,Machine Learning Models that Remember Too Much,Machine learning
+671,Secure Channel Injection and Anonymous Proofs of Account Ownership,Anonymity
+671,Secure Channel Injection and Anonymous Proofs of Account Ownership,Applied cryptography
+671,Secure Channel Injection and Anonymous Proofs of Account Ownership,Privacy-preserving systems
+671,Secure Channel Injection and Anonymous Proofs of Account Ownership,Secure and verifiable computation
+672,A Formal Treatment of Onion Encryption and Tagging Attacks,Applied cryptography
+672,A Formal Treatment of Onion Encryption and Tagging Attacks,Network security
+672,A Formal Treatment of Onion Encryption and Tagging Attacks,Privacy-preserving systems
+673,Printing Fingerprint for 3D Printed Object Authentication Based on Equipment Distortion Model,Authentication and authorization
+673,Printing Fingerprint for 3D Printed Object Authentication Based on Equipment Distortion Model,Forensics
+675,Core Attack Graphs: an Efficient Approach to Manage Security Analysis Complexity on Large Dense Networks,Cloud security
+675,Core Attack Graphs: an Efficient Approach to Manage Security Analysis Complexity on Large Dense Networks,Cyber-physical systems (including IoT) security
+675,Core Attack Graphs: an Efficient Approach to Manage Security Analysis Complexity on Large Dense Networks,Distributed systems security
+675,Core Attack Graphs: an Efficient Approach to Manage Security Analysis Complexity on Large Dense Networks,Forensics
+675,Core Attack Graphs: an Efficient Approach to Manage Security Analysis Complexity on Large Dense Networks,Network security
+676,Jasmin: High-Assurance and High-Speed Cryptography,Applied cryptography
+677,K-Miner: Uncovering Memory Corruption in Real-World Operating Systems,Cloud security
+677,K-Miner: Uncovering Memory Corruption in Real-World Operating Systems,Cyber-physical systems (including IoT) security
+677,K-Miner: Uncovering Memory Corruption in Real-World Operating Systems,Information flow
+677,K-Miner: Uncovering Memory Corruption in Real-World Operating Systems,Language-based security
+677,K-Miner: Uncovering Memory Corruption in Real-World Operating Systems,Machine learning
+677,K-Miner: Uncovering Memory Corruption in Real-World Operating Systems,Mobile security and privacy
+677,K-Miner: Uncovering Memory Corruption in Real-World Operating Systems,Software security
+678,Android STAR: Interaction-Preserving Replay for Messenger App Forensics,Forensics
+679,Synthesis of Permissive Privacy Enforcement,Machine learning
+679,Synthesis of Permissive Privacy Enforcement,Privacy-preserving systems
+679,Synthesis of Permissive Privacy Enforcement,Privacy policies
+679,Synthesis of Permissive Privacy Enforcement,Software security
+680,Non-interactive proofs of proof-of-work,Applied cryptography
+680,Non-interactive proofs of proof-of-work,Distributed systems security
+680,Non-interactive proofs of proof-of-work,Protocols
+681,Cascading Attack Analysis for Grid-Connected Microgrid,Cyber-physical systems (including IoT) security
+682,Empirical Evaluation of Threat Modeling Methodologies,Metrics
+682,Empirical Evaluation of Threat Modeling Methodologies,Software security
+682,Empirical Evaluation of Threat Modeling Methodologies,User studies
+683,Automated Feature Extraction for Website Fingerprinting through Deep Learning,Anonymity
+683,Automated Feature Extraction for Website Fingerprinting through Deep Learning,Machine learning
+683,Automated Feature Extraction for Website Fingerprinting through Deep Learning,Web security and privacy
+686,Software Side-Channel Vulnerabilities: Detection Complexity,Information flow
+686,Software Side-Channel Vulnerabilities: Detection Complexity,Metrics
+686,Software Side-Channel Vulnerabilities: Detection Complexity,Software security
+687,Verifying Security Policies in Multi-agent Workflows with Loops,Information flow
+688,Probabilistic Obfuscation through Covert Channels,Information flow
+688,Probabilistic Obfuscation through Covert Channels,Malware
+688,Probabilistic Obfuscation through Covert Channels,Mobile security and privacy
+688,Probabilistic Obfuscation through Covert Channels,Software security
+689,Forgotten Siblings: Unifying Attacks on Machine Learning and Digital Watermarking,Machine learning
+690,Effectively Extinguishing Ransomware - a Hybrid Approach to Android Ransomware Detection,Machine learning
+690,Effectively Extinguishing Ransomware - a Hybrid Approach to Android Ransomware Detection,Malware
+690,Effectively Extinguishing Ransomware - a Hybrid Approach to Android Ransomware Detection,Mobile security and privacy
+691,"Watch Me, but Don't Touch Me! Contactless Control Flow Monitoring via Electromagnetic Emanations",Intrusion detection
+691,"Watch Me, but Don't Touch Me! Contactless Control Flow Monitoring via Electromagnetic Emanations",Software security
+692,A reduction-based proof for 3-party Kerberos,Applied cryptography
+692,A reduction-based proof for 3-party Kerberos,Authentication and authorization
+692,A reduction-based proof for 3-party Kerberos,Network security
+692,A reduction-based proof for 3-party Kerberos,Protocols
+693,Why Do Developers Get Password Storage Wrong? A Qualitative Usability Study,Authentication and authorization
+693,Why Do Developers Get Password Storage Wrong? A Qualitative Usability Study,User studies
+694,RAINCOAT: RAndomized Network Communication in Power Grid Cyber INfrastructure to Mislead Cyber Attackers,Cyber-physical systems (including IoT) security
+694,RAINCOAT: RAndomized Network Communication in Power Grid Cyber INfrastructure to Mislead Cyber Attackers,Network security
+695,On the Accuracy of Password Strength Meters,Authentication and authorization
+695,On the Accuracy of Password Strength Meters,Metrics
+696,Practical Attacks Against Graph-based Clustering,Intrusion detection
+696,Practical Attacks Against Graph-based Clustering,Machine learning
+696,Practical Attacks Against Graph-based Clustering,Malware
+696,Practical Attacks Against Graph-based Clustering,Network security
+697,vNIDS: Towards Elastic Security with Safe and Efficient Virtualization of Network Intrusion Detection Systems,Intrusion detection
+697,vNIDS: Towards Elastic Security with Safe and Efficient Virtualization of Network Intrusion Detection Systems,Network security
+698,IPSec IKE is a secure multi-phase AKE Protocol,Applied cryptography
+698,IPSec IKE is a secure multi-phase AKE Protocol,Distributed systems security
+698,IPSec IKE is a secure multi-phase AKE Protocol,Network security
+698,IPSec IKE is a secure multi-phase AKE Protocol,Protocols
+699,Ephemeral Identifiers: Mitigating Tracking & Spoofing Threats to BLE Beacons,Anonymity
+699,Ephemeral Identifiers: Mitigating Tracking & Spoofing Threats to BLE Beacons,Cyber-physical systems (including IoT) security
+699,Ephemeral Identifiers: Mitigating Tracking & Spoofing Threats to BLE Beacons,Mobile security and privacy
+699,Ephemeral Identifiers: Mitigating Tracking & Spoofing Threats to BLE Beacons,Privacy-preserving systems
+700,A recommender system for efficient discovery of new anomalies in large-scale access logs,Machine learning
+700,A recommender system for efficient discovery of new anomalies in large-scale access logs,Web security and privacy
+701,Fear and Logging in the Internet of Things,Cyber-physical systems (including IoT) security
+703,Symmetric Searchable Encryption with Sharing and Unsharing,Applied cryptography
+704,SecureMatch: A Scalable Fuzzy Authentication Approach Using Physical-Layer Features for IoT,Authentication and authorization
+704,SecureMatch: A Scalable Fuzzy Authentication Approach Using Physical-Layer Features for IoT,Cyber-physical systems (including IoT) security
+704,SecureMatch: A Scalable Fuzzy Authentication Approach Using Physical-Layer Features for IoT,Machine learning
+705,PADon: Towards Online Program Anomaly Detection based on LSTM Language Modeling with Intel PT Support,Hardware and architecture security
+705,PADon: Towards Online Program Anomaly Detection based on LSTM Language Modeling with Intel PT Support,Intrusion detection
+705,PADon: Towards Online Program Anomaly Detection based on LSTM Language Modeling with Intel PT Support,Machine learning
+705,PADon: Towards Online Program Anomaly Detection based on LSTM Language Modeling with Intel PT Support,Malware
+705,PADon: Towards Online Program Anomaly Detection based on LSTM Language Modeling with Intel PT Support,Software security
+706,Location-based Network Path Validation,Network security
+706,Location-based Network Path Validation,Privacy policies
+706,Location-based Network Path Validation,Web security and privacy
+707,Position-independent Code Reuse: On the Effectiveness of ASLR in the Absence of Information Disclosure,Software security
+709,Assessing Vulnerability of Dynamic Networks via Probabilistic Betweenness Centrality,Distributed systems security
+709,Assessing Vulnerability of Dynamic Networks via Probabilistic Betweenness Centrality,Network security
+710,POKs Based Low Energy Authentication Scheme\\ for Implantable Medical Devices,Access control
+710,POKs Based Low Energy Authentication Scheme\\ for Implantable Medical Devices,Authentication and authorization
+710,POKs Based Low Energy Authentication Scheme\\ for Implantable Medical Devices,Cyber-physical systems (including IoT) security
+710,POKs Based Low Energy Authentication Scheme\\ for Implantable Medical Devices,Network security
+710,POKs Based Low Energy Authentication Scheme\\ for Implantable Medical Devices,Protocols
+712,"An Automated, Decentralized, and Transparent Public-Key Infrastructure",Authentication and authorization
+712,"An Automated, Decentralized, and Transparent Public-Key Infrastructure",Network security
+712,"An Automated, Decentralized, and Transparent Public-Key Infrastructure",Web security and privacy
+713,Just in Time Hashing,Authentication and authorization
+713,Just in Time Hashing,User studies
+714,ADINT: Exploiting Ad Targeting for Intelligence Gathering,Mobile security and privacy
+714,ADINT: Exploiting Ad Targeting for Intelligence Gathering,Web security and privacy
+715,Thunderella: Blockchains with Optimistic Instant Confirmation,Distributed systems security
+715,Thunderella: Blockchains with Optimistic Instant Confirmation,Protocols
+715,Thunderella: Blockchains with Optimistic Instant Confirmation,Secure and verifiable computation
+717,Client-side Name Collision Vulnerability in the New gTLD Era: A Systematic Study,Mobile security and privacy
+717,Client-side Name Collision Vulnerability in the New gTLD Era: A Systematic Study,Network security
+717,Client-side Name Collision Vulnerability in the New gTLD Era: A Systematic Study,Software security
+718,Ranking Vulenrability Fixes Using Planning Graph Analysis,Metrics
+719,Open BlockChain: On the Security and Privacy of Anonymous Transaction Signatures,Anonymity
+719,Open BlockChain: On the Security and Privacy of Anonymous Transaction Signatures,Authentication and authorization
+719,Open BlockChain: On the Security and Privacy of Anonymous Transaction Signatures,Distributed systems security
+719,Open BlockChain: On the Security and Privacy of Anonymous Transaction Signatures,Privacy-preserving systems
+720,Crypto Crumple Zones: Protecting Encryption in a Time of Political Uncertainty,Applied cryptography
+720,Crypto Crumple Zones: Protecting Encryption in a Time of Political Uncertainty,Mobile security and privacy
+720,Crypto Crumple Zones: Protecting Encryption in a Time of Political Uncertainty,Network security
+720,Crypto Crumple Zones: Protecting Encryption in a Time of Political Uncertainty,Privacy-preserving systems
+720,Crypto Crumple Zones: Protecting Encryption in a Time of Political Uncertainty,Protocols
+721,ALCHEMY: A Language and Compiler for Homomorphic Encryption Made easY,Applied cryptography
+721,ALCHEMY: A Language and Compiler for Homomorphic Encryption Made easY,Language-based security
+721,ALCHEMY: A Language and Compiler for Homomorphic Encryption Made easY,Secure and verifiable computation
+722,Causality Inference in Audit Logs via Modeling,Forensics
+722,Causality Inference in Audit Logs via Modeling,Language-based security
+723,"DL-CAIS: Large-Scale, Language-Oblivious,and Obfuscation-Resilient Code Authorship Identification Using Deep Learning",Anonymity
+723,"DL-CAIS: Large-Scale, Language-Oblivious,and Obfuscation-Resilient Code Authorship Identification Using Deep Learning",Language-based security
+723,"DL-CAIS: Large-Scale, Language-Oblivious,and Obfuscation-Resilient Code Authorship Identification Using Deep Learning",Machine learning
+724,HardScope: Thwarting DOP with Hardware-assisted Run-time Scope Enforcement,Cyber-physical systems (including IoT) security
+724,HardScope: Thwarting DOP with Hardware-assisted Run-time Scope Enforcement,Hardware and architecture security
+724,HardScope: Thwarting DOP with Hardware-assisted Run-time Scope Enforcement,Software security
+725,Recursive ORAMs with Practical Constructions,Applied cryptography
+726,CHANCEL: Protecting Data Privacy from Adversarial Servers,Cloud security
+726,CHANCEL: Protecting Data Privacy from Adversarial Servers,Hardware and architecture security
+726,CHANCEL: Protecting Data Privacy from Adversarial Servers,Privacy-preserving systems
+726,CHANCEL: Protecting Data Privacy from Adversarial Servers,Software security
+727,SemFuzz: Semantics-based Automatic Exploit Generation,Software security
+728,Generating Synthetic Decentralized Social Graphs with Local Differential Privacy,Privacy-preserving systems
+730,Better Than Advertised: Improved Security Guarantees for MD-Based Hash Functions,Applied cryptography
+731,Generic attacks on oblivious databases,Cloud security
+731,Generic attacks on oblivious databases,Privacy-preserving systems
+732,Alternative Views: Uncovering Inconsistencies in Desktop/Mobile Websites and the Impact on Web Security,Web security and privacy
+733,RFC-Directed Differential Testing of Certificate Validation in SSL/TLS Implementations,Authentication and authorization
+733,RFC-Directed Differential Testing of Certificate Validation in SSL/TLS Implementations,Network security
+733,RFC-Directed Differential Testing of Certificate Validation in SSL/TLS Implementations,Software security
+734,Collusion-Secure Watermarking for Sequential Data,Forensics
+734,Collusion-Secure Watermarking for Sequential Data,Protocols
+735,TwinsCoin: A Cryptocurrency via Proof-of-Work and Proof-of-Stake,Applied cryptography
+735,TwinsCoin: A Cryptocurrency via Proof-of-Work and Proof-of-Stake,Distributed systems security
+735,TwinsCoin: A Cryptocurrency via Proof-of-Work and Proof-of-Stake,Protocols
+736,Attribute-Based Encryption in the Generic Group Model: Automated Proofs and New Constructions,Applied cryptography
+738,Anonymity in Interledger Protocols,Anonymity
+738,Anonymity in Interledger Protocols,Protocols
+739,Briareos: A Modular Framework For Intrusion Detection And Prevention,Intrusion detection
+739,Briareos: A Modular Framework For Intrusion Detection And Prevention,Software security
+740,A Cloud-User Watermarking Protocol: Protecting the Right to Be Forgotten for the Outsourced Plain Images,Cloud security
+740,A Cloud-User Watermarking Protocol: Protecting the Right to Be Forgotten for the Outsourced Plain Images,Network security
+740,A Cloud-User Watermarking Protocol: Protecting the Right to Be Forgotten for the Outsourced Plain Images,Protocols
+741,Internet of API's: Mobile Application Remote Web API Reconnaissance and Attacks,Cloud security
+741,Internet of API's: Mobile Application Remote Web API Reconnaissance and Attacks,Information flow
+741,Internet of API's: Mobile Application Remote Web API Reconnaissance and Attacks,Mobile security and privacy
+741,Internet of API's: Mobile Application Remote Web API Reconnaissance and Attacks,Web security and privacy
+742,Password-Hardened Key-Encapsulation Mechanism (or How not to Leak Credit Card Information?),Applied cryptography
+742,Password-Hardened Key-Encapsulation Mechanism (or How not to Leak Credit Card Information?),Authentication and authorization
+743,CHECKMATE: Security Checker for Ethereum Smart Contracts,Distributed systems security
+743,CHECKMATE: Security Checker for Ethereum Smart Contracts,Language-based security
+743,CHECKMATE: Security Checker for Ethereum Smart Contracts,Software security
+744,Privacy-Preserving Ridge Regression on Distributed Data,Applied cryptography
+744,Privacy-Preserving Ridge Regression on Distributed Data,Machine learning
+744,Privacy-Preserving Ridge Regression on Distributed Data,Privacy-preserving systems
+744,Privacy-Preserving Ridge Regression on Distributed Data,Protocols
+744,Privacy-Preserving Ridge Regression on Distributed Data,Secure and verifiable computation
+745,The Secret of Machine Island: Hardware-Level Clock Fingerprinting on the Web,Hardware and architecture security
+745,The Secret of Machine Island: Hardware-Level Clock Fingerprinting on the Web,Privacy-preserving systems
+745,The Secret of Machine Island: Hardware-Level Clock Fingerprinting on the Web,Web security and privacy
+746,Alcatraz: Data Exfiltration-Resilient Corporate Network Architecture,Cloud security
+746,Alcatraz: Data Exfiltration-Resilient Corporate Network Architecture,Distributed systems security
+746,Alcatraz: Data Exfiltration-Resilient Corporate Network Architecture,Network security
+746,Alcatraz: Data Exfiltration-Resilient Corporate Network Architecture,Secure and verifiable computation
+747,VulDeePecker: A Deep Learning-based System for Automatic Vulnerability Detection,Language-based security
+747,VulDeePecker: A Deep Learning-based System for Automatic Vulnerability Detection,Machine learning
+747,VulDeePecker: A Deep Learning-based System for Automatic Vulnerability Detection,Software security
+748,SADE-ID: Scalable Attestation for Dynamic Embedded and IoT Devices,Cyber-physical systems (including IoT) security
+748,SADE-ID: Scalable Attestation for Dynamic Embedded and IoT Devices,Distributed systems security
+748,SADE-ID: Scalable Attestation for Dynamic Embedded and IoT Devices,Malware
+748,SADE-ID: Scalable Attestation for Dynamic Embedded and IoT Devices,Mobile security and privacy
+748,SADE-ID: Scalable Attestation for Dynamic Embedded and IoT Devices,Network security
+748,SADE-ID: Scalable Attestation for Dynamic Embedded and IoT Devices,Protocols
+748,SADE-ID: Scalable Attestation for Dynamic Embedded and IoT Devices,Software security
+749,Late-Stage Attack-Space Reduction through Piece-Wise Compilation and Loading,Software security
+750,Remote Attestation For Low-End Prover Devices With Post-Quantum Capabilities,Applied cryptography
+750,Remote Attestation For Low-End Prover Devices With Post-Quantum Capabilities,Cyber-physical systems (including IoT) security
+750,Remote Attestation For Low-End Prover Devices With Post-Quantum Capabilities,Protocols
+751,AUTHSCOPE: Towards Automatic Discovery of Vulnerable Access Control in Online Services,Access control
+751,AUTHSCOPE: Towards Automatic Discovery of Vulnerable Access Control in Online Services,Authentication and authorization
+752,POWer to the PLC: On Proof-of-Work and Execution Regularities in Programmable Logic Controllers,Cyber-physical systems (including IoT) security
+752,POWer to the PLC: On Proof-of-Work and Execution Regularities in Programmable Logic Controllers,Intrusion detection
+752,POWer to the PLC: On Proof-of-Work and Execution Regularities in Programmable Logic Controllers,Network security
+753,Result Pattern Hiding Searchable Encryption for Conjunctive Queries,Applied cryptography
+753,Result Pattern Hiding Searchable Encryption for Conjunctive Queries,Cloud security
+754,Towards Measuring Cyber Agility: Adaptation Metrics,Intrusion detection
+754,Towards Measuring Cyber Agility: Adaptation Metrics,Metrics
+755,K-means++ vs. Behavioral Biometrics: One Loop to Rule Them All,Authentication and authorization
+755,K-means++ vs. Behavioral Biometrics: One Loop to Rule Them All,Language-based security
+755,K-means++ vs. Behavioral Biometrics: One Loop to Rule Them All,Machine learning
+755,K-means++ vs. Behavioral Biometrics: One Loop to Rule Them All,Mobile security and privacy
+756,Sealed: Secure Fault-Tolerant Data Fusion,Distributed systems security
+756,Sealed: Secure Fault-Tolerant Data Fusion,Privacy-preserving systems
+756,Sealed: Secure Fault-Tolerant Data Fusion,Secure and verifiable computation
+757,Dual-Secure Structured Encryption,Applied cryptography
+758,Towards Differentially Private Truth Discovery for Crowd Sensing Systems,Privacy-preserving systems
+759,IoTFuzzer: Discovering Vulnerabilities in IoT Devices With a Mobile App Based Fuzzing Framework,Cyber-physical systems (including IoT) security
+759,IoTFuzzer: Discovering Vulnerabilities in IoT Devices With a Mobile App Based Fuzzing Framework,Software security
+760,ConcurORAM: High-Throughput Parallel Multi-Client ORAM,Cloud security
+760,ConcurORAM: High-Throughput Parallel Multi-Client ORAM,Distributed systems security
+760,ConcurORAM: High-Throughput Parallel Multi-Client ORAM,Privacy-preserving systems
+762,S3ORAM: A Computation-Efficient and Constant Client Bandwidth Blowup ORAM with Shamir Secret Sharing,Applied cryptography
+762,S3ORAM: A Computation-Efficient and Constant Client Bandwidth Blowup ORAM with Shamir Secret Sharing,Privacy-preserving systems
+762,S3ORAM: A Computation-Efficient and Constant Client Bandwidth Blowup ORAM with Shamir Secret Sharing,Protocols
+763,Tango with Android Apps through Shared Storage,Mobile security and privacy
+763,Tango with Android Apps through Shared Storage,Software security
+764,OComm: Privacy-preserving Communication in IoT Based on Obfuscation,Anonymity
+764,OComm: Privacy-preserving Communication in IoT Based on Obfuscation,Cyber-physical systems (including IoT) security
+764,OComm: Privacy-preserving Communication in IoT Based on Obfuscation,Privacy-preserving systems
+765,Code-reuse atacks for the Web: Breaking Cross-Site Scripting Mitigations via Script Gadgets,Information flow
+765,Code-reuse atacks for the Web: Breaking Cross-Site Scripting Mitigations via Script Gadgets,Web security and privacy
+766,Improved Private Computation on Set Intersection,Applied cryptography
+766,Improved Private Computation on Set Intersection,Protocols
+766,Improved Private Computation on Set Intersection,Secure and verifiable computation
+767,Look at Me and I Know You in 600 Milliseconds! Exploring a Truly Cancelable Brain Biometrics for Smart Headwear,Authentication and authorization
+768,On-disk Obfuscation of Encrypted File Blocks,Applied cryptography
+768,On-disk Obfuscation of Encrypted File Blocks,Forensics
+768,On-disk Obfuscation of Encrypted File Blocks,Privacy-preserving systems
+769,Ensuring Privacy in Web Applications through Locally Enforced Views,Access control
+769,Ensuring Privacy in Web Applications through Locally Enforced Views,Privacy policies
+769,Ensuring Privacy in Web Applications through Locally Enforced Views,Software security
+769,Ensuring Privacy in Web Applications through Locally Enforced Views,Web security and privacy
+770,Fairness in an Unfair World: Fair Multiparty Computation from public Bulletin Boards,Applied cryptography
+770,Fairness in an Unfair World: Fair Multiparty Computation from public Bulletin Boards,Protocols
+770,Fairness in an Unfair World: Fair Multiparty Computation from public Bulletin Boards,Secure and verifiable computation
+771,Statistical Estimation of Malware Detection Metrics in the Absence of Ground Truth,Malware
+771,Statistical Estimation of Malware Detection Metrics in the Absence of Ground Truth,Metrics
+772,How to Split End-to-end Security Model of TLS: A Focus on CDN,Authentication and authorization
+772,How to Split End-to-end Security Model of TLS: A Focus on CDN,Network security
+772,How to Split End-to-end Security Model of TLS: A Focus on CDN,Web security and privacy
+773,Bolt: Anonymous Payment Channels for Decentralized Currencies,Anonymity
+773,Bolt: Anonymous Payment Channels for Decentralized Currencies,Applied cryptography
+773,Bolt: Anonymous Payment Channels for Decentralized Currencies,Privacy-preserving systems
+773,Bolt: Anonymous Payment Channels for Decentralized Currencies,Privacy policies
+773,Bolt: Anonymous Payment Channels for Decentralized Currencies,Protocols
+774,Efficient Privacy-Preserving Edit Distance and Beyond,Privacy-preserving systems
+774,Efficient Privacy-Preserving Edit Distance and Beyond,Protocols
+775,Efficient Cryptographically Secure Detection of Direct Injection Attacks Against x86 Systems,Applied cryptography
+775,Efficient Cryptographically Secure Detection of Direct Injection Attacks Against x86 Systems,Intrusion detection
+775,Efficient Cryptographically Secure Detection of Direct Injection Attacks Against x86 Systems,Malware
+776,One Preprocessing to Rule Them All: Verifiable Computation with Circuit-Independent Preprocessing and Applications to Verifiable RAM Programs,Secure and verifiable computation
+779,GeoSpatial Encryption (GSE): A Privacy Preserving Scheme for GeoSpatial Data,Cloud security
+779,GeoSpatial Encryption (GSE): A Privacy Preserving Scheme for GeoSpatial Data,Privacy-preserving systems
+780,Automated Online Adaptive Side-Channel Attack Synthesis,Information flow
+780,Automated Online Adaptive Side-Channel Attack Synthesis,Network security
+780,Automated Online Adaptive Side-Channel Attack Synthesis,Software security
+780,Automated Online Adaptive Side-Channel Attack Synthesis,Web security and privacy
+781,MATRIX: a Per-App Seamless and Realistic Synthetic Mobility for User Anonymity,Anonymity
+781,MATRIX: a Per-App Seamless and Realistic Synthetic Mobility for User Anonymity,Mobile security and privacy
+781,MATRIX: a Per-App Seamless and Realistic Synthetic Mobility for User Anonymity,Privacy-preserving systems
+783,Presence Attestation: The Missing Link In Dynamic Trust Bootstrapping,Authentication and authorization
+783,Presence Attestation: The Missing Link In Dynamic Trust Bootstrapping,Hardware and architecture security
+783,Presence Attestation: The Missing Link In Dynamic Trust Bootstrapping,Protocols
+784,A Practical Encrypted Data Analytic Framework With Trusted Processors,Applied cryptography
+784,A Practical Encrypted Data Analytic Framework With Trusted Processors,Cloud security
+784,A Practical Encrypted Data Analytic Framework With Trusted Processors,Hardware and architecture security
+785,OpenHammer: An Open Platform for Large-scale Rowhammer Research,Hardware and architecture security
+786,Data Leakage Prevention in Databases: User Modeling with Temporal Behavior Drift,Intrusion detection
+787,Differentially Private Vertically Partitioned Data Publishing,Privacy-preserving systems
+789,Concurrency and Privacy with Payment-Channel Networks,Distributed systems security
+789,Concurrency and Privacy with Payment-Channel Networks,Privacy-preserving systems
+789,Concurrency and Privacy with Payment-Channel Networks,Protocols
+790,CRYSTALS -- Dilithium: digital signatures from module lattices,Protocols
+791,Statistical Inference Attacks,Applied cryptography
+792,Correlation Driven PUF Design and Attacks,Cyber-physical systems (including IoT) security
+792,Correlation Driven PUF Design and Attacks,Hardware and architecture security
+792,Correlation Driven PUF Design and Attacks,Machine learning
+793,Noiseless Fully Homomorphic Encryption,Cloud security
+793,Noiseless Fully Homomorphic Encryption,Network security
+793,Noiseless Fully Homomorphic Encryption,Privacy-preserving systems
+793,Noiseless Fully Homomorphic Encryption,Protocols
+794,I'm Listening to your Location! Inferring User Location with Acoustic Side Channel,Forensics
+795,Superset Disassembly: Statically Rewriting x86 Binaries Without Heuristics,Software security
+796,An Adaptive Framework for the Detection of Novel Botnets,Distributed systems security
+796,An Adaptive Framework for the Detection of Novel Botnets,Intrusion detection
+796,An Adaptive Framework for the Detection of Novel Botnets,Machine learning
+796,An Adaptive Framework for the Detection of Novel Botnets,Malware
+796,An Adaptive Framework for the Detection of Novel Botnets,Network security
+797,Fair Content Distribution Using State Channels,Applied cryptography
+797,Fair Content Distribution Using State Channels,Protocols
+798,Attack Surface Identification for Profitable Vulnerability Assessment through Program Metrics,Metrics
+798,Attack Surface Identification for Profitable Vulnerability Assessment through Program Metrics,Software security
+801,SECProv: Trustworthy and Efficient Provenance Management in the Cloud,Cloud security
+801,SECProv: Trustworthy and Efficient Provenance Management in the Cloud,Forensics
+802,RSR: Resilient Secure Resets Leveraging Cyber-Physical System Properties,Cyber-physical systems (including IoT) security
+802,RSR: Resilient Secure Resets Leveraging Cyber-Physical System Properties,Hardware and architecture security
+803,"Git Blame Who?: Stylistic Authorship Attribution of Small, Incomplete Source Code Fragments",Anonymity
+803,"Git Blame Who?: Stylistic Authorship Attribution of Small, Incomplete Source Code Fragments",Machine learning
+803,"Git Blame Who?: Stylistic Authorship Attribution of Small, Incomplete Source Code Fragments",Web security and privacy
+804,Improving Personal Computers‰Ûª Security with a Dual UID Approach,Network security
+805,Using Evil for Good: Leveraging Side-Channel Inference for Misbehaved SmartApp Detection,Cyber-physical systems (including IoT) security
+805,Using Evil for Good: Leveraging Side-Channel Inference for Misbehaved SmartApp Detection,Mobile security and privacy
+805,Using Evil for Good: Leveraging Side-Channel Inference for Misbehaved SmartApp Detection,Privacy-preserving systems
+807,Use Privacy in Data-Driven Systems: Theory and Experiments with Machine Learnt Programs,Privacy-preserving systems
+807,Use Privacy in Data-Driven Systems: Theory and Experiments with Machine Learnt Programs,Privacy policies
+808,Predictive Use-After-Free Detection in Concurrent Programs,Access control
+808,Predictive Use-After-Free Detection in Concurrent Programs,Cloud security
+808,Predictive Use-After-Free Detection in Concurrent Programs,Distributed systems security
+808,Predictive Use-After-Free Detection in Concurrent Programs,Information flow
+808,Predictive Use-After-Free Detection in Concurrent Programs,Language-based security
+808,Predictive Use-After-Free Detection in Concurrent Programs,Network security
+808,Predictive Use-After-Free Detection in Concurrent Programs,Secure and verifiable computation
+808,Predictive Use-After-Free Detection in Concurrent Programs,Software security
+808,Predictive Use-After-Free Detection in Concurrent Programs,Web security and privacy
+809,DMAguard: A Practical Mitigation Against Mobile Rowhammer Attacks,Hardware and architecture security
+809,DMAguard: A Practical Mitigation Against Mobile Rowhammer Attacks,Mobile security and privacy
+809,DMAguard: A Practical Mitigation Against Mobile Rowhammer Attacks,Software security
+810,Performance and Security Strength Trade-Off in Biometric-based Authentication Systems,Access control
+810,Performance and Security Strength Trade-Off in Biometric-based Authentication Systems,Authentication and authorization
+810,Performance and Security Strength Trade-Off in Biometric-based Authentication Systems,Machine learning
+811,Design and Implementation of a Practical Approach to Usable Forward Secure Email,Software security
+812,Knowledge Exploit: Unleashing the potential of knowledge bases for cyber security,Machine learning
+812,Knowledge Exploit: Unleashing the potential of knowledge bases for cyber security,Malware
+812,Knowledge Exploit: Unleashing the potential of knowledge bases for cyber security,Web security and privacy
+813,A Formal Foundation for Secure Remote Execution of Enclaves,Cloud security
+813,A Formal Foundation for Secure Remote Execution of Enclaves,Hardware and architecture security
+813,A Formal Foundation for Secure Remote Execution of Enclaves,Information flow
+813,A Formal Foundation for Secure Remote Execution of Enclaves,Secure and verifiable computation
+814,A Multi-Modal Neuro-Physiological Study of Malicious Insider Threats,Intrusion detection
+814,A Multi-Modal Neuro-Physiological Study of Malicious Insider Threats,Machine learning
+814,A Multi-Modal Neuro-Physiological Study of Malicious Insider Threats,User studies
+815,"Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake protocol",Distributed systems security
+815,"Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake protocol",Protocols
+816,Capturing Malware Propagations with Code Injections and Code-Reuse attacks.,Information flow
+816,Capturing Malware Propagations with Code Injections and Code-Reuse attacks.,Malware
+816,Capturing Malware Propagations with Code Injections and Code-Reuse attacks.,Software security
+817,Towards Measuring the Effectiveness of Telephony Blacklists,Machine learning
+817,Towards Measuring the Effectiveness of Telephony Blacklists,Mobile security and privacy
+817,Towards Measuring the Effectiveness of Telephony Blacklists,Network security
+817,Towards Measuring the Effectiveness of Telephony Blacklists,Web security and privacy
+818,When Human Cognitive Modeling Meets PINs: Inter-Keystroke Timing Attacks Revisited,Authentication and authorization
+818,When Human Cognitive Modeling Meets PINs: Inter-Keystroke Timing Attacks Revisited,Hardware and architecture security
+818,When Human Cognitive Modeling Meets PINs: Inter-Keystroke Timing Attacks Revisited,User studies
+819,Practical Read-Only ORAM Tolerating Malicious Users,Cloud security
+819,Practical Read-Only ORAM Tolerating Malicious Users,Privacy-preserving systems
+819,Practical Read-Only ORAM Tolerating Malicious Users,Protocols
+821,"Efficient, Constant-Round and Actively Secure MPC: Beyond the Three-Party Case",Applied cryptography
+821,"Efficient, Constant-Round and Actively Secure MPC: Beyond the Three-Party Case",Protocols
+821,"Efficient, Constant-Round and Actively Secure MPC: Beyond the Three-Party Case",Secure and verifiable computation
+822,Digital Liquid Democracy: How to Vote Your Delegation Statement,Protocols
+823,Practical Quantum-Safe Voting from Lattices,Privacy-preserving systems
+823,Practical Quantum-Safe Voting from Lattices,Protocols
+824,High-dimensional Data Classification with Differential Privacy,Machine learning
+824,High-dimensional Data Classification with Differential Privacy,Privacy-preserving systems
+825,Learning Security Rules from Code Changes,Machine learning
+825,Learning Security Rules from Code Changes,Software security
+827,A Robust Watermarking Algorithm against Merging Attack for Vector Geographic Data,Authentication and authorization
+829,FAROS: Illuminating In-Memory Injection Attacks via Provenance-based Whole System Dynamic Information Flow Tracking,Forensics
+829,FAROS: Illuminating In-Memory Injection Attacks via Provenance-based Whole System Dynamic Information Flow Tracking,Hardware and architecture security
+830,Provably-Secure Privacy-Preserving OpenID Connect without Password Files,Anonymity
+830,Provably-Secure Privacy-Preserving OpenID Connect without Password Files,Authentication and authorization
+830,Provably-Secure Privacy-Preserving OpenID Connect without Password Files,Privacy-preserving systems
+831,OBSCURO: A Secure and Anonymous Bitcoin Mixer using SGX,Anonymity
+831,OBSCURO: A Secure and Anonymous Bitcoin Mixer using SGX,Distributed systems security
+831,OBSCURO: A Secure and Anonymous Bitcoin Mixer using SGX,Privacy policies
+831,OBSCURO: A Secure and Anonymous Bitcoin Mixer using SGX,Protocols
+831,OBSCURO: A Secure and Anonymous Bitcoin Mixer using SGX,Software security
+832,Efficient and Cost-Saving White-Box Encryption and Decryption for Arbitrary Block Cipher,Applied cryptography
+832,Efficient and Cost-Saving White-Box Encryption and Decryption for Arbitrary Block Cipher,Software security
+833,SecIntent: A Unified Intent-based Security & Policy framework for IoT devices,Access control
+833,SecIntent: A Unified Intent-based Security & Policy framework for IoT devices,Language-based security
+833,SecIntent: A Unified Intent-based Security & Policy framework for IoT devices,Network security
+834,Trojaning Attack on Neural Networks,Machine learning
+835,TLS-N: Non-repudiation over TLS - Enabling Ubiquitous Content Signing for Disintermediation,Applied cryptography
+835,TLS-N: Non-repudiation over TLS - Enabling Ubiquitous Content Signing for Disintermediation,Distributed systems security
+835,TLS-N: Non-repudiation over TLS - Enabling Ubiquitous Content Signing for Disintermediation,Web security and privacy
+836,Privacy-Preserving Verifiable Key Directories,Applied cryptography
+836,Privacy-Preserving Verifiable Key Directories,Privacy-preserving systems
+837,PeGaSus: Data-Adaptive Differentially Private Stream Processing,Privacy-preserving systems
+838,Generic and Practical Key Exchange from Lattice,Applied cryptography
+838,Generic and Practical Key Exchange from Lattice,Protocols
+839,BPHMM: Customizable Data Release with Blowfish Privacy via Hidden Markov Model,Mobile security and privacy
+839,BPHMM: Customizable Data Release with Blowfish Privacy via Hidden Markov Model,Privacy-preserving systems
+839,BPHMM: Customizable Data Release with Blowfish Privacy via Hidden Markov Model,Privacy policies
+839,BPHMM: Customizable Data Release with Blowfish Privacy via Hidden Markov Model,Web security and privacy
+840,A Reconnaissance Attack Against Real-Time Embedded Systems,Cyber-physical systems (including IoT) security
+841,An Adaptive Watermark Detection Scheme for Vector Geographic Data,Authentication and authorization
+842,Protect Autonomous Vehicles with PAVA: Partition-based Security Architecture Design for Autonomous Vehicles,Software security
+843,My Genome Belongs to me: Controlling Third Party Computation on Genomic Data,Applied cryptography
+843,My Genome Belongs to me: Controlling Third Party Computation on Genomic Data,Privacy-preserving systems
+844,Surveylance: Automatically Detecting Online Survey Scams,Machine learning
+844,Surveylance: Automatically Detecting Online Survey Scams,Malware
+844,Surveylance: Automatically Detecting Online Survey Scams,Web security and privacy
+846,Building Mallory's Wonderland: Systematic Extraction of Agility Parameters for Proactive Defense,Malware
+846,Building Mallory's Wonderland: Systematic Extraction of Agility Parameters for Proactive Defense,Network security
+847,IMF: Inferred Model-based Fuzzer,Malware
+847,IMF: Inferred Model-based Fuzzer,Software security
+848,A Fast Secure Equi-Join toward Secure Cross-Domain Analysis of Attribute Information and Historical Information,Applied cryptography
+848,A Fast Secure Equi-Join toward Secure Cross-Domain Analysis of Attribute Information and Historical Information,Protocols
+848,A Fast Secure Equi-Join toward Secure Cross-Domain Analysis of Attribute Information and Historical Information,Secure and verifiable computation
+849,Simple High-level Cryptographic Abstractions,Applied cryptography
+849,Simple High-level Cryptographic Abstractions,Language-based security
+849,Simple High-level Cryptographic Abstractions,Protocols
+849,Simple High-level Cryptographic Abstractions,Software security
+850,Watching and Safeguarding Your 3D Printer: Online Process Monitoring Against Cyber-Physical Attacks,Cyber-physical systems (including IoT) security
+851,A Security Analysis of Honeywords,Access control
+851,A Security Analysis of Honeywords,Authentication and authorization
+851,A Security Analysis of Honeywords,Metrics
+851,A Security Analysis of Honeywords,Network security
+851,A Security Analysis of Honeywords,Web security and privacy
+852,Analysis and Detection of Malware in Smartphones with Android Operating System Using Hooking Techniques,Hardware and architecture security
+852,Analysis and Detection of Malware in Smartphones with Android Operating System Using Hooking Techniques,Malware
+852,Analysis and Detection of Malware in Smartphones with Android Operating System Using Hooking Techniques,Mobile security and privacy
+853,Group Key Exchange without Leaking Metadata,Applied cryptography
+853,Group Key Exchange without Leaking Metadata,Privacy-preserving systems
+853,Group Key Exchange without Leaking Metadata,Protocols
+854,SecuPAN: A Security Scheme to Mitigate 6LoWPAN Fragmentation Atacks,Authentication and authorization
+854,SecuPAN: A Security Scheme to Mitigate 6LoWPAN Fragmentation Atacks,Cyber-physical systems (including IoT) security
+854,SecuPAN: A Security Scheme to Mitigate 6LoWPAN Fragmentation Atacks,Distributed systems security
+854,SecuPAN: A Security Scheme to Mitigate 6LoWPAN Fragmentation Atacks,Network security
+854,SecuPAN: A Security Scheme to Mitigate 6LoWPAN Fragmentation Atacks,Protocols
+855,Modeling Attacks on Strong Physical Unclonable Functions Strengthened by Random Number and Weak PUF,Hardware and architecture security
+856,Securing Resources in Distributed Cloud Storage,Cloud security
+857,A Case for Exploiting Fully Integrated Inductive Voltage Regulator for EM Side Channel Protection,Hardware and architecture security
+858,AmpFuzz: Blackbox Extraction of Amplication-Inducing Queries to Network Servers,<none>
+859,Three-Party MPC-ORAM with Low Latency and Batch Retrieval,Protocols
+860,On Privacy Preserving Key Exchange and TLS 1.3,Applied cryptography
+860,On Privacy Preserving Key Exchange and TLS 1.3,Protocols
+861,How Best to Attack and Generate Honeywords,Access control
+861,How Best to Attack and Generate Honeywords,Authentication and authorization
+861,How Best to Attack and Generate Honeywords,Metrics
+861,How Best to Attack and Generate Honeywords,Network security
+861,How Best to Attack and Generate Honeywords,Web security and privacy
+862,"Visibility of Attacks in Field Networks: Trust Assumptions, Attacks, and Countermeasures",Cyber-physical systems (including IoT) security
+862,"Visibility of Attacks in Field Networks: Trust Assumptions, Attacks, and Countermeasures",Intrusion detection
+862,"Visibility of Attacks in Field Networks: Trust Assumptions, Attacks, and Countermeasures",Network security
+864,Fidelity: New Property of Deep Neural Networks to Measure the Trustworthiness of Results,Machine learning
+865,Ligero: Lightweight Sublinear Arguments Without a Trusted Setup,Distributed systems security
+865,Ligero: Lightweight Sublinear Arguments Without a Trusted Setup,Protocols
+865,Ligero: Lightweight Sublinear Arguments Without a Trusted Setup,Secure and verifiable computation
+866,Rowhammer.net: Exploiting and Protecting Servers Applications From Remote Rowhammer Attacks,Cloud security
+866,Rowhammer.net: Exploiting and Protecting Servers Applications From Remote Rowhammer Attacks,Hardware and architecture security
+866,Rowhammer.net: Exploiting and Protecting Servers Applications From Remote Rowhammer Attacks,Software security
+867,Compacting Security Audit Logs Using Versioned Dependence Graphs,Forensics
+868,Reverse Engineering of Convolutional Neural Networks,Hardware and architecture security
+868,Reverse Engineering of Convolutional Neural Networks,Machine learning
+869,"Hey Malware, Have a Taste of Your Very Own Evasive Logic",Malware
+870,A Modular Provable Security Analysis of OAuth Protocol,Authentication and authorization
+870,A Modular Provable Security Analysis of OAuth Protocol,Protocols
+871,"Anonymity Trilemma: Strong Anonymity, Low Bandwidth, Low Latency. Choose Two.",Anonymity
+871,"Anonymity Trilemma: Strong Anonymity, Low Bandwidth, Low Latency. Choose Two.",Privacy-preserving systems
+872,CryptoDL: Deep Neural Networks over Encrypted Data,Applied cryptography
+872,CryptoDL: Deep Neural Networks over Encrypted Data,Machine learning
+872,CryptoDL: Deep Neural Networks over Encrypted Data,Privacy-preserving systems
+873,Rise of the HaCRS: Augmenting Autonomous Cyber Reasoning Systems with Human Assistance,Software security
+874,Verifier Coalescence and Applications to End-to-end Verifiable Multiparty Computation,Anonymity
+874,Verifier Coalescence and Applications to End-to-end Verifiable Multiparty Computation,Applied cryptography
+874,Verifier Coalescence and Applications to End-to-end Verifiable Multiparty Computation,Privacy-preserving systems
+874,Verifier Coalescence and Applications to End-to-end Verifiable Multiparty Computation,Protocols
+874,Verifier Coalescence and Applications to End-to-end Verifiable Multiparty Computation,Secure and verifiable computation
+876,Insourcing Internet of Things Security,Network security
+876,Insourcing Internet of Things Security,Privacy-preserving systems
+877,Multi-mode Cryptocurrency Systems,Applied cryptography
+877,Multi-mode Cryptocurrency Systems,Distributed systems security
+877,Multi-mode Cryptocurrency Systems,Protocols
+878,Trust Me I‰Ûªm Your Underlying Hardware: Gate-level Trojan Insertion and Detection with HAL,Hardware and architecture security
+879,A Feasibility Study of 4K-Aliasing Covert Communication Channels,Cloud security
+879,A Feasibility Study of 4K-Aliasing Covert Communication Channels,Hardware and architecture security
+880,Automated Generation of Event-Oriented Exploits in Android Hybrid Apps,Mobile security and privacy
+881,Iron: Functional Encryption using Intel SGX,Access control
+881,Iron: Functional Encryption using Intel SGX,Applied cryptography
+881,Iron: Functional Encryption using Intel SGX,Authentication and authorization
+881,Iron: Functional Encryption using Intel SGX,Cloud security
+881,Iron: Functional Encryption using Intel SGX,Secure and verifiable computation
+882,ZeroTrace : Oblivious Memory Primitives from Intel SGX,Applied cryptography
+882,ZeroTrace : Oblivious Memory Primitives from Intel SGX,Cloud security
+882,ZeroTrace : Oblivious Memory Primitives from Intel SGX,Hardware and architecture security
+883,microSE: Efficient Searchable Encryption Through Compression,Applied cryptography
+883,microSE: Efficient Searchable Encryption Through Compression,Cloud security
+883,microSE: Efficient Searchable Encryption Through Compression,Privacy-preserving systems
+883,microSE: Efficient Searchable Encryption Through Compression,Secure and verifiable computation
+884,Analyzing the Propagation of IoT Botnets from DNS Leakage,Cyber-physical systems (including IoT) security
+884,Analyzing the Propagation of IoT Botnets from DNS Leakage,Malware
+884,Analyzing the Propagation of IoT Botnets from DNS Leakage,Network security
+885,Homomorphic Secret Sharing: Optimizations and Applications,Applied cryptography
+886,A New Public-Key Cryptographic Primitive Based on the Underdetermined Systems of Polynomial Equations for Probable Security,Applied cryptography
+888,SPOILD: Side-Channel POwer-based Instruction-level Disassembler,Hardware and architecture security
+889,Secure-in-between-accesses databases,Applied cryptography
+889,Secure-in-between-accesses databases,Cloud security
+889,Secure-in-between-accesses databases,Cyber-physical systems (including IoT) security
+889,Secure-in-between-accesses databases,Secure and verifiable computation
+891,Log-Structure Authenticated Storage with Minimal Trust and Efficiency,Secure and verifiable computation
+892,Claim-or-Refund Duplex Payment Channels and Applications,Network security
+892,Claim-or-Refund Duplex Payment Channels and Applications,Privacy-preserving systems
+892,Claim-or-Refund Duplex Payment Channels and Applications,Protocols
+892,Claim-or-Refund Duplex Payment Channels and Applications,Secure and verifiable computation
+895,A Secure Proxy-based Access Control Scheme for Implantable Medical Devices,Access control
+895,A Secure Proxy-based Access Control Scheme for Implantable Medical Devices,Authentication and authorization
+897,AUTOPRA: Towards Automatic Personalized Image Privacy Risk Assessment for Image Sharing,Machine learning
+898,Blockade: A Grammar-Based Approach for Discovering Non-Blinded Constant in JIT Code,Software security
+899,MVG Mechanism: Differential Privacy under Matrix-Valued Query,Privacy-preserving systems
+902,Accelerated Crash Discovery in Dynamic Symbolic Execution,Software security
