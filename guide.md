@@ -4,12 +4,12 @@ The main tasks for the PC Chair are:
 
 - (November-March) [Forming the PC](#pc)
 - (March-April) [Writing the Call for Papers](#cfp)
-- (March-May) Preparing for the review process
+- (March-May) [Preparing for the review process](#prepare)
 - (mid-May) Paper submission deadline
 - (May-August) [Managing the review process](#reviewing)
 - (July-September) [Test-of-Time Award](#tot)
 - (August) [Posting the accepted papers](#posting)
-- (August-September) Planning the sessions
+- (August-September) [Planning the sessions](#sessions)
 - (August-September) [Selecting the Awards](#awards), Program Chair's Welcome
 - (October-November) Conference
 - (November-January) Post-Conference
@@ -84,6 +84,64 @@ accepted (142 out of 198).
   but don't want to make this public since it includes non-public
   information such as people that we ended up not inviting to the PC,
   or who declined invitations.
+
+# <a name="prepare"></a>Preparing for Reviewing
+
+Don't wait until the paper submission deadline to be prepared for the
+review process!  Once the submissions flood in, you will have far too
+much to do to worry about these things. Ideally, the chairs would
+figure out how to manage things, how to distribute the workload in the
+critical first few days after the submission deadline, and arrange in
+advance some blocks of time when all chairs are available for
+confernce calls.
+
+### Reviewing Form
+
+We didn't spend a lot of time thinking about the reviewing form before
+reviewing started, and after that it was too late to change it.  The
+biggest mistake we made was not including separate ratings for
+"Reviewer Confidence" and "Reviewer Expertise" (instead, we just had
+"Reviewer Expertise", which is much less useful). 
+
+It would also be good to consider having an explicit part of the
+review form be "questions for authors" (to make it abundantly clear
+what the reviewers would like authors to respond to in the response
+period) and perhaps to have a "Comments on Authors' Response" section
+(which we just made a separate section of the review text). We were
+vigilant (with the help for the Discussion Committee) in ensuring that
+reviewers did provide responses to author responses, but it was harder
+than it could have been since it was necessary to find these marked in
+the original reviews.
+
+### Assigning Paper Reviews
+
+For a conference the scale of CCS, it isn't feasible to assign
+reviewers to all papers in the first rounds manually. We used an
+automated system for this, and the state of machine learning text
+analysis is at the point where it can probably do as well as manual
+human assignments in most cases.  We did find it necessary to provide
+some manual adjustments to the automatically assignmed reviews, and to
+provide ways for PC members who were not happy with their automated
+assignments in the first round to convey their interests with paper
+bids that we took into account in later rounds (it would be advisable
+to support this from the beginning).
+
+For this to work, you need a way to collect information from PC
+members as to their expertise and reviewing desires. We did this by
+asking PC members to provide a URL for a page containing their
+publications when they submitted the form to accept the PC
+invitation. I would recommend instead inviting PC member to create a
+page specifically for this purpose &mdash; it is not necessary to
+include all authored papers to traing the reviewing assignments,
+especially if someone is no longer interested in reviewing papers in
+an area they may have worked in in the past; it is also reasonable to
+include papers by other authors in the page to encouage the review
+system to assign papers it review in areas the PC member is interested
+in but hasn't (yet) published in.
+
+You can't do the paper assignments until the submission deadline
+closes, of course, but you can make sure everything is in place and
+worked out as much as possible before this.
 
 # <a name="reviewing"></a>Reviewing Schedule
 
@@ -174,24 +232,6 @@ submitted PDFs.  The question of what is and is not considered valid
 material to include in an appendix is not that clear, however, and I'm
 not sure if there is a good way to describe it that would be
 interpreted consistently.
-
-### Reviewing Form
-
-We didn't spend a lot of time thinking about the reviewing form before
-reviewing started, and after that it was too late to change it.  The
-biggest mistake we made was not including separate ratings for
-"Reviewer Confidence" and "Reviewer Expertise" (instead, we just had
-"Reviewer Expertise", which is much less useful). 
-
-It would also be good to consider having an explicit part of the
-review form be "questions for authors" (to make it abundantly clear
-what the reviewers would like authors to respond to in the response
-period) and perhaps to have a "Comments on Authors' Response" section
-(which we just made a separate section of the review text). We were
-vigilant (with the help for the Discussion Committee) in ensuring that
-reviewers did provide responses to author responses, but it was harder
-than it could have been since it was necessary to find these marked in
-the original reviews.
 
 # <a name="posting"></a>Posting Papers
 
@@ -342,6 +382,25 @@ session of papers that was inspired by the winning paper).
 The Test-of-Time Award was presented at the CCS Banquet after the Best
 Paper Awards, and it is good to make a brief statement about the
 significance of the paper and why it was selected for the award.
+
+# Planning the Sessions
+
+We didn't figure out an efficient way to do this, and mapping 151
+papers into sessions was very time-consuming and challenging.  We
+understoood that the CCS 2016 PC Chairs used an automated system for
+grouping papers into sessions, but we did everything manually.
+
+We started by putting all the papers into a shared google sheet
+(dumping the CSV file produced by hotcrp as a starting point) so the
+chairs could coordinate on arranging sessions. From this list, we
+identified some papers that strongly belonged together, and considered
+these connections (nearly) unbreakable.  Then, we tried to identify
+common topics for the papers.  The author-submitted topics were not
+too helpful for this, so we ended up mostly needing to make up our
+own, and typically tagged each paper with two or three topic
+identifiers.  After this, there was a lot of shuffling around to try
+to satisfy various constraints and end up with the most interesting
+and connected sessions we could.
 
 
 
