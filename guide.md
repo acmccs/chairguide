@@ -333,11 +333,14 @@ CCS 2017, with approval of the SIGSAC chairs.)
 ### Presenting the Awards
 
 The Best Paper Awards are presented at the CCS Banquet the second
-evening of the main conference. We made up a PowerPoint loop to show
-all the Finalists during the banquet, and then a separate PowerPoint
-deck for presenting the awards. It is worthwhile rehearse among the PC
-chairs how you will present the awards and trying to figure out how to
-pronounce winners names before the award presentation.
+evening of the main conference. We made up a [PowerPoint
+loop](/docs/banquetloop.pptx) to show all the Finalists during the
+banquet, and then a separate [PowerPoint deck for presenting the
+awards](/docs/awardsannouncements.pptx), which was combined with the
+slides for the General Chair and SIGSAC awards. It is worthwhile
+rehearse among the PC chairs how you will present the awards and
+trying to figure out how to pronounce winners names before the award
+presentation.
 
 # <a name="tot"></a>Test-of-Time Award
 
@@ -406,12 +409,10 @@ and connected sessions we could.
 If all went smoothly, the actual conference should be fun and
 painless. The main things to prepare for the conference:
 
-- [Program
-  Welcome](https://speakerdeck.com/evansuva/ccs-2017-program-chairs-welcome)
-  - you have a few minutes after the General Chair's welcome in the
+- [Program Welcome](https://speakerdeck.com/evansuva/ccs-2017-program-chairs-welcome) &mdash; you have a few minutes after the General Chair's welcome in the
   opening session to talk about the program and how it was created.x
 
-- Awards Banquet - present the Best Paper Awards and Test-of-Time
+- Awards Banquet &mdash; present the Best Paper Awards and Test-of-Time
   Award. Coordinate with the General Chair and SIGSAC Chair on how to
   present the awards.  Check that the web/social have the information
   about the awards to post.
